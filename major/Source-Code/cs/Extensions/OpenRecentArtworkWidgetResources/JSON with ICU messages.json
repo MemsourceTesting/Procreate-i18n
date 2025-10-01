@@ -1,0 +1,4010 @@
+{
+	"CheckAgreeTerms.agreeTerms": {
+		"string": "$$ $$$$$$$ $$, $$$ $$$$$ $$ $$$ {appName} {tosLink} $$$ {ppLink}."
+	},
+	"ConfirmEmail.content": {
+		"string": "$$$$$$ $$$$$ $$$$ $$$$$ $$ $$$$$$ $$$$ $$$$$$$."
+	},
+	"ConfirmEmail.resendConfirmation": {
+		"string": "$$$$$$"
+	},
+	"ConfirmEmail.title": {
+		"string": "$$$$$$$ $$$$ $$$$$"
+	},
+	"CustomFilter.filterBy": {
+		"string": "$$$$$$ $$"
+	},
+	"CustomFilter.keywordsLabel": {
+		"string": "$$$$ $ $$$$ $$ $$$$$$$$ $$$$$$$$$ $$ $$$$$$"
+	},
+	"CustomFilter.selectValueLabel": {
+		"string": "$$$$$$ $$$$$"
+	},
+	"CustomTeamTaskFilter.anyValue": {
+		"string": "$$$ $$$$$ $$ $$$",
+		"developer_comment": "$$$$$ $$$ $$$$$$ $$$$$ $$$$$$$$$$$$$ $$ $$$$$ $$$$$$$$$ $$ $$$$ $$ $$$$$$$$ $$$$ $$$ $$$$$ $$$"
+	},
+	"CustomTeamTaskFilter.choiceFilter": {
+		"string": "\"{field}\" $$$ $$$$$ {value}",
+		"developer_comment": "$$$$$ $$$ $$$$$$ $$$$$ $$$$ $$$$$$$$ $$ $$$$ $$$$$$$$ $$$$$$$$ $$$$$$$$ $$$$$"
+	},
+	"CustomTeamTaskFilter.entityMetadataLabel": {
+		"string": "$$$$$$ $$$$$$$$",
+		"developer_comment": "$$$$$ $$$ $$$$$ $$ $$$$$$ $$$$$$$$ $$$$$$$$ $$ $$$$$$ $$"
+	},
+	"CustomTeamTaskFilter.entityTaskLabel": {
+		"string": "$$$$$$ $$$$",
+		"developer_comment": "$$$$$ $$$ $$$$$ $$ $$$$$$ $$$$$$$$ $$$$ $$ $$$$$$ $$"
+	},
+	"CustomTeamTaskFilter.metadataChoiceLabel": {
+		"string": "$$$$$$$$ $$$ $$$$$$$$ $$$$$",
+		"developer_comment": "$$$$$ $$$ $$$$$$ $$$$$ $$$$$$$$$$$$$ $$ $$$$$ $$$$$$$$$ $$ $$$$$$$$ $$$$$"
+	},
+	"CustomTeamTaskFilter.metadataTextLabel": {
+		"string": "$$$$$$$$ $$$$$",
+		"developer_comment": "$$$$$ $$$ $$$$$$ $$$$$ $$ $$$$$ $$$$$$$$$$$$$ $$$$$$$$$ $$ $$$$$$$$ $$$$$$$"
+	},
+	"CustomTeamTaskFilter.noValue": {
+		"string": "$$ $$$$$ $$ $$$",
+		"developer_comment": "$$$$$ $$$ $$$$$$ $$$$$ $$$$$$$$$$$$$ $$ $$$$$ $$$$$$$$$ $$ $$$$ $$ $$$$$$$$ $$$$ $$ $$$$$ $$$"
+	},
+	"CustomTeamTaskFilter.taskChoiceLabel": {
+		"string": "$$$$ $$$ $$$$$$$$ $$$$$$",
+		"developer_comment": "$$$$$ $$$ $$$$$$ $$$$$ $$$$$$$$$$$$$ $$ $$$$$ $$$$$$$$$ $$ $$$$ $$$$$$"
+	},
+	"CustomTeamTaskFilter.taskTextLabel": {
+		"string": "$$$$ $$$$$$",
+		"developer_comment": "$$$$$ $$$ $$$$$$ $$$$$ $$$$$$$$$$$$$ $$ $$$$$ $$$$$$$$$ $$ $$$$ $$$$$$$"
+	},
+	"CustomTeamTaskFilter.textAnyValue": {
+		"string": "\"{field}\" $$$$$$$$ $$$ $$$$$",
+		"developer_comment": "$$$$$ $$$ $$$$$$ $$$$$ $$$$ $$$$$$$$ $$ $$$$ $$$$$$$$ $$$$$$$$ $$$ $$$$$"
+	},
+	"CustomTeamTaskFilter.textFilter": {
+		"string": "\"{field}\" $$$$$$$$ {value}",
+		"developer_comment": "$$$$$ $$$ $$$$$$ $$$$$ $$$$ $$$$$$$$ $$ $$$$ $$$$$$$$ $$$$$$$$ $$$$$$$"
+	},
+	"CustomTeamTaskFilter.textNoValue": {
+		"string": "\"{field}\" $$$$$$$$ $$ $$$$$",
+		"developer_comment": "$$$$$ $$$ $$$$$$ $$$$$ $$$$ $$$$$$$$ $$ $$$$ $$$$$$$$ $$$$$$$$ $$ $$$$$"
+	},
+	"FilterPopup.close": {
+		"string": "$$$$"
+	},
+	"ImportedReports.title": {
+		"string": "$$$$$$$$ $$$$$$$"
+	},
+	"ItemHistoryDialog.title": {
+		"string": "$$$$ $$$$$$$"
+	},
+	"MultiSelector.all": {
+		"string": "$$$"
+	},
+	"MultiSelector.search": {
+		"string": "$$$$$$…"
+	},
+	"SearchFieldChannel.label": {
+		"string": "$$$$$$$ $$",
+		"developer_comment": "$$$$$$ $$$$$ $$$ $$$$$ $$ $$$$$$ $$ $$$$ $$$$$$$"
+	},
+	"UserConfirmPage.alreadyConfirmed": {
+		"string": "$$$$$$$ $$$$$$$ $$$$$$$$$",
+		"developer_comment": "$$$$$$$ $$$ $$$$$$$$ $$$$$$$ $$$$$$$$$"
+	},
+	"UserConfirmPage.confirmed": {
+		"string": "$$$$$$$ $$$$$$$$$",
+		"developer_comment": "$$$$$$$ $$$ $$$$$$$$$ $$$$$$$$"
+	},
+	"UserConnectedAccount.addAnother": {
+		"string": "$$$ $$$$$$$ $$$$$$$"
+	},
+	"UserConnectedAccount.connectButton": {
+		"string": "$$$$$$$"
+	},
+	"UserConnectedAccount.disconnectAccountConfirmationText": {
+		"string": "$$$ $$$ $$$$? $$$$ $$$$ $$$$$$$$$$ $$$$$ $$$$$$$."
+	},
+	"UserConnectedAccount.disconnectAccountTitle": {
+		"string": "$$$$$$$$$$ $$$$$$$"
+	},
+	"UserConnectedAccount.disconnectButton": {
+		"string": "$$$$$$$$$$"
+	},
+	"UserMenu.about": {
+		"string": "$$$$$"
+	},
+	"UserMenu.pp": {
+		"string": "$$$$$$$ $$$$$$"
+	},
+	"UserMenu.signOut": {
+		"string": "$$$$ $$$"
+	},
+	"UserMenu.tos": {
+		"string": "$$$$$ $$ $$$$$$$"
+	},
+	"UserMenu.training": {
+		"string": "$$$$$$$$ $$$ $$$$$$$$$$$$$"
+	},
+	"UserMenu.userSettings": {
+		"string": "$$$$ $$$$$$$$"
+	},
+	"UserPrivacy.deleteAccount": {
+		"string": "$$$$$$ $$$$$$$"
+	},
+	"UserSecurity.passwordError": {
+		"string": "$$$$$$$$$ $$$$$$$$"
+	},
+	"UserSecurity.passwordInput": {
+		"string": "$$$$$$$ $$$$$$$$"
+	},
+	"UserSecurity.verifyError": {
+		"string": "$$$$$$$$$ $$$$$$$$$$ $$$$"
+	},
+	"UserSecurity.verifyInput": {
+		"string": "$$$$$$$$$$ $$$$"
+	},
+	"UserUtil.admin": {
+		"string": "$$$$$"
+	},
+	"UserUtil.collaborator": {
+		"string": "$$$$$$$$$$$$"
+	},
+	"UserUtil.editor": {
+		"string": "$$$$$$"
+	},
+	"addAnnotation.addImage": {
+		"string": "$$$ $$ $$$$$"
+	},
+	"addAnnotation.error": {
+		"string": "$$$$$, $$ $$$$$ $$$$$$$$ $$$$$ $$$$$$$$ $$$ $$$$. $$$$$$ $$$ $$$$$ $$$ $$$$$$$ {supportEmail} $$ $$$ $$$$$$$$$ $$$$$$$$."
+	},
+	"addAnnotation.inputHint": {
+		"string": "$$$ $ $$$$"
+	},
+	"addAnnotation.invalidCommand": {
+		"string": "$$$$$$$ $$$$$$$"
+	},
+	"addAnnotation.submitButton": {
+		"string": "$$$$$$"
+	},
+	"addFilterMenu.addFilter": {
+		"string": "$$$ $$$$$$",
+		"developer_comment": "$$$$$$ $$$$ $$$$$ $$$$ $$$$ $$$$$$ $$$$$ $$$$$$$"
+	},
+	"addFilterMenu.assignedTo": {
+		"string": "$$$$$$$$$$",
+		"developer_comment": "$$$$ $$$$$$ $$ $$$$$$ $$$$$$$$$ $$$$$ $$ $$$$$$$$ $$$$$"
+	},
+	"addFilterMenu.channel": {
+		"string": "$$$$$$$",
+		"developer_comment": "$$$$ $$$$$$ $$ $$$$$$ $$$$$$$$$ $$$$$ $$ $$$$$$$"
+	},
+	"addFilterMenu.collection": {
+		"string": "$$$$$$$$$$",
+		"developer_comment": "$$$$ $$$$$$ $$ $$$$$$ $$$$$$$$$ $$$$$ $$ $$$$$$$$$$"
+	},
+	"addFilterMenu.createdBy": {
+		"string": "$$$$$$$ $$",
+		"developer_comment": "$$$$ $$$$$$ $$ $$$$$$ $$$$$$$$$ $$$$$ $$ $$$$$$"
+	},
+	"addFilterMenu.filterBy": {
+		"string": "$$$$$$ $$",
+		"developer_comment": "$$$$$$ $$ $$$$ $$ $$$$$$ $$$$$ $$$$$"
+	},
+	"addFilterMenu.folder": {
+		"string": "$$$$$$",
+		"developer_comment": "$$$$ $$$$$$ $$ $$$$$$ $$$$$$$$$ $$$$$ $$ $$$$$$"
+	},
+	"addFilterMenu.itemStatus": {
+		"string": "$$$$ $$$$$$",
+		"developer_comment": "$$$$ $$$$$$ $$ $$$$$$ $$$$$$$$$ $$$$$ $$ $$$$ $$$$$$"
+	},
+	"addFilterMenu.language": {
+		"string": "$$$$$$$$",
+		"developer_comment": "$$$$ $$$$$$ $$ $$$$$$ $$$$$$$$$ $$$$$ $$ $$$$$$$$"
+	},
+	"addFilterMenu.mediaType": {
+		"string": "$$$$$ $$$$",
+		"developer_comment": "$$$$ $$$$$$ $$ $$$$$$ $$$$$$$$$ $$$$$ $$ $$$$$ $$$$"
+	},
+	"addFilterMenu.metadata": {
+		"string": "$$$$$$$$",
+		"developer_comment": "$$$$ $$$$$$ $$ $$$$$$ $$$$$$$$$ $$$$$ $$ $$$$$$$$ $$$$$$"
+	},
+	"addFilterMenu.reportStatus": {
+		"string": "$$$$$$ $$$$$$",
+		"developer_comment": "$$$$ $$$$$$ $$ $$$$$$ $$$$$$$$$ $$$$$ $$ $$$$$$ $$$$$$"
+	},
+	"addFilterMenu.source": {
+		"string": "$$$$$$",
+		"developer_comment": "$$$$ $$$$$$ $$ $$$$$$ $$$$$$$$$ $$$$$ $$ $$$$$$"
+	},
+	"addFilterMenu.tag": {
+		"string": "$$$",
+		"developer_comment": "$$$$ $$$$$$ $$ $$$$$$ $$$$$$$$$ $$$$$ $$ $$$$"
+	},
+	"addFilterMenu.timeRange": {
+		"string": "$$$$ $$$$$",
+		"developer_comment": "$$$$ $$$$$$ $$ $$$$$$ $$$$$$$$$ $$$$$ $$ $$$$ $$$$$"
+	},
+	"addLanguageAction.addLanguage": {
+		"string": "$$$ $$$$$$$$"
+	},
+	"addLanguageAction.newLanguage": {
+		"string": "$$$ $$$$$$$$"
+	},
+	"addLanguageAction.optionLabel": {
+		"string": "{languageName} ({languageCode})"
+	},
+	"addLanguageAction.selectLanguage": {
+		"string": "$$$$$$ $ $$$$$$$$"
+	},
+	"addLanguageAction.title": {
+		"string": "$$$$$$ $ $$$ $$$$$$$$"
+	},
+	"annotation.acceptSuggestion": {
+		"string": "$$$$$$"
+	},
+	"annotation.addedComment": {
+		"string": "$$$$ $$$$ $$$$$ $$ {author}: {title}{note}"
+	},
+	"annotation.archiverError": {
+		"string": "$$$$$, $$$ $$$$$$$$$ $$$$$ $$$$$$$$ $$$$$ $$$$$$$$$ $$$ $$$$ $$ {name}: \"{message}\". $$$$$$ $$$$$$$ $$$ $$$$ $$ $$$ $$$$$ $$$ $$$$$$$ {supportEmail} $$ $$$ $$$$$$$$$ $$$$$$$$."
+	},
+	"annotation.archiverSuccess": {
+		"string": "$$ $$$$ $$$$ $$$$ $$$$ $$$$$$$, $$$ $$$ <a href=\"{link}\" target=\"_blank\" rel=\"noopener noreferrer\">$$$$$$ $ $$$$$$ $$ {name}</a>."
+	},
+	"annotation.archiverWait": {
+		"string": "$$$$ $$$$ $$ $$$$$ $$$$$$$$ $$ {name}. $$$ $$$$$$$ $$$$ $$$$ $$ $$$$$$$$$ $$$$ $$$$ $$'$ $$$$$."
+	},
+	"annotation.assignmentChanged": {
+		"string": "$$$$ $$$$$$$$ $$ {assigneeTo} $$ {author}: {title}"
+	},
+	"annotation.assignmentRemoved": {
+		"string": "$$$$ $$$$$$$$$$ $$$$ {assigneeFrom} $$ {author}: {title}"
+	},
+	"annotation.changedJsonSchema": {
+		"string": "$$$$ $$$$$$ $$ $$$$ {title} $$$$$$$ $$ {author}"
+	},
+	"annotation.deleteButton": {
+		"string": "$$$$$$"
+	},
+	"annotation.deletedComment": {
+		"string": "$$$$$$$ $$$$$$$ $$ {author}: {comment}"
+	},
+	"annotation.embedCodeCopied": {
+		"string": "$$ $$$$$ $$$$ $$ $$$ $$$$ $$$ $$$$ $$$$$$$$$ $$$ $$$$$$. $$$ $$$$ $$$ $$$ $$ $$$$$$$$ $$$$$$$$."
+	},
+	"annotation.embedLabelRemoved": {
+		"string": "$$$$ $$$$$ $$$$$$$ $$ {author}: {title}"
+	},
+	"annotation.embedLabelUpdated": {
+		"string": "$$$$ $$$$$ $$$$$$ $$ {author}: {title}"
+	},
+	"annotation.embedNoteCreated": {
+		"string": "$$$$ $$$$$$$$$$$ $$$$$ $$ {author}: {description}"
+	},
+	"annotation.embedNoteRemoved": {
+		"string": "$$$$ $$$$$$$$$$$ $$$$$$$ $$ {author}: {description}"
+	},
+	"annotation.embedNoteUpdated": {
+		"string": "$$$$ $$$$$$$$$$$ $$$$$$ $$ {author}: {description}"
+	},
+	"annotation.flag": {
+		"string": "$$$$$$$$$$$$$$ $$$$$$:"
+	},
+	"annotation.flagAdult": {
+		"string": "$$$$$"
+	},
+	"annotation.flagLikelihood0": {
+		"string": "$$$$$$$"
+	},
+	"annotation.flagLikelihood1": {
+		"string": "$$$$ $$$$$$$$"
+	},
+	"annotation.flagLikelihood2": {
+		"string": "$$$$$$$$"
+	},
+	"annotation.flagLikelihood3": {
+		"string": "$$$$$$$$"
+	},
+	"annotation.flagLikelihood4": {
+		"string": "$$$$$$"
+	},
+	"annotation.flagLikelihood5": {
+		"string": "$$$$ $$$$$$"
+	},
+	"annotation.flagMedical": {
+		"string": "$$$$$$$"
+	},
+	"annotation.flagRacy": {
+		"string": "$$$$"
+	},
+	"annotation.flagSpam": {
+		"string": "$$$$"
+	},
+	"annotation.flagViolence": {
+		"string": "$$$$$$$$"
+	},
+	"annotation.mediaAssigned": {
+		"string": "$$$$ $$$$$$$$ $$ {name} $$ {author}"
+	},
+	"annotation.mediaAssignmentCreated": {
+		"string": "$$$$ $$$$$$$$ $$ {name} $$ {author}"
+	},
+	"annotation.mediaAssignmentDeleted": {
+		"string": "$$$$ $$$$$$$$$$ $$$$ {name} $$ {author}"
+	},
+	"annotation.mediaUnassigned": {
+		"string": "$$$$ $$$$$$$$$$ $$$$ {name} $$ {author}"
+	},
+	"annotation.menuTooltip": {
+		"string": "$$$$$$$$$$ $$$$$$$"
+	},
+	"annotation.metadataCreated": {
+		"string": "$$$$$$$$ $$$$$ $$$$$$$ $$ {author}: {fieldLabel}"
+	},
+	"annotation.metadataResponse": {
+		"string": "$$$$$$$$ $$$$$ \"{fieldLabel}\" $$$$$$ $$ {author}: {response}"
+	},
+	"annotation.movedFromTrash": {
+		"string": "$$$$$ $$$ $$ $$$$$ $$ {author}"
+	},
+	"annotation.movedToTrash": {
+		"string": "$$$$$ $$ $$$$$ $$ {author}"
+	},
+	"annotation.newReport": {
+		"string": "$$$$ $$$$$ $$ {author}"
+	},
+	"annotation.noAnnotationsYet": {
+		"string": "$$ $$$$$$$$"
+	},
+	"annotation.openInSlack": {
+		"string": "$$$$ $$ $$$$$"
+	},
+	"annotation.penderArchiveResponse": {
+		"string": "$$$$ $$$ $$$$$ $ $$$$$$$$$$ $$ $$$$ $$$."
+	},
+	"annotation.penderArchiveResponseError": {
+		"string": "$$$$$, $$ $$$$$ $$$$$$$$ $$$$$ $$$$$$ $ $$$$$$$$$$ $$ $$$ $$$$. $$$$$$ $$$$$$$ $$$ $$$$ $$ $$$ $$$$$ $$$ $$$$$$$ {supportEmail} $$ $$$ $$$$$$$$$ $$$$$$$$."
+	},
+	"annotation.penderArchiveWait": {
+		"string": "$$$ $$$$$$$$$$ $$ $$$$ $$$$ $$ $$$$$ $$$$$ $$ $$$$. $$$$ $$$$ $$ $ $$$ $$$$$$$ $$ $$$ $$."
+	},
+	"annotation.permalink": {
+		"string": "$$$$$$$$$"
+	},
+	"annotation.projectMoved": {
+		"string": "$$$$$ $$$$ $$$$$$ {previousProject} $$ {currentProject} $$ {author}"
+	},
+	"annotation.rejectSuggestion": {
+		"string": "$$$$$$"
+	},
+	"annotation.relationshipCreated": {
+		"string": "$$$$$$$ $$$$ $$$$$ $$ {author}: {title}"
+	},
+	"annotation.relationshipDestroyed": {
+		"string": "$$$$$$$ $$$$ $$$$$$$ $$ {author}: {title}"
+	},
+	"annotation.removedComment": {
+		"string": "$$$$ $$$$ $$$$$$$ $$ {author}: {title}{note}"
+	},
+	"annotation.reportReceived": {
+		"string": "$$$$$$ $$$$ $$ {date}"
+	},
+	"annotation.reportUpdateReceived": {
+		"string": "$$$$$$ $$$$$$ $$$$ $$ {date}"
+	},
+	"annotation.seeHowThisBotWorks": {
+		"string": "$$$ $$$ $$$$ $$$ $$$$$"
+	},
+	"annotation.similarCreated": {
+		"string": "$$$$$$$$$ $$$$$$$ $$ {author}: {title}"
+	},
+	"annotation.similarDestroyed": {
+		"string": "$$$$$$$$$ $$$$$$$ $$$$$$$$ $$ {author}: {title}",
+		"developer_comment": "$$$$$ $$$$ $$$ $$$$ $$$$$$$$$$ $$$$$$$$$ $$ $$$$$$$ $$$ $$$$ $$$$$$$$ $$$$ $$$$$$$ $$$$."
+	},
+	"annotation.smoochNoMessage": {
+		"string": "$$ $$$$$$$ $$$ $$$$ $$$$ $$$ $$$$$$$"
+	},
+	"annotation.statusLocked": {
+		"string": "$$$$ $$$$$$ $$$$$$ $$ {author}"
+	},
+	"annotation.statusSetHeader": {
+		"string": "$$$$$$ $$$ $$ {status} $$ {author}"
+	},
+	"annotation.statusUnlocked": {
+		"string": "$$$$ $$$$$$ $$$$$$$$ $$ {author}"
+	},
+	"annotation.suggestionAccepted": {
+		"string": "$$$$$$$$ $$ {user}"
+	},
+	"annotation.suggestionCreated": {
+		"string": "$$$$$$$$$ $$$$$ $$ {author}: {title}"
+	},
+	"annotation.suggestionDestroyed": {
+		"string": "$$$$$$$$$ $$$$$ $$$$$$$$ $$ {author}: {title}"
+	},
+	"annotation.suggestionRejected": {
+		"string": "$$$$$$$$ $$ {user}"
+	},
+	"annotation.taggedHeader": {
+		"string": "$$$$$$ #{tag} $$ {author}"
+	},
+	"annotation.taskAssignmentCreated": {
+		"string": "$$$$ $$$$$$$$ $$ {name} $$ {author}: {title}"
+	},
+	"annotation.taskAssignmentDeleted": {
+		"string": "$$$$ $$$$$$$$$$ $$$$ {name} $$ {author}: {title}"
+	},
+	"annotation.taskCreated": {
+		"string": "$$$$ $$$$$$$ $$ {author}: {task}"
+	},
+	"annotation.taskLabelUpdated": {
+		"string": "$$$$ $$$$$$ $$ {author}: {title}"
+	},
+	"annotation.taskNoteCreated": {
+		"string": "$$$$ $$$$ $$$$$ $$ {author}: {title}{note}"
+	},
+	"annotation.taskNoteUpdated": {
+		"string": "$$$$ $$$$ $$$$$$ $$ {author}: {title}{note}"
+	},
+	"annotation.taskResolve": {
+		"string": "$$$$ $$$$$$$$$ $$ {author}: {task}{response}"
+	},
+	"annotation.teamCopied": {
+		"string": "$$$$$$ $$$$ $$$$$$$$$ {previousTeam} $$ {author}"
+	},
+	"annotation.titleChanged": {
+		"string": "$$$$ $$$$$ $$$$$$ $$ {author}: {title}"
+	},
+	"annotations.loadMore": {
+		"string": "$$$$ $$$$"
+	},
+	"attribution.noResults": {
+		"string": "$$ $$$$$$$"
+	},
+	"attribution.search": {
+		"string": "$$$$$$ $$$$$$$"
+	},
+	"autoCompleteMediaItem.cantSelectPublished": {
+		"string": "$$$$$ $$$$$$ $$ $$$$$$$$ $$$$ $$$$$ $$$$ $$$$ $$$$$ $$$$$$ $$$$$$$$$"
+	},
+	"autoCompleteMediaItem.error": {
+		"string": "$$$$$, $$ $$$$$ $$$$$$$$ $$$$$ $$$$$$$$$. $$$$$$ $$$ $$$$$ $$$ $$$$$$$ {supportEmail} $$ $$$ $$$$$$$$$ $$$$$$$$."
+	},
+	"autoCompleteMediaItem.notFound": {
+		"string": "$$ $$$$$$$ $$$$$"
+	},
+	"autoCompleteMediaItem.results": {
+		"string": "{count, plural, one {# result} $$$$$ {# results}}"
+	},
+	"autoCompleteMediaItem.searchItem": {
+		"string": "$$$$$$"
+	},
+	"autoCompleteMediaItem.searchSettings": {
+		"string": "$$$$$$ $$$$$$$$"
+	},
+	"autoCompleteMediaItem.searching": {
+		"string": "$$$$$$$$$…"
+	},
+	"blankMediaButton.addItem": {
+		"string": "$$$ $$$$"
+	},
+	"blankMediaButton.addToImportedReport": {
+		"string": "$$$ $$ $$$$$$$$ $$$$$$"
+	},
+	"blankMediaButton.addToReport": {
+		"string": "$$$ $$ $$$$$$"
+	},
+	"blankMediaButton.defaultErrorMessage": {
+		"string": "$$$$$ $$$ $$$$ $$$$"
+	},
+	"browserSupport.message": {
+		"string": "{appName} $$ $$$$$$$$$ $$$ $$$$$$ $$$$$$ $$ $$$$$$$."
+	},
+	"bulkActions.cancelButton": {
+		"string": "$$$$$$"
+	},
+	"bulkActions.confirm": {
+		"string": "$$$$ $$$$ $$$$$$$$$$$"
+	},
+	"bulkActions.dialogMoveTitle": {
+		"string": "{selectedCount, plural, one {Move 1 item to folder…} $$$$$ {Move # items to folder…}}"
+	},
+	"bulkActions.move": {
+		"string": "$$$$ $$$$$$$$ $$$$$ $$ $$$$$$$ $$$$$$"
+	},
+	"bulkActions.moveTitle": {
+		"string": "$$$$ $$ $$$$$$",
+		"developer_comment": "$$$$$ $$$ $$$$$$ $$ $$$$$$ $$$$$$ $$ $$$$$$ $$$$ $$ $$$ $$$$$$$$ $$$$$$"
+	},
+	"bulkActions.moveTo": {
+		"string": "$$$$ $$…"
+	},
+	"bulkActions.moveToTrashSuccessfully": {
+		"string": "$$$$$ $$$$$ $$ $$$ $$$$$."
+	},
+	"bulkActions.movedConfirmSuccessfully": {
+		"string": "$$$$$ $$$$$ $$$$ $$$$$$$$$$$ $$ '{toProject}'",
+		"developer_comment": "$$$$$$ $$$$$$$$$ $$$$$ $$$$$ $$$ $$$$$ $$$$$$$$$$$$"
+	},
+	"bulkActions.movedRestoreSuccessfully": {
+		"string": "$$$$$ $$$$$ $$$$ $$$$$ $$ '{toProject}'",
+		"developer_comment": "$$$$$$ $$$$$$$$$ $$$$$ $$$$$ $$$ $$$$$ $$$$$$$$$$$$"
+	},
+	"bulkActions.movedSuccessfully": {
+		"string": "$$$$$ $$$$$ $$ '{toProject}'",
+		"developer_comment": "$$$$$$ $$$$$$$$$ $$$$$ $$$$$ $$$ $$$$$ $$$$$$$$$$$$"
+	},
+	"bulkActions.restore": {
+		"string": "$$$$$$$ $$$$ $$$$$"
+	},
+	"bulkActions.sendItemsToTrash": {
+		"string": "$$$$ $$$$$$$$ $$$$$ $$ $$$$$"
+	},
+	"bulkActions.trash": {
+		"string": "$$$$$$$ $$$$$$$$ $$$$$ $$$ $$$$ $$$$$ $$ $$$$$$$ $$$$$$"
+	},
+	"bulkActions.unconfirmed": {
+		"string": "$$$$$$$ $$$$$$$$ $$$$$ $$$ $$$$ $$$$$ $$ $$$$$$$ $$$$$$"
+	},
+	"changeMediaSource.cancelButton": {
+		"string": "$$$$$$",
+		"developer_comment": "$$$$$$ $$$$$$ $$$$$ $$$$$$ $$$$$$"
+	},
+	"changeMediaSource.choose": {
+		"string": "$$$$$$ $ $$$$$$",
+		"developer_comment": "$$$$$$ $$$$$ $$$$$$ $$$$$"
+	},
+	"changeMediaSource.createSource": {
+		"string": "$$$$$$ $$$",
+		"developer_comment": "$$$$$ $$$$ $$ $$$$$$ $ $$$ $$$$$$"
+	},
+	"changeMediaSource.saveButton": {
+		"string": "$$$$",
+		"developer_comment": "$$$$ $$$$$ $$$$$$ $$$$$"
+	},
+	"changeUserRole.changingTo": {
+		"string": "$$$ $$$$ $$ $$$$$$$$ {userLabel}'$ $$$$ $$ {newRole}."
+	},
+	"changeUserRole.dialogTitle": {
+		"string": "$$$ $$$ $$$$ $$$ $$$$ $$ $$$$$$ {userLabel}'$ $$$$ $$$$ {currentRole} $$ {newRole}?"
+	},
+	"changeUserRole.helpCenter": {
+		"string": "$$$$ $$$$$$"
+	},
+	"changeUserRole.learnMore": {
+		"string": "$$ $$$$$ $$$$ $$$$$ $$$$$$$$$$$ $$$ $$$ {newRole} $$$$, $$$ $$$ $$$$$$$ $$$$$ $$$$ $$$$$$$$$$$ $$ $$$ {helpCenterLink}."
+	},
+	"changeUserRole.proceedLabel": {
+		"string": "$$$$$$ $$$$ $$ {newRole}"
+	},
+	"confirmProceedDialog.confirmationText": {
+		"string": "$$$$ \"{text}\" $$ $$$$$$$."
+	},
+	"confirmProceedDialog.confirmationTextPlaceholder": {
+		"string": "$$$$ $$$$"
+	},
+	"confirmProceedDialog.continue": {
+		"string": "$$$$$$$$"
+	},
+	"createMedia.addItem": {
+		"string": "$$$ $$$$"
+	},
+	"createMedia.addNew": {
+		"string": "$$$ $$$ $$$$"
+	},
+	"createMedia.addNewItem": {
+		"string": "$$$ $$$ $$$$"
+	},
+	"createMedia.audio": {
+		"string": "$$$$$"
+	},
+	"createMedia.error": {
+		"string": "$$$$$, $$ $$$$$ $$$$$$$$ $$$$$ $$$$$$$$$$ $$$ $$$$. $$$$$$ $$$ $$$$$ $$$ $$$$$$$ {supportEmail} $$ $$$ $$$$$$$$$ $$$$$$$$."
+	},
+	"createMedia.existing": {
+		"string": "$$$ $$$$$$$$ $$$$"
+	},
+	"createMedia.image": {
+		"string": "$$$$$"
+	},
+	"createMedia.link": {
+		"string": "$$$$"
+	},
+	"createMedia.mediaInput": {
+		"string": "$$$$$ $$ $$$$"
+	},
+	"createMedia.quote": {
+		"string": "$$$$"
+	},
+	"createMedia.quoteInput": {
+		"string": "$$$$$ $$ $$$$ $ $$$$"
+	},
+	"createMedia.video": {
+		"string": "$$$$$"
+	},
+	"createMediaSource.createSource": {
+		"string": "$$$$$$ $$$$$$",
+		"developer_comment": "$$$$$ $$$ $$$$$$ $$ $$$$$$ $ $$$ $$$$$$"
+	},
+	"createTag.couldNotCreate": {
+		"string": "$$$$$ $$$ $$$$$$ $$$",
+		"developer_comment": "$$$$$ $$$$$$$ $$$$$$$$$ $$$$ $$'$ $$$ $$$$$$$$ $$ $$$$$$ $ $$$$ $$$"
+	},
+	"createTag.createdSuccessfully": {
+		"string": "$$$ $$$$$$$ $$$$$$$$$$$$",
+		"developer_comment": "$$$$$$$ $$$$$$$$$ $$$$ $ $$$$ $$$ $$ $$$$$$$"
+	},
+	"createTag.name": {
+		"string": "$$$$"
+	},
+	"createTag.rule": {
+		"string": "$$$$$$$$$$$$$ $$$ $$$$$ $$$$$$$$ $$$ $$$$$$$$$ $$$$$$$$$$:"
+	},
+	"createTag.title": {
+		"string": "$$$$$$ $$$ $$$"
+	},
+	"createTeamDialog.cancel": {
+		"string": "$$$$$$"
+	},
+	"createTeamDialog.create": {
+		"string": "$$$$$$"
+	},
+	"createTeamDialog.creating": {
+		"string": "$$$$$$$$…"
+	},
+	"createTeamDialog.defaultErrorMessage": {
+		"string": "$$$$$ $$$ $$$$$$ $$$ $$$$$$$$$"
+	},
+	"createTeamDialog.description": {
+		"string": "$$$ $$$$$$$$ $$$$ $$$$ $$$$$$$$$ $$$$ $$ $$$$$$$$$$. $$ $$$$$$$ $$$$ $$ $$$$$."
+	},
+	"createTeamDialog.dialogTitleCreate": {
+		"string": "$$$$$$ $$$ $$$$$$$$$",
+		"developer_comment": "$$$$$$ $$$$$ $$$ $$$$$$$$ $ $$$ $$$$$$$$$"
+	},
+	"createTeamDialog.dialogTitleDuplicate": {
+		"string": "$$$$$$$$$ $$$$$$$$$"
+	},
+	"createTeamDialog.duplicating": {
+		"string": "$$$$$$$$$$$…"
+	},
+	"createTeamDialog.duplice": {
+		"string": "$$$$$$$$$"
+	},
+	"createTeamDialog.name": {
+		"string": "$$$$$$$$$ $$$$"
+	},
+	"createTeamDialog.url": {
+		"string": "$$$$$$$$$ $$$"
+	},
+	"createTeamTask.errorMetadata": {
+		"string": "$$$$$, $$ $$$$$ $$$$$$$$ $$$$$ $$$$$$$$ $$$ $$$$$$$$ $$$$$. $$$$$$ $$$ $$$$$ $$$ $$$$$$$ {supportEmail} $$ $$$ $$$$$$$$$ $$$$$$$$."
+	},
+	"createTeamTask.errorTask": {
+		"string": "$$$$$, $$ $$$$$ $$$$$$$$ $$$$$ $$$$$$$$ $$$ $$$$. $$$$$$ $$$ $$$$$ $$$ $$$$$$$ {supportEmail} $$ $$$ $$$$$$$$$ $$$$$$$$."
+	},
+	"customAutocomplete.done": {
+		"string": "$$$$",
+		"developer_comment": "$$$$$ $$$ $$$$$$$ $$$$$$$$ $$$$ $$$$ $$ $$$$ $$$$$$$$$ $$$$"
+	},
+	"customAutocomplete.select": {
+		"string": "$$$$$$",
+		"developer_comment": "$$$$. $$$$$ $$$ $$$$$$$ $$$$$$$$ $$$$$$$$$"
+	},
+	"customFiltersManager.label": {
+		"string": "$$$$$$$$ $$",
+		"developer_comment": "$$$$$$$$$$$ $$$$$ $$$ $$$$$$$$ $$$$$ $$$$ $$$ $$$$$ $$$$$$$$$$"
+	},
+	"datetimeRespondTask.answerTask": {
+		"string": "$$$$$$ $$$$"
+	},
+	"datetimeRespondTask.cancelTask": {
+		"string": "$$$$$$"
+	},
+	"datetimeRespondTask.pickDate": {
+		"string": "$$$$ $ $$$$"
+	},
+	"datetimeRespondTask.time": {
+		"string": "$$$$ $ $$$$"
+	},
+	"datetimeRespondTask.timezone": {
+		"string": "$$$$$$ $ $$$$$$$$"
+	},
+	"datetimeTaskResponse.invalidTimestamp": {
+		"string": "$$$$$: $$$$$$$ $$$$$$$$$"
+	},
+	"datetimeTaskResponse.timeIs": {
+		"string": "$$$$ $$$$ $$$$$$$$ $$ $$$$.$$"
+	},
+	"deleteStatusDialog.itemsPublishedMessage": {
+		"string": "{publishedCount, plural, one {There  is one item currently published with the status {statusLabel}. $$ $$$ $$$$$$$$, $$$ $$$$$$$$$ $$$$$ $$$$ $$$$ $$$$$$ $$$$ $$ $$$$$$. $$$ $$$$ $$$$$$ $$$$$ $$$$$ $$ $$-$$$$$$$ $$$$.} $$$$$ {There are # items currently published with the status {statusLabel}. $$ $$$ $$$$$$$$, $$$ $$$$$$$$$ $$$$$ $$$$ $$$$ $$$$$$ $$$$ $$ $$$$$$. $$$ $$$$ $$$$$$ $$$$$ $$$$$ $$ $$-$$$$$$$ $$$$.}}"
+	},
+	"deleteStatusDialog.moveItemsTo": {
+		"string": "$$$$ $$$$$ $$"
+	},
+	"deleteStatusDialog.statusInUseMessage": {
+		"string": "{itemsCount, plural, one {There is one item with the status {statusLabel} $$$$ $$$$ $$ $$$$$$$ $$ $$$$$$$ $$$$$$ $$$$$$ $$$ $$$ $$$$$$ $$$$ $$$$$$.} $$$$$ {There are # items with the status {statusLabel} $$$$ $$$$ $$ $$$$$$$ $$ $$$$$$$ $$$$$$ $$$$$$ $$$ $$$ $$$$$$ $$$$ $$$$$$.}}"
+	},
+	"deleteStatusDialog.statusInUseTitle": {
+		"string": "{itemsCount, plural, one {You need to change the status of one item to delete this status} $$$$$ {You need to change the status of # items to delete this status}}"
+	},
+	"destinationProjects.choose": {
+		"string": "$$$$$$ $ $$$$$$"
+	},
+	"destinationProjects.empty": {
+		"string": "$$ $$$$$$$ $$ $$$$ $$$$$$$$$$"
+	},
+	"destinationProjects.none": {
+		"string": "$$$ $$ $$$ $$$$$$$$$$",
+		"developer_comment": "$$$$$ $$$$ $$$ $$$$$$$ $$$$ $$$ $$$ $$ $$$ $$$$$$$$$$"
+	},
+	"detachDialog.cancelButton": {
+		"string": "$$$$$$",
+		"developer_comment": "$$$$$$ $$ $$$$$$$ $$$ $$$$$$"
+	},
+	"detachDialog.detached": {
+		"string": "$$$$ $$ $$$$$$",
+		"developer_comment": "$$$$$$ $$ $$$$$$ $$$ $$$$$$ $$ $$$$$$ $$$$"
+	},
+	"detachDialog.dialogdetachedToListTitle": {
+		"string": "$$$$ $$$$$$$$ $$$$ $$…",
+		"developer_comment": "$$$$$$ $$$$$ $$$$$$$$$ $$$$ $$ $$$$$$ $ $$$$$$$$$$$ $$$$$$ $$$ $$$ $$$$"
+	},
+	"editStatusDialog.addButton": {
+		"string": "$$$ $$$$$$"
+	},
+	"editStatusDialog.messageDescription": {
+		"string": "$$$$ $ $$$$$$$ $$ $$$ $$$$ $$$ $$$$$$$$$ $$$ $$$$ $$$$ $$$ $$$$$$ $$ $$$$ $$ $$$$ $$$$$$.",
+		"developer_comment": "$$$$$$$$$$$$ $$$$$$$$$$$ $$$ $$$$$$$$$$$$$$$$.$$$$$$$$$$$$$$$$$$$"
+	},
+	"editStatusDialog.saveStatusMessage": {
+		"string": "$$$ $$$$$$$$$ $$$$$$ $$$$ $$$$ $$$$$$ $$$$ $$ $$$$$$$ $$$$ $$$ $$$ $$$$$ $$$ $$$$$$.",
+		"developer_comment": "$$$$$$$$$$$$ $$$$$$ $$$$$$$$$$$"
+	},
+	"editStatusDialog.saveStatusTitle": {
+		"string": "$$$$ $$$$$$",
+		"developer_comment": "$$$$$$$$$$$$ $$$$$$ $$$$$. '$$$$' $$$$ $$ $$ $$$$$$$$$$ $$$$."
+	},
+	"editStatusDialog.statusDescription": {
+		"string": "$$$$$$$$$$$"
+	},
+	"editStatusDialog.statusMessage": {
+		"string": "$$$$$$$"
+	},
+	"editStatusDialog.statusTitle": {
+		"string": "$$$$$$ ({maxLength} $$$$$$$$$$ $$$)"
+	},
+	"editStatusDialog.title": {
+		"string": "$$$ $ $$$ $$$$$$"
+	},
+	"editStatusDialog.titleEdit": {
+		"string": "$$$$ $$$$$$"
+	},
+	"editStatusDialog.toggleStatusMessage": {
+		"string": "$$$$ $$$$$$$ $$ $$$$$$$$$",
+		"developer_comment": "$$$$$$$$ $$$$$$ $$ $$$$ $ $$$$$$$ $$ $$$ $$$$ $$$ $$$$$$$$$ $$$ $$$$"
+	},
+	"editTaskDialog.editMetadata": {
+		"string": "$$$$ $$$$$$$$ $$$$$"
+	},
+	"editTaskDialog.editTask": {
+		"string": "$$$$ $$$$"
+	},
+	"editTaskDialog.newMetadata": {
+		"string": "$$$ $$$$$$$$ $$$$$"
+	},
+	"editTaskDialog.newTask": {
+		"string": "$$$ $$$$"
+	},
+	"fetchBot.contactUs": {
+		"string": "$$$$$$$ $$ $$ $$$$$"
+	},
+	"fileUploadRespondTask.answerTask": {
+		"string": "$$$$$$ $$$$"
+	},
+	"fileUploadRespondTask.cancelTask": {
+		"string": "$$$$$$"
+	},
+	"footer.madeBy": {
+		"string": "$$$$$: $$$$$$ $$$$$$$$ $$$$ $$$$$$. $$$$ $$$$ ✨ $$ {meedan}"
+	},
+	"geoLocationRespondTask.error": {
+		"string": "$$$$$, $$ $$$$$ $$$$$$$$ $$$$$ $$$$$$$$ $$$ $$$$. $$$$$$ $$$ $$$$$ $$$ $$$$$$$ {supportEmail} $$ $$$ $$$$$$$$$ $$$$$$$$."
+	},
+	"geoLocationRespondTask.invalidCoords": {
+		"string": "$$$$$$$ $$$$$$$$$$$"
+	},
+	"geoLocationRespondTask.notFound": {
+		"string": "$$$$$, $$$$ $$$$$ $$$ $$$ $$$$$. $$$$$$ $$$ $$$$$$$ $$$$$$."
+	},
+	"geoLocationRespondTask.searching": {
+		"string": "$$$$$$$$$…"
+	},
+	"geolocationRespondTask.answerTask": {
+		"string": "$$$$$$ $$$$"
+	},
+	"geolocationRespondTask.cancelTask": {
+		"string": "$$$$$$"
+	},
+	"geolocationRespondTask.coordinates": {
+		"string": "$$$$$$$$, $$$$$$$$$"
+	},
+	"geolocationRespondTask.placeName": {
+		"string": "$$$$$$$$$ $$$$$ $$$$"
+	},
+	"geolocationRespondTask.searchMap": {
+		"string": "$$$$$$ $$$ $$$"
+	},
+	"global.appNameHuman": {
+		"string": "$$$$$"
+	},
+	"global.bestViewed": {
+		"string": "$$$$ $$$$$$ $$$$ <a href=\"https://www.google.com/chrome/browser/desktop/\">$$$$$$ $$$ $$$$$$$</a>."
+	},
+	"global.cancel": {
+		"string": "$$$$$$"
+	},
+	"global.close": {
+		"string": "$$$$$"
+	},
+	"global.confirm": {
+		"string": "$$$$$$$"
+	},
+	"global.delete": {
+		"string": "$$$$$$"
+	},
+	"global.edit": {
+		"string": "$$$$"
+	},
+	"global.ok": {
+		"string": "$$"
+	},
+	"global.save": {
+		"string": "$$$$"
+	},
+	"global.submit": {
+		"string": "$$$$$$"
+	},
+	"global.submitting": {
+		"string": "$$$$$$$$$$…"
+	},
+	"global.tags": {
+		"string": "$$$$"
+	},
+	"global.unknownError": {
+		"string": "$$$$$, $$ $$$$$ $$$$$$$$. $$$$$$ $$$ $$$$$ $$$ $$$$$$$ {supportEmail} $$ $$$ $$$$$$$$$ $$$$$$$$."
+	},
+	"global.update": {
+		"string": "$$$$$$"
+	},
+	"headerActions.signIn": {
+		"string": "$$$$ $$"
+	},
+	"home.invalidExpiredInvitation": {
+		"string": "$$$$$, $$$ $$$$$$$$$$ $$$ $$$$$$$$ $$$ $$$$$$$. $$$$$$ $$$$$$$ {supportEmail} $$ $$$ $$$$$ $$$$ $$ $$ $$$$$."
+	},
+	"home.invalidInvitation": {
+		"string": "$$$$$, $$ $$$$$ $$$$$$$$ $$$$$ $$$$$$$$$$ $$$$ $$$$$$$$$$. $$$$$$ $$$$$$$ {supportEmail}."
+	},
+	"home.invalidNoInvitation": {
+		"string": "$$$$$, $$$ $$$$$$$$$$ $$$ $$$$$$$$ $$$ $$$ $$$$$. $$$$$$ $$$$$$$ {supportEmail} $$ $$$ $$$$$ $$$$ $$ $$ $$$$$."
+	},
+	"home.invalidTeamInvitation": {
+		"string": "$$$$$, $$$ $$$$$$$$$ $$ $$$$$ $$$ $$$$ $$$$$$$ $$$ $$$ $$$$$. $$$$$$ $$$$$$$ {supportEmail} $$ $$$ $$$$$ $$$$ $$ $$ $$$$$."
+	},
+	"home.somethingWrong": {
+		"string": "$$$$$, $$ $$$$$ $$$$$$$$. $$$$$$ $$$$$$$ $$$$ $$$$$$$ $$$ $$$$$$$ {supportEmail} $$ $$$ $$$$$$$$$ $$$$$$$$."
+	},
+	"home.successInvitation": {
+		"string": "$$$$$$$ $$ {appName}. $$$$$$ $$$$$ $$$$ $$$ $$$$$$$$ $$$$ $$$ $$$$$$$$ $$ $$$ $$$$$$$ $$$$$."
+	},
+	"inviteDialog.invitationSent": {
+		"string": "$$$$$$$ $$$$!",
+		"developer_comment": "$$$$$$$ $$$$$$$$$$$$ $$$$$$$$$$ $$$$ $$$$$$$$$$$ $$$$ $$$$ $$ $$$$$"
+	},
+	"inviteDialog.sentOtherInvitation": {
+		"string": "$$$ $$$$$ $$$$$$$ $$$$ $$$$ $$$$$$$$$$$$",
+		"developer_comment": "$$$$$$$ $$$$$$$$$ $$$$ $$$$ $$$$$ $$$$$$$$ $$$$$$$$$$$ $$$ $$$$ $$$$$$ $$$$ $$$ $$$$$$ $$$$$$$"
+	},
+	"inviteDialog.submit": {
+		"string": "$$$$$$",
+		"developer_comment": "$$$$$$ $$ $$$$$$ $$$$$$$$$$$."
+	},
+	"inviteDialog.textInputLabel": {
+		"string": "$$$$$ $$$$$$$$$, $$$$$ $$$$$$$$$",
+		"developer_comment": "$$$$$ $$ $$$$$ $$$ $$$$$$$ $$$$$$. $$$$$$$$ $$$$ $$$$$$$$ $$$$$$ $$ $$$$$$$ $$$$$$$$$ $$ $$$$$."
+	},
+	"inviteDialog.title": {
+		"string": "$$$$$$ $$$$$$$$$ $$$$$$$",
+		"developer_comment": "$$$$$$ $$$$$ $$$ $$$$$$$$ $$$$$$$ $$ $$$$$$$$$"
+	},
+	"inviteNewAccount.createAccount": {
+		"string": "$$$$$$ $$$$$$$",
+		"developer_comment": "$$$$$$ $$$$$$ $$$ $$$$$$ $ $$$ $$$$$$$"
+	},
+	"inviteNewAccount.createMessage": {
+		"string": "$$$ $$$$ $$ $$$$$$ $$ $$$$$$$ $$$ <b>{email}</b>",
+		"developer_comment": "$$$$$$ $$$$ $$ $$$$$$ $ $$$ $$$$$$$ $$$ $$$$$$"
+	},
+	"inviteNewAccount.invitedBy": {
+		"string": "{name} $$$ $$$$$$$ $$$ $$ $$$$ $$$ $$$$$$$$$"
+	},
+	"inviteNewAccountemailLabel": {
+		"string": "$$$$$",
+		"developer_comment": "$$$$$ $$$ $$$$ $$$$$ $$$$$"
+	},
+	"inviteNewAccountnameLabel": {
+		"string": "$$$$",
+		"developer_comment": "$$$$$ $$$ $$$$ $$$$ $$$$$"
+	},
+	"inviteNewAccountpasswordConfirmLabel": {
+		"string": "$$$$$$$$ $$$$$$$$$$$$",
+		"developer_comment": "$$$$$ $$$ $$$$$$$$ $$$$$$$$$$$$ $$$$$"
+	},
+	"inviteNewAccountpasswordLabel": {
+		"string": "$$$$$$$$ ($$$$$$$ 8 $$$$$$$$$$)",
+		"developer_comment": "$$$$$ $$$ $$$$$$$$ $$$$$"
+	},
+	"inviteNewAccounttosMissing": {
+		"string": "$$$ $$$$ $$$$$ $$ $$$ $$$$$ $$ $$$$$$$ $$$ $$$$$$$ $$$$$$",
+		"developer_comment": "$$$$$ $$$$$$$ $$$ $$$$$ $$$$$ $$$ $$$$$$$ $$$$$$$ $$$$$"
+	},
+	"languageListItem.default": {
+		"string": "{language} ($$$$$$$)"
+	},
+	"languageListItem.deleteConfirmationText": {
+		"string": "$$$$$$ {language} $$$ $$$ $$$$$$$"
+	},
+	"languagePickerDialog.optionLabel": {
+		"string": "{languageName} ({languageCode})"
+	},
+	"languagePickerDialog.selectLanguage": {
+		"string": "$$$$$$ $ $$$$$$$$"
+	},
+	"languagePickerDialog.title": {
+		"string": "$$$$$$ $ $$$$$$$$"
+	},
+	"languagePickerDialog.unknownLanguage": {
+		"string": "$$$$$$$ $$$$$$$$"
+	},
+	"languageSwitcher.makeDefault": {
+		"string": "$$$ $$ $$$$$$$ $$$$$$$$ $$$ $$$$ $$$$"
+	},
+	"languageSwitcher.primaryLanguage": {
+		"string": "($$$$$$$)"
+	},
+	"languagesComponent.blurb": {
+		"string": "$$$ $$$ $$$$$$$$$ $$ $$$$ $$$$$$$$$ $$ $$$$$ $$ $$$$$$ $$$$$$$, $$$$$$$ $$$$ $$$ $$$$$$$$ $$ $$$$$$$$ $$$$$$$$$ $$$$ $$$$$$$$$$$$$ $$$$ $$$$$."
+	},
+	"languagesComponent.title": {
+		"string": "$$$$$$$$$"
+	},
+	"list.Demand": {
+		"string": "$$$$$$$$"
+	},
+	"list.FirstSeen": {
+		"string": "$$$$$$$$$"
+	},
+	"list.Item": {
+		"string": "$$$$"
+	},
+	"list.LastSeen": {
+		"string": "$$$$ $$$$$$$$$"
+	},
+	"list.LinkedItems": {
+		"string": "$$$$$$$ $$$$$"
+	},
+	"list.ShareCount": {
+		"string": "$$ $$$$$$"
+	},
+	"list.Status": {
+		"string": "$$$$$$"
+	},
+	"list.Type": {
+		"string": "$$$$"
+	},
+	"list.commentCount": {
+		"string": "$$ $$$$$$$$"
+	},
+	"list.folder": {
+		"string": "$$$$$$",
+		"developer_comment": "$$$$$ $$$$$$ $$$ $$$$$$ $$$$ $$$$$ $$$ $$$$$$ $$$$$ $$ $$$$ $$ $$"
+	},
+	"list.mediaPublishedAt": {
+		"string": "$$$$$ $$$$$$$$$"
+	},
+	"list.reactCount": {
+		"string": "$$ $$$$$$$$$"
+	},
+	"list.relatedCount": {
+		"string": "$$$$$$$"
+	},
+	"list.reportStatus": {
+		"string": "$$$$$$ $$$$$$"
+	},
+	"list.suggestionsCount": {
+		"string": "$$$$$$$$$ $$$$$$$"
+	},
+	"list.tags": {
+		"string": "$$$$"
+	},
+	"list.updated": {
+		"string": "$$$$$$$"
+	},
+	"login.alreadyHasAccount": {
+		"string": "$$$$$$$ $$$$ $$ $$$$$$$ ?"
+	},
+	"login.contactSupport": {
+		"string": "$$$ $$$$$$$ $$$$$$$ <a href=\"mailto:{supportEmail}\">{supportEmail}</a>."
+	},
+	"login.emailLabel": {
+		"string": "$$$$$"
+	},
+	"login.emailLogin": {
+		"string": "$$, $$$$ $$ $$$$ $$$$ $$$$$"
+	},
+	"login.nameLabel": {
+		"string": "$$$$"
+	},
+	"login.newAccount": {
+		"string": "$$$'$ $$$$ $$ $$$$$$$ ?"
+	},
+	"login.otpAttemptLabel": {
+		"string": "$$$-$$$$$$ $$$$$$$$$$$$$$ $$$$$"
+	},
+	"login.passwordConfirmLabel": {
+		"string": "$$$$$$$$ $$$$$$$$$$$$"
+	},
+	"login.passwordInputHint": {
+		"string": "$$$$$$$$"
+	},
+	"login.passwordLabel": {
+		"string": "$$$$$$$$ ($$$$$$$ 8 $$$$$$$$$$)"
+	},
+	"login.registerTitle": {
+		"string": "$$$$$$$$"
+	},
+	"login.signIn": {
+		"string": "$$$$ $$",
+		"developer_comment": "$$$$ $$ $$$$$$ $$$$$"
+	},
+	"login.signInLink": {
+		"string": "$$$$ $$",
+		"developer_comment": "$$$$$$ $$$$$. $$$$$$$$ $$$$ '$$$$$$ $$$ $$$$$$$' $$ '$$$$$$$ $$' $$$$"
+	},
+	"login.signUp": {
+		"string": "$$$$ $$",
+		"developer_comment": "$$$$ $$ $$$$$$ $$$$$"
+	},
+	"login.signUpLink": {
+		"string": "$$$$ $$",
+		"developer_comment": "$$$$$$ $$$$$. $$$$$$$$ $$$$ '$$$$$$$ $$' $$ '$$$$$$ $$$ $$$$$$$' $$$$"
+	},
+	"login.title": {
+		"string": "$$$$ $$"
+	},
+	"login.tosMissing": {
+		"string": "$$$ $$$$ $$$$$ $$ $$$ $$$$$ $$ $$$$$$$ $$$ $$$$$$$ $$$$$$"
+	},
+	"login.withGoogle": {
+		"string": "$$$$ $$ $$$$ $$$$$$"
+	},
+	"loginEmail.lostPassword": {
+		"string": "$$$$$$ $$$$ $$$$$$$$?"
+	},
+	"media.normalSpeed": {
+		"string": "$$$$$$ $$$$$"
+	},
+	"media.typeAudio": {
+		"string": "$$$$$"
+	},
+	"media.typeBlank": {
+		"string": "$$$$$$$$ $$$$$$"
+	},
+	"media.typeClaim": {
+		"string": "$$$$"
+	},
+	"media.typeImage": {
+		"string": "$$$$$"
+	},
+	"media.typeLink": {
+		"string": "$$$$"
+	},
+	"media.typeVideo": {
+		"string": "$$$$$"
+	},
+	"mediaActions.assignOrUnassign": {
+		"string": "$$$$$$ $$…"
+	},
+	"mediaActions.history": {
+		"string": "$$$$ $$$$$$$"
+	},
+	"mediaActions.lockStatus": {
+		"string": "$$$$ $$$$$$"
+	},
+	"mediaActions.refresh": {
+		"string": "$$$$$$$"
+	},
+	"mediaActions.sendToTrash": {
+		"string": "$$$$ $$ $$$$$"
+	},
+	"mediaActions.tooltip": {
+		"string": "$$$$ $$$$$$$"
+	},
+	"mediaActions.unlockStatus": {
+		"string": "$$$$$$ $$$$$$"
+	},
+	"mediaActionsBar.assignmentNotes": {
+		"string": "$$$$$"
+	},
+	"mediaActionsBar.assignmentNotesTitle": {
+		"string": "$$$ $ $$$$ $$ $$$ $$$$$"
+	},
+	"mediaActionsBar.assignmentTitle": {
+		"string": "$$$$$$ $$$$ $$ $$$$$$$$$$$$$"
+	},
+	"mediaActionsBar.assignmentsUpdated": {
+		"string": "$$$$$$$$$$$ $$$$$$$ $$$$$$$$$$$$"
+	},
+	"mediaActionsBar.cancelButton": {
+		"string": "$$$$$$"
+	},
+	"mediaActionsBar.confirmTo": {
+		"string": "$$$$$$$"
+	},
+	"mediaActionsBar.dialogMoveTitle": {
+		"string": "$$$$ $$ $ $$$$$$$$$ $$$$$$"
+	},
+	"mediaActionsBar.dialogRestoreOrConfirmToListTitle": {
+		"string": "$$$$ $$$$ $$ $$$$$$…"
+	},
+	"mediaActionsBar.move": {
+		"string": "$$$$"
+	},
+	"mediaActionsBar.moveTo": {
+		"string": "$$$$ $$…"
+	},
+	"mediaActionsBar.movedConfirmBack": {
+		"string": "$$$$$$$$$, $$$$$$$$$$$…"
+	},
+	"mediaActionsBar.movedRestoreBack": {
+		"string": "$$$$$$$$ $$$$ $$$$$, $$$$$$$$$$$…"
+	},
+	"mediaActionsBar.movedToTrash": {
+		"string": "$$$ $$$$ $$$ $$$$$ $$ {trash}"
+	},
+	"mediaActionsBar.publishedReport": {
+		"string": "$$$$$$$$$ $$$$$$"
+	},
+	"mediaActionsBar.restoreOrConfirm": {
+		"string": "$$$$ $$ $$$$$$"
+	},
+	"mediaActionsBar.restoreTo": {
+		"string": "$$$$$$$ $$$$ $$$$$"
+	},
+	"mediaActionsBar.unpublishedReport": {
+		"string": "$$$$$$$$$$$ $$$$$$"
+	},
+	"mediaAnalysis.analysis": {
+		"string": "$$$$$$$$"
+	},
+	"mediaAnalysis.confirmButtonLabel1": {
+		"string": "$$$$$ $$$$$$ $$$ $$$$$$ $$$$$$$"
+	},
+	"mediaAnalysis.confirmButtonLabel2": {
+		"string": "$$$$$$$$$ $$$$$$ $$$$$$$"
+	},
+	"mediaAnalysis.confirmText1": {
+		"string": "$$$ $$$$ $$ $$$$$ $$$$$ $$$$ $$$$$$ $$ $$$$$ $$ $$$$ $$. $$ $$$ $$$$ $$ $$$$$ $$$ $$$$$$ $$$ $$$$$$ $$ $$$$ $$$ $$$ $$$$$$$?"
+	},
+	"mediaAnalysis.confirmText2": {
+		"string": "$$ $$$ $$$$ $$ $$$$$$ $$$ $$$$$$ $$$$ $$$$ $$$ $$$$$$$? $$$ $$$$$$$ $$$$$$$$$ $$ $$$ $$$$$$ $$$$ $$ $$$$."
+	},
+	"mediaAnalysis.confirmTitle1": {
+		"string": "$$$$$$$ $$$$$$ $$ $$$$$$$$$"
+	},
+	"mediaAnalysis.confirmTitle2": {
+		"string": "$$$$$$$$$ $$$$$$$$ $$$$$$ $$$$$$$?"
+	},
+	"mediaAnalysis.content": {
+		"string": "$$$$$$$"
+	},
+	"mediaAnalysis.copyToReport": {
+		"string": "$$$$ $$ $$$$$$"
+	},
+	"mediaAnalysis.copying": {
+		"string": "$$$$$$$…"
+	},
+	"mediaAnalysis.date": {
+		"string": "$$$$$$$$$ $$$$$$$ $$$$"
+	},
+	"mediaAnalysis.error": {
+		"string": "$$$$$ $$$ $$$$! $$$$ $$$$ {ago}"
+	},
+	"mediaAnalysis.publishedArticle": {
+		"string": "$$$$$$$$$ $$$$$$$ $$$"
+	},
+	"mediaAnalysis.saved": {
+		"string": "$$$$$ {ago}"
+	},
+	"mediaAnalysis.saving": {
+		"string": "$$$$$$…"
+	},
+	"mediaAnalysis.title": {
+		"string": "$$$$$"
+	},
+	"mediaComments.noNote": {
+		"string": "$$ $$$$"
+	},
+	"mediaComponent.answered": {
+		"string": "$$$$$$$$$"
+	},
+	"mediaComponent.metadata": {
+		"string": "$$$$$$$$"
+	},
+	"mediaComponent.notes": {
+		"string": "$$$$$"
+	},
+	"mediaComponent.related": {
+		"string": "$$$$$$$"
+	},
+	"mediaComponent.requests": {
+		"string": "$$$$$$$$"
+	},
+	"mediaComponent.source": {
+		"string": "$$$$$$"
+	},
+	"mediaComponent.tasks": {
+		"string": "$$$$$"
+	},
+	"mediaComponent.timelineTab": {
+		"string": "$$$$$$$$"
+	},
+	"mediaComponent.verificationTasks": {
+		"string": "$$$$ $$$$$"
+	},
+	"mediaDetail.trash": {
+		"string": "$$$$$"
+	},
+	"mediaExpanded.extractedText": {
+		"string": "$$$$ $$$$$$$$$ $$$$ $$$$$:",
+		"developer_comment": "$$$$$ $$$ $$$$ $$$$$$$$$ $$$$ $$$ $$$$$ $$$$$"
+	},
+	"mediaExpanded.firstSeen": {
+		"string": "$$$$$ $$$$:"
+	},
+	"mediaExpanded.lastSeen": {
+		"string": "$$$$ $$$$:"
+	},
+	"mediaExpanded.noExtractedText": {
+		"string": "$$ $$$$ $$$$$$$$$ $$$$ $$$$ $$$$$",
+		"developer_comment": "$$$$$ $$$$ $$$$ $$$$$$$$$ $$$$ $$ $$$$$ $$ $$$ $$$$$$$$$"
+	},
+	"mediaExpanded.requests": {
+		"string": "{count, plural, one {# request} $$$$$ {# requests}}"
+	},
+	"mediaExpandedArchives.archives": {
+		"string": "$$$$$$$$:"
+	},
+	"mediaExpandedMetadata.comments": {
+		"string": "$$ $$$$$$$$"
+	},
+	"mediaExpandedMetadata.publishedOn": {
+		"string": "$$$$$$$$$ $$"
+	},
+	"mediaExpandedMetadata.reactions": {
+		"string": "$$ $$$$$$$$$"
+	},
+	"mediaExpandedMetadata.shares": {
+		"string": "$$ $$$$$$"
+	},
+	"mediaItem.addedBy": {
+		"string": "$$$$$ $$ {name}"
+	},
+	"mediaItem.confirmedBy": {
+		"string": "$$$$$$$$$ $$ {name}"
+	},
+	"mediaItem.detach": {
+		"string": "$$$$$$"
+	},
+	"mediaItem.detachedSuccessfully": {
+		"string": "$$$$ $$$$$$$$ $$ '{toProject}'",
+		"developer_comment": "$$$$$$ $$$$$$$$$ $$$$$ $$$$$ $$$ $$$$$$$$ $$$$$$$$$$$$"
+	},
+	"mediaItem.doneRedirecting": {
+		"string": "$$$$, $$$$$$$$$$$ $$ $$$ $$$$ $$$$…"
+	},
+	"mediaItem.error": {
+		"string": "$$$$$, $$$$$$ $$$ $$$$$"
+	},
+	"mediaItem.lastSubmitted": {
+		"string": "$$$$ $$$$$$$$$ {timeAgo}",
+		"developer_comment": "$$$$ $$$$$$$ $$ $ $$$$$$$$ $$$$, $$$ $$$$$$$, '10 $$$$$$$ $$$' $$ '$$$$$$$$$'"
+	},
+	"mediaItem.pinAsMain": {
+		"string": "$$$ $$ $$$$"
+	},
+	"mediaItem.pinning": {
+		"string": "$$$$$$$…"
+	},
+	"mediaItem.reportPaused": {
+		"string": "$$$$$$"
+	},
+	"mediaItem.reportPublished": {
+		"string": "$$$$$$$$$"
+	},
+	"mediaItem.reportUnpublished": {
+		"string": "$$$$$$$$$$$"
+	},
+	"mediaItem.requests": {
+		"string": "{count, plural, one {# request} $$$$$ {# requests}}"
+	},
+	"mediaItem.similarMedia": {
+		"string": "{count, plural, one {# similar media} $$$$$ {# similar media}}"
+	},
+	"mediaLanguageChip.error": {
+		"string": "$$$$$, $$ $$$$$ $$$$$$$$ $$$$$ $$$$$$$$ $$$ $$$$$$$$. $$$$$$ $$$ $$$$$ $$$ $$$$$$$ {supportEmail} $$ $$$ $$$$$$$$$ $$$$$$$$."
+	},
+	"mediaMetadata.ImageSearch": {
+		"string": "$$$$$$ $$$$$ $$$$$$"
+	},
+	"mediaMetadata.Timeline": {
+		"string": "$$$$$$$$"
+	},
+	"mediaMetadata.download": {
+		"string": "$$$$$$$$"
+	},
+	"mediaRelatedComponent.addSimilar": {
+		"string": "$$$ $$$$$$$$"
+	},
+	"mediaRelatedComponent.count": {
+		"string": "{count, plural, one {# related item} $$$$$ {# related items}}"
+	},
+	"mediaRelatedComponent.defaultErrorMessage": {
+		"string": "$$$$$ $$$ $$$ $$$$$$$ $$$$"
+	},
+	"mediaRelatedComponent.dialogTitle": {
+		"string": "$$$ $$$$$$$$"
+	},
+	"mediaRelatedComponent.savedSuccessfully": {
+		"string": "$$$$$$$ $$$$ $$$$$ $$$$$$$$$$$$"
+	},
+	"mediaRelatedComponent.submitButton": {
+		"string": "{count, plural, one {Add relation for one item} $$$$$ {Add relation for # items}}"
+	},
+	"mediaRequests.allRequests": {
+		"string": "{count, plural, one {# request across all media} $$$$$ {# requests across all media}}"
+	},
+	"mediaRequests.noRequest": {
+		"string": "$$ $$$$$$$$"
+	},
+	"mediaRequests.thisRequests": {
+		"string": "{count, plural, one {# request} $$$$$ {# requests}}"
+	},
+	"mediaSearch.error": {
+		"string": "$$$$$, $$$ $$$$$$$$$ $$$$$ $$$$$$$$: {message}. $$$$$$ $$$$$$$ $$$ $$$$ $$ $$$ $$$$$ $$$ $$$$$$$ {supportEmail} $$ $$$ $$$$$$$$$ $$$$$$$$."
+	},
+	"mediaSearch.itemWentAway": {
+		"string": "$$$ $$$$$"
+	},
+	"mediaSearch.nextItem": {
+		"string": "$$$$ $$$$"
+	},
+	"mediaSearch.previousItem": {
+		"string": "$$$$$$$$ $$$$"
+	},
+	"mediaSearch.xOfY": {
+		"string": "{current} $$ {total}"
+	},
+	"mediaSimilarities.allSimilarMedia": {
+		"string": "$$$$$$$",
+		"developer_comment": "$$$$$$$$$, $$$$$$. $$$$$$$ $$$ $ $$$$ $$ $$$$$$$ $$$$$"
+	},
+	"mediaSimilarities.clickOnItem": {
+		"string": "$$$$$ $$ $$ $$$$"
+	},
+	"mediaSimilarities.mainItem": {
+		"string": "$$$$",
+		"developer_comment": "$$$$$$$$$, $$$$$$$$. $$$$$$ $$ $$$ $$$$ $$$$, $$ $$$$$$$ $$ $$$$$ $$$$$$$ $$$$$"
+	},
+	"mediaSimilarities.notes": {
+		"string": "$$$$$"
+	},
+	"mediaSimilarities.requests": {
+		"string": "$$$$$$$$"
+	},
+	"mediaSimilarityBarAdd.addAsSimilar": {
+		"string": "$$$$$$ $$$ $$$$$"
+	},
+	"mediaSimilarityBarAdd.addSimilar": {
+		"string": "$$$ $$$$$$$"
+	},
+	"mediaSimilarityBarAdd.addSimilarItem": {
+		"string": "{count, plural, one {Import all media from one item} $$$$$ {Import all media from # items}}"
+	},
+	"mediaSimilarityBarAdd.addSimilarToThis": {
+		"string": "$$$$$$ $$$$$$$ $$$$$ $$$$ $$$$ $$$$"
+	},
+	"mediaSimilarityBarAdd.addSimilarToThisTitle": {
+		"string": "$$$$$$ $$$$$$$ $$$$$ $$$$ $$$$$ $$$$$"
+	},
+	"mediaSimilarityBarAdd.addThisToSimilar": {
+		"string": "$$$$$$ $$$ $$$$$ $$ $$$$$$$ $$$$"
+	},
+	"mediaSimilarityBarAdd.addThisToSimilarTitle": {
+		"string": "$$$$$$ $$$ $$$$$ $$ $$$$$$$ $$$$"
+	},
+	"mediaSimilarityBarAdd.addToImportedReport": {
+		"string": "$$$ $$ $$$$$$$$ $$$$$$"
+	},
+	"mediaSimilarityBarAdd.defaultErrorMessage": {
+		"string": "$$$$$ $$$ $$$ $$$$$$$ $$$$",
+		"developer_comment": "$$$$$$$ $$$$$$$$$ $$ $$ $$$$$ $$$$$$$$ $$$$ $$$$$$ $ $$$$$$$ $$$$"
+	},
+	"mediaSimilarityBarAdd.exportTooltip": {
+		"string": "$$$$$ $$$$ $$$$ $$$$ $$$$$$ $$ $$$$$$$$ $$ $$$$ $$$$ $$ $$$$$$$$ $$ $ $$$$ $$$$ $$ $$ $$$ $$$$$$ $$ $$$$$$$$$"
+	},
+	"mediaSimilarityBarAdd.savedSuccessfully": {
+		"string": "$$$$$$$ $$$$ $$$$$ $$$$$$$$$$$$",
+		"developer_comment": "$$$$$$ $$$$$$$$$ $$$$ $$$$$$$ $$$$ $$ $$$$$ $$$$$$$$$$$$"
+	},
+	"mediaSimilarityBarComponent.back": {
+		"string": "$$$$"
+	},
+	"mediaSimilarityBarComponent.hasMain": {
+		"string": "$$$$ $$$$$ $$$ $$$$ $$$$$ $$ $$$$$$$ $$ $$$$$$$ $$$$"
+	},
+	"mediaSimilarityBarComponent.hasSuggestedMain": {
+		"string": "$$$$ $$$$$ $$$ $$$$ $$$$$$$$$ $$ $$ $$$$$$$ $$ $$$$$$$ $$$$"
+	},
+	"mediaSimilarityBarComponent.similarMedia": {
+		"string": "$$$$$$$ $$$$$",
+		"developer_comment": "$$$$$$. $$$$$$$ $$$ $$$ $$$$$$ $$ $$$$$$$ $$$$$"
+	},
+	"mediaSimilarityBarComponent.similarMediaWithValue": {
+		"string": "{count, plural, one {# similar media} $$$$$ {# similar media}}"
+	},
+	"mediaSimilarityBarComponent.suggestedMatches": {
+		"string": "$$$$$$$$$ $$$$$",
+		"developer_comment": "$$$$$$. $$$$$$$ $$$ $$$ $$$$$$ $$ $$$$$$$$$ $$$$$"
+	},
+	"mediaSource.changeSource": {
+		"string": "$$$$$$",
+		"developer_comment": "$$$$$ $$$$ $$ $$$$$$ $ $$$$$$$ $$$$$ $$$$$$"
+	},
+	"mediaStatus.error": {
+		"string": "$$$$$, $$ $$$$$ $$$$$$$$ $$$$$ $$$$$$$$ $$$ $$$$$$. $$$$$$ $$$ $$$$$ $$$ $$$$$$$ {supportEmail} $$ $$$ $$$$$$$$$ $$$$$$$$."
+	},
+	"mediaSuggestionsComponent.back": {
+		"string": "$$$$"
+	},
+	"mediaSuggestionsComponent.goBack": {
+		"string": "$$$$ $$ $$$$ $$$$"
+	},
+	"mediaSuggestionsComponent.noNotes": {
+		"string": "$$ $$$$$"
+	},
+	"mediaSuggestionsComponent.noRequests": {
+		"string": "$$ $$$$$$$$"
+	},
+	"mediaSuggestionsComponent.noSuggestions": {
+		"string": "$$$$$ $$ $$ $$$$$$$$$ $$$$$."
+	},
+	"mediaSuggestionsComponent.notes": {
+		"string": "$$$$$"
+	},
+	"mediaSuggestionsComponent.question": {
+		"string": "$$ $$$ $$$$$$$$$ $$$$$ $$$$$$$ $$ $$$ $$$$?"
+	},
+	"mediaSuggestionsComponent.requests": {
+		"string": "$$$$$$$$"
+	},
+	"mediaSuggestionsComponent.title": {
+		"string": "{total, plural, one {{current} $$ # $$$$$$$$$ $$$$$} $$$$$ {{current} $$ # $$$$$$$$$ $$$$$$}}"
+	},
+	"metadata.cancel": {
+		"string": "$$$$$$",
+		"developer_comment": "$$$$ $$ $ $$$$$ $$$$ $$$$$$$ $$ $ $$$$$$ $$$$ $$ $$ $$$$ $$$$ $$$ $$$$ $$ $$$$$$$. $$$ $$$$$ $$$$$$$$$ $$$$ $$ $$$ $$$$ $$$$$$$ $$$$ $$$$$$, $$$ $$$$ $$$$ '$$$$$$' $$$ $$$$$$$ $$$$$$ $$$ $$$ $$$$$$$ $$$$ $$$$$$."
+	},
+	"metadata.delete": {
+		"string": "$$$$$$",
+		"developer_comment": "$$$$ $$ $ $$$$$ $$$$ $$$$$$$ $$ $ $$$$$$ $$$$ $$ $$ $$$$ $$$$ $$$ $$$$ $$$ $$$$$$. $$$ $$$$$ $$$$$$$$$ $$$$ $$ $$$ $$$$ $$$$$$$ $$$$ $$$$$$, $$$ $$$$ $$$$ $$ $$$$$$$."
+	},
+	"metadata.edit": {
+		"string": "$$$$",
+		"developer_comment": "$$$$ $$ $ $$$$$ $$$$ $$$$$$$ $$ $ $$$$$$ $$$$ $$ $$ $$$$ $$$$ $$$ $$$$ $$$ $$$$. $$$ $$$$$ $$$$$$$$$ $$$$ $$ $$$ $$$$ $$$$$$$ $$$$ $$$$$$, $$$ $$$$ $$$$ $$$$$$ $$$$$$$$."
+	},
+	"metadata.file.dropFile": {
+		"string": "$$$$ $$$ $$$$ $ $$$$ $$$$, $$ $$$$$ $$ $$$$$$ $ $$$$ ($$$ $$$$: {fileSizeLabel}, $$$$$$$ $$$$$$$$$$: {extensions})",
+		"developer_comment": "$$$$ $$$$$$$ $$$$$$$ $$ $ $$$$$$$$$, $$$$$$$$$$$ $$$ $$$$ $$$$ $$$$ $$$ $$$ $$$$$ $$$$$ $$ $$$$ $$$ $$$$ $ $$$$, $$ $$$$$ $$ $$$$ $$ $ $$$$ $$$$$$$$ $$$$. $$$$ $$$$ $$$$$ $$$$ $$$ $$$$$$$ $$$$$$$ $$$$ $$$$, $$$ $$$ $$$$$ $$$$$ $$ $$$$$ $$$$ $$$ $$$$ $$$ $$$$$$. $$$ `$$$$$$$$$$$$$` $$$$$$$$ $$$$ $$$$ $$$$$$$$$ $$$$ '1.0 $$', $$$ $$$ '$$$$$$$$$$' $$$$$$$$ $$ $ $$$$ $$ $$$$$ $$$$ $$$$$$$$$$. $$$$$$$ $$$$ $$ $$$$$$$$$."
+	},
+	"metadata.file.invalidFile": {
+		"string": "$$$$ $$ $$$ $ $$$$$ $$$$. $$$$$$ $$$ $$$$$ $$$$ $ $$$$$$$$$ $$$$.",
+		"developer_comment": "$$$$ $$$$$$$ $$$$$$$ $$$$ $ $$$$ $$$$$ $$ $$$ $$$ $$ $$$$ $$$$$ $$ $$$$ $$ $$$ $$$$ $$$$$$ $$$$$$."
+	},
+	"metadata.file.tooBig": {
+		"string": "$$$$ $$$$ $$ $$$ $$$. $$$ $$$$$$$ $$$$$$$ $$$$ $$$$ $$ {fileSizeLabel}. $$$$$$ $$$ $$$$$ $$$$ $ $$$$$$$$$ $$$$.",
+		"developer_comment": "$$$$ $$$$$$$ $$$$$$$ $$$$ $ $$$$ $$$$$ $$ $$$$$$ $ $$$$ $$$$ $$ $$$ $$$. $$$ '$$$$$$$$$$$$$' $$$$ $$$$ $$$$$$$$$ $$$$ '1.0 $$' $$$ $$$$ $$$ $$ $$$$$$$$$."
+	},
+	"metadata.file.tooManyFiles": {
+		"string": "$$$ $$$ $$$$ $$$$$$ $$$ $$$$ $$$$. $$$$$$ $$$ $$$$$$$$$ $$$ $$$$.",
+		"developer_comment": "$$$$ $$$$$$$ $$$$$$$ $$$$ $ $$$$ $$$$$ $$ $$$ $$$ $$ $$$$ $$$$$ $$ $$$$ $$ $$$ $$$$ $$$$$$ $$$$$$."
+	},
+	"metadata.file.wrongType": {
+		"string": "$$$$ $$ $$$ $$ $$$$$$$$ $$$$ $$$$. $$$$$$$$ $$$$ $$$$$ $$$$$$$: {extensions}. $$$$$$ $$$ $$$$$ $$$$ $ $$$$$$$$$ $$$$.",
+		"developer_comment": "$$$$ $$$$$$$ $$$$$$$ $$$$ $ $$$$ $$$$$ $$ $$$$$$ $ $$$$ $$$$ $$ $$$ $$$$$ $$$$ $$$$. $$$ '$$$$$$$$$$' $$$$$$$$ $$$$ $$ $ $$$$ $$ $$$$ $$$$$$$$$$ ($$$, $$$, $$$) $$$ $$$$ $$$ $$ $$$$$$$$$."
+	},
+	"metadata.location.coordinates": {
+		"string": "$$$$$$$$, $$$$$$$$$",
+		"developer_comment": "$$$$ $$ $ $$$$$ $$$$ $$$$$$$ $$ $ $$$$ $$$$$, $$$$$$$ $$ $ $$$ $$ $ $$$. $$$$ $$$$$$$$ $$$ $$$$$$$$ $$$ $$$$$$$$$ $$$$$$$$$$$ $$ $$$ $$$ $$$. $$ $$$ $$$$ $$$$$$$ $$$$$ $$$$$$$, $$$ $$$ $$$ $$$$$. $$ $$$ $$$$ $$$$$ $$$ $$$ $$$, $$$ $$$$$$$ $$$$$$ $$ $$$$$$$ $$$ $$$ $$$ $$$$$$$$."
+	},
+	"metadata.location.coordinates.helper": {
+		"string": "$$$$$$ $$ $ $$$$$-$$$$$$$$$ $$$$ $$ $$$$$$$$ $$$ $$$$$$$$$ $$$$$$$$$$$ $$$$ \"-12.9, -38.15\". $$$$ $$$ $$$ $$$ $$ $$$ $$$ $$$$$$ $$$$$$$$$$.",
+		"developer_comment": "$$$$ $$ $ $$$$$$ $$$$$$$ $$$$ $$$$$$$ $$$$ $$$$$$$ $$$$$$ $$$$ $$ $$$ '$$$$$$$$, $$$$$$$$$' $$$$ $$$$$ $$$$ $$$$$$ $$ $$$$$$ $$ $ $$$$$ $$$$ $$ $$$$$$$$ $$$ $$$$$$$$$ $$$$$$$$$$$. $$ $$$$$ $$$ $$$$ $$$$ $$$$ $$$$ $$ $$$$$$$ $$$$$ $$$$$$$$$$$ $$$ $$$$$ $$ $$$$$$$. $$ $$$$ $$$$$ $$$$ $$$$ $$$$ $$$ $$ $ $$$$ $$$$$$ $$$$ $$$ $$$$$ $$ $$$ $$$$$$ $$$ $$$ $$ $$ $$$$$$$$$$$ $$ $$$$$$$$ $$$$$$$ $$ $$$$ $$$$$."
+	},
+	"metadata.location.customize": {
+		"string": "$$$$$$$$$ $$$$$ $$$$",
+		"developer_comment": "$$$$ $$ $ $$$$$ $$$$ $$$$$$$ $$ $ $$$$ $$$$$, $$$$$$$ $$ $ $$$ $$ $ $$$. $$$ $$$$ $$$ $$$$ $$$ $$$$ $$ $$$$$ $$$$$$ $$$$ $$$ $$$$ $$$ $$$$$ $$$$ $$$ $$$$$$$. $$$$ $$$ $$$$ $$$$$$ $$$$$$$$$ $$$$$ $$$$$ $$$$."
+	},
+	"metadata.location.search": {
+		"string": "$$$$$$ $$$ $$$",
+		"developer_comment": "$$$$ $$ $ $$$$$ $$$$ $$$$$$$ $$ $ $$$$ $$$$$. $$ $$$ $$$$ $$$$$$ $$ $$$$ $ $$$$$$$$ $$$$ $$$$ $$$$$$$ $ $$$$ $$ $$$$$$$$$ $$$$$ $$$$$."
+	},
+	"metadata.save": {
+		"string": "$$$$",
+		"developer_comment": "$$$$ $$ $ $$$$$ $$$$ $$$$$$$ $$ $ $$$$$$ $$$$ $$ $$ $$$$ $$$$ $$$ $$$$ $$ $$$$$$$. $$$ $$$$$ $$$$$$$$$ $$$$ $$ $$$ $$$$ $$$$$$$ $$$$ $$$$$$, $$$ $$$$ $$$$ $$$$ $$$ $$$$$$$ $$$$ $$$$ $$$$ $$$$$$."
+	},
+	"moreLess.less": {
+		"string": "$$$$"
+	},
+	"moreLess.more": {
+		"string": "$$$$"
+	},
+	"multiSelector.cancel": {
+		"string": "$$$$$$"
+	},
+	"multiSelector.empty": {
+		"string": "$$ $$$$$ $$$$$"
+	},
+	"multiSelector.search": {
+		"string": "$$$$$$…"
+	},
+	"network.noResponse": {
+		"string": "$$$$$$'$ $$$$$$$ $$ {app}, $$$$$$ $$$$ $$$$ $$$'$$ $$$$$$$$$ $$ $$$ $$$$$$$$"
+	},
+	"network.stillWorking": {
+		"string": "$$$$$ $$$$$$$…"
+	},
+	"newProject.cancel": {
+		"string": "$$$$$$"
+	},
+	"notFound.back": {
+		"string": "$$ $$ $$ $$$$$$$ $$$$",
+		"developer_comment": "$$ $$ $$$$$$$ $$$$ $$$$$$"
+	},
+	"notFound.pageTitle": {
+		"string": "$$$$ $$$ $$$$$"
+	},
+	"notFound.text": {
+		"string": "$$ $$$ $$$ $$$$$$ $$ $$$$$$ $$ $$$$$$$$ $$$$$$$$$, $$$$$$ $$$$$$$ $$$ $$$$$$$$$ $$$$$."
+	},
+	"notFound.title": {
+		"string": "$$ $$! $$$$ $$$$ $$$$ $$$ $$$$$ $$ $$$ $$ $$$ $$$$ $$$$$$$$$$ $$$$$$.",
+		"developer_comment": "$$$ $$$$$ $$$$ $$$$$"
+	},
+	"ocrButton.defaultErrorMessage": {
+		"string": "$$$$$ $$$ $$$$$$$ $$$$ $$$$ $$$$$",
+		"developer_comment": "$$$$$$$ $$$$$$$$$ $$ $$ $$$$$ $$$$$$$$ $$$$ $$$$$$$$$$ $$$$ $$$$ $$$$$"
+	},
+	"ocrButton.inProgress": {
+		"string": "$$$$ $$$$$$$$$$ $$ $$$$$$$$…",
+		"developer_comment": "$$$$$$$ $$$$$$$$$ $$$$$ $$$$ $$ $$$$$ $$$$$$$$$ $$$$ $$ $$$$$"
+	},
+	"ocrButton.label": {
+		"string": "$$$$$$$ $$$$ $$$$ $$$$$",
+		"developer_comment": "$$$$$$ $$$$$ - $$$$ $$$$ $$$$$$ $$ $$$$$$$, $$$$ $$ $$$$$$$$$ $$$$ $$$$$"
+	},
+	"ocrButton.textExtractedSuccessfully": {
+		"string": "$$$$ $$$$$$$$$$ $$$$$$$$$",
+		"developer_comment": "$$$$$$ $$$$$$$$$ $$$$ $$$$ $$$$$$$$$$ $$$$$$$$$ $$$ $$ $$$$$ $$ $$$$"
+	},
+	"passwordChange.changePassword": {
+		"string": "$$$$$$ $$$$$$$$"
+	},
+	"passwordChange.confirmPassword": {
+		"string": "$$$$$$$ $$$$$$$$"
+	},
+	"passwordChange.currentPassword": {
+		"string": "$$$$$$$ $$$$$$$$"
+	},
+	"passwordChange.newPassword": {
+		"string": "$$$ $$$$$$$$ ($$$$$$$ {min} $$$$$$$$$$)"
+	},
+	"passwordChange.signIn": {
+		"string": "$$$ $$"
+	},
+	"passwordChange.successMsg": {
+		"string": "$$$'$$ $$$ $$$. $$$ $$$ $$$ $$$ $$ $$$$ $$$$ $$$ $$$$$$$$."
+	},
+	"passwordChange.successTitle": {
+		"string": "$$$$$$$$ $$$$$$$"
+	},
+	"passwordChange.title": {
+		"string": "$$$$$$ $$$$$$$$"
+	},
+	"passwordChange.unmatchingPasswords": {
+		"string": "$$$$$$$$$ $$$$'$ $$$$$"
+	},
+	"passwordReset.confirmedText": {
+		"string": "$$ $$$$ $$$$$ $$$$$$$ $$$$$$, $$$ $$$$ $$$$$$$ $$ $$$$$ $$$$ {adminEmail} $$$$ $$$$$$$$$$$$ $$ $$$$$ $$$$ $$$$$$$$. $$$$ $$$$ $$ $$$$'$ $$$$ $$ $$ $$$$ $$$$ $$$$$$$. $$ $$$ $$$$'$ $$$$$$$$$ $$$ $$$$$$$$ $$$$$ $$$$$$, $$$$$$$ {supportEmail}."
+	},
+	"passwordReset.email": {
+		"string": "$$$$$"
+	},
+	"passwordReset.emailNotValid": {
+		"string": "$$$$$$ $$$$$ $ $$$$$ $$$$$ $$$$$$$.",
+		"developer_comment": "$$$$$ $$$$$$$ $$$ $$$$$$$ $$$$$ $$$$$$$"
+	},
+	"passwordReset.signIn": {
+		"string": "$$$$ $$"
+	},
+	"passwordReset.text": {
+		"string": "$$$ $$$$ $$$$$$$ $$$ $$ $$$$$ $$$$ $$ $$$$ $$$$ $$$$$$$ $$$$$$$$$$$$."
+	},
+	"passwordReset.title": {
+		"string": "$$$$$ $$$$$$$$",
+		"developer_comment": "$$$$$ $$$$$$$$ $$$$ $$$$$"
+	},
+	"privacy.policy.title": {
+		"string": "$$$$$$$ $$$$$$"
+	},
+	"project.deleteMessage": {
+		"string": "$$$ $$$$$$ $$$$ $$ $$$$$$$ $$$ $$$$$$$$ $$ $$$$ $$$$$$$$$. $$$ $$$$$ $$ $$$ $$$$$$ $$$$ $$$$$ $$ $$$$$$$$$$ $$ $$$ \"$$$ $$$$$\" $$$$$$"
+	},
+	"project.name": {
+		"string": "$$$$$$"
+	},
+	"project.onlyAdmins": {
+		"string": "$$$$ $$$$$$"
+	},
+	"project.onlyAdminsAndEditors": {
+		"string": "$$$$ $$$$$$ $$$ $$$$$$$"
+	},
+	"projectActions.cancel": {
+		"string": "$$$$$$"
+	},
+	"projectActions.defaultErrorMessage": {
+		"string": "$$$$$, $$$$$$ $$$ $$$$$",
+		"developer_comment": "$$$$$$$ $$$$$ $$$$$$$ $$$$$$$$$ $$$$ $$'$ $$$ $$$$$$$$ $$ $$$$$$ $$ $$$$$$ $ $$$$$$$$$$, $$$$$$ $$ $$$$"
+	},
+	"projectActions.delete": {
+		"string": "$$$$$$",
+		"developer_comment": "'$$$$$$' $$$$ $$ $$ $$$$$$$$$$ $$$$"
+	},
+	"projectActions.move": {
+		"string": "$$$$ $$…",
+		"developer_comment": "'$$$$' $$$$ $$ $$ $$$$$$$$$$ $$$$"
+	},
+	"projectActions.moveOut": {
+		"string": "$$$$ $$$",
+		"developer_comment": "$$$$ $$$$$$ $$ $$$$ $ $$$$$$ $$$ $$ $ $$$$$$$$$$"
+	},
+	"projectActions.privacy": {
+		"string": "$$$$$$ $$$$$$",
+		"developer_comment": "'$$$$$$' $$$$ $$ $$ $$$$$$$$$$ $$$$"
+	},
+	"projectActions.privacyMessageAdmins": {
+		"string": "$$$$$$$ $$$ $$$$$$$$$$$$$ $$$$ $$$ $$ $$$$ $$ $$$ $$ $$$$$$ $$$$ $$$$$$, $$ $$$ $$$$$ $$ $$$$$$$$. $$$ $$$$$$$$$$$ $$$$ $$ $$$$$$$$$."
+	},
+	"projectActions.privacyMessageAll": {
+		"string": "$$$$$$ $$$ $$$ $$$$ $$$$$$, $$$$$$ $$$ $$$$$$$ $$$ $$$$$$$$ $$."
+	},
+	"projectActions.privacyMessageEditors": {
+		"string": "$$$$$$$$$$$$$ $$$$ $$$ $$ $$$$ $$ $$$ $$ $$$$$$ $$$$ $$$$$$, $$ $$$ $$$$$ $$ $$$$$$$$. $$$ $$$$$$$$$$$ $$$$ $$ $$$$$$$$$."
+	},
+	"projectActions.rename": {
+		"string": "$$$$$$",
+		"developer_comment": "'$$$$$$' $$$$ $$ $$ $$$$$$$$$$ $$$$"
+	},
+	"projectActions.savedSuccessfully": {
+		"string": "$$$$",
+		"developer_comment": "$$$$$$$ $$$$$$$ $$$$$$$ $$$$$$$$$ $$$$ $ $$$$$$$$$$, $$$$$$ $$ $$$$ $$ $$$$$$$ $$ $$$$$$$"
+	},
+	"projectActions.tooltip": {
+		"string": "$$$$$$$"
+	},
+	"projectAssignment.more": {
+		"string": "+{count} $$$$"
+	},
+	"projectBlankState.blank": {
+		"string": "$$$$$ $$$ $$ $$$$$ $$$$."
+	},
+	"projectGroup.deleteMessage": {
+		"string": "$$ $$$ $$$$$$ $$$$ $$$$$$$$$$, $$$ $$$$$$$ $$$$ $$$$$ $$ $$$$$$$$$$ $$$$$$$ $$ $$$ $$$$$$$$$$."
+	},
+	"projectGroup.name": {
+		"string": "$$$$$$$$$$"
+	},
+	"projectHeader.allItems": {
+		"string": "$$$ $$$$$"
+	},
+	"projectHeader.importedReports": {
+		"string": "$$$$$$$$ $$$$$$$"
+	},
+	"projectHeader.tiplineInbox": {
+		"string": "$$$$$$$ $$$$$"
+	},
+	"projectHeader.trash": {
+		"string": "$$$$$"
+	},
+	"projectHeader.unconfirmed": {
+		"string": "$$$$$$$$$$$"
+	},
+	"projectMoveDialogComponent.choose": {
+		"string": "$$$$$$ $ $$$$$$$$$$"
+	},
+	"projectMoveDialogComponent.couldNotMove": {
+		"string": "$$$$$ $$$ $$$$ $$$$$$ $$ $$$$$$$$$$",
+		"developer_comment": "$$$$$ $$$$$$$ $$$$$$$$$ $$$$ $$'$ $$$ $$$$$$$$ $$ $$$$ $$$$$$ $$ $ $$$$$$$$$$"
+	},
+	"projectMoveDialogComponent.createCollection": {
+		"string": "$$$$$$ $$$$$$$$$$"
+	},
+	"projectMoveDialogComponent.moveTitle": {
+		"string": "$$$$ $$$$$$ $$ $ $$$$$$$$$$"
+	},
+	"projectMoveDialogComponent.movedSuccessfully": {
+		"string": "$$$$$$ $$$$$ $$ $$$$$$$$$$ $$$$$$$$$$$$",
+		"developer_comment": "$$$$$$$ $$$$$$$$$ $$$$ $ $$$$$$ $$ $$$$$ $$ $ $$$$$$$$$$"
+	},
+	"projectMoveDialogComponent.newCollection": {
+		"string": "$$$ $$$$$$$$$$"
+	},
+	"projectMoveDialogComponent.noCollectionsText": {
+		"string": "$$$$$ $$$ $$ $$$$$$$$$$$ $$ {teamName}. $$$ $$$$ $$ $$$$$$ $ $$$$$$$$$$ $$$$$."
+	},
+	"projectMoveDialogComponent.noCollectionsTitle": {
+		"string": "$$$$ $$$$$$ $$ $ $$$$$$$$$$"
+	},
+	"projectMoveDialogComponent.proceedLabel": {
+		"string": "$$$$$$ $ $$$ $$$$$$$$$$"
+	},
+	"projectMoveDialogComponent.proceedLabel2": {
+		"string": "$$$$ $$ $$$$$$$$$$"
+	},
+	"projectSelector.allProjs": {
+		"string": "$$$ $$$$$$$"
+	},
+	"projectSelector.numProjs": {
+		"string": "{length, plural, one {# selected} $$$$$ {# selected}}",
+		"developer_comment": "$$$$$ $$$ $$$$$$ $$ $$$$$$$$ $$$$$$$"
+	},
+	"projects.trash": {
+		"string": "$$$$$"
+	},
+	"projects.unconfirmed": {
+		"string": "$$$$$$$$$$$"
+	},
+	"projectsComponent.allItems": {
+		"string": "$$$ $$$$$"
+	},
+	"projectsComponent.couldNotMove": {
+		"string": "$$$$$ $$$ $$$$ $$$$$$ $$ $$$$$$$$$$",
+		"developer_comment": "$$$$$ $$$$$$$ $$$$$$$$$ $$$$ $$'$ $$$ $$$$$$$$ $$ $$$$ $$$$$$ $$ $ $$$$$$$$$$"
+	},
+	"projectsComponent.createCollection": {
+		"string": "$$$$$$ $$$$$$$$$$",
+		"developer_comment": "$$$$$$ $$$$$ $$$ $$$$$$$$ $$$ $$$$$$$$$$"
+	},
+	"projectsComponent.createFolder": {
+		"string": "$$$$$$ $$$$$$",
+		"developer_comment": "$$$$$$ $$$$$ $$$ $$$$$$$$ $$$ $$$$$$"
+	},
+	"projectsComponent.createList": {
+		"string": "$$$$$$ $$$$"
+	},
+	"projectsComponent.deleteType": {
+		"string": "$$$$$$ {type}",
+		"developer_comment": "'$$$$$$' $$$$ $$ $$ $$$$$$$$$$ $$$$, $$$ '$$$$' $$$ $$ $$$$$$$$$$, $$$$$$ $$ $$$$"
+	},
+	"projectsComponent.description": {
+		"string": "$$$$$$$$$$$"
+	},
+	"projectsComponent.folders": {
+		"string": "$$$$$$$"
+	},
+	"projectsComponent.importedReports": {
+		"string": "$$$$$$$$ $$$$$$$"
+	},
+	"projectsComponent.invalidMove": {
+		"string": "$$$$$$$ $$$ $$$$ $$ $$$$$ $$ $$$$$$$$$$$",
+		"developer_comment": "$$$$$$$ $$$$$$$$$ $$$$ $ $$$$$$ $$ $$$$$ $$ $$$$$$$$$ $$$$ $$ $$$ $ $$$$$$$$$$"
+	},
+	"projectsComponent.lists": {
+		"string": "$$$$$$$$ $$$$$",
+		"developer_comment": "$$$$ $$ $$$$$ $$$$ $$$$ $$$$$$$ $$$$$$$"
+	},
+	"projectsComponent.movedSuccessfully": {
+		"string": "$$$$$$ $$$$$ $$$$$$$$$$$$",
+		"developer_comment": "$$$$$$$ $$$$$$$$$ $$$$ $ $$$$$$ $$ $$$$$ $$ $$ $$$$ $ $$$$$$$$$$"
+	},
+	"projectsComponent.newCollection": {
+		"string": "$$$ $$$$$$$$$$",
+		"developer_comment": "$$$$$$ $$$$$ $$$ $$$$$$$$ $$$ $$$$$$$$$$"
+	},
+	"projectsComponent.newCollectionErrorMessage": {
+		"string": "$$$$$ $$$ $$$$$$ $$$$$$$$$$, $$$$$$ $$$ $$$$$",
+		"developer_comment": "$$$$$ $$$$$$$ $$$$ $$$$$$$$ $$$ $$$$$$$$$$ $$$$$"
+	},
+	"projectsComponent.newCollectionMenu": {
+		"string": "$$$ $$$$$$$$$$",
+		"developer_comment": "$$$$ $$$$ $$$ $$$$$$$$ $$$ $$$$$$$$$$"
+	},
+	"projectsComponent.newCollectionSuccessMessage": {
+		"string": "$$$$$$$$$$ $$$$$$$ $$$$$$$$$$$$",
+		"developer_comment": "$$$$$$$ $$$$$$$ $$$$ $$$ $$$$$$$$$$ $$ $$$$$$$"
+	},
+	"projectsComponent.newFolder": {
+		"string": "$$$ $$$$$$",
+		"developer_comment": "$$$$$$ $$$$$ $$$ $$$$$$$$ $$$ $$$$$$"
+	},
+	"projectsComponent.newFolderErrorMessage": {
+		"string": "$$$$$ $$$ $$$$$$ $$$$$$, $$$$$$ $$$ $$$$$",
+		"developer_comment": "$$$$$ $$$$$$$ $$$$ $$$$$$$$ $$$ $$$$$$ $$$$$"
+	},
+	"projectsComponent.newFolderMenu": {
+		"string": "$$$ $$$$$$",
+		"developer_comment": "$$$$ $$$$ $$$ $$$$$$$$ $$$ $$$$$$"
+	},
+	"projectsComponent.newFolderSuccessMessage": {
+		"string": "$$$$$$ $$$$$$$ $$$$$$$$$$$$",
+		"developer_comment": "$$$$$$$ $$$$$$$ $$$$ $$$ $$$$$$ $$ $$$$$$$"
+	},
+	"projectsComponent.newList": {
+		"string": "$$$ $$$$"
+	},
+	"projectsComponent.newListErrorMessage": {
+		"string": "$$$$$ $$$ $$$$$$ $$$$, $$$$$$ $$$ $$$$$",
+		"developer_comment": "$$$$$ $$$$$$$ $$$$ $$$$$$$$ $$$ $$$$ $$$$$"
+	},
+	"projectsComponent.newListSuccessMessage": {
+		"string": "$$$$ $$$$$$$ $$$$$$$$$$$$",
+		"developer_comment": "$$$$$$$ $$$$$$$ $$$$ $$$ $$$$ $$ $$$$$$$"
+	},
+	"projectsComponent.noFolders": {
+		"string": "$$ $$$$$$$ $$ $$$$ $$$$$$$$$$",
+		"developer_comment": "$$$$$$$$$ $$$$$ $ $$$$$$$$$$ $$$$ $$$$$ $$$ $$ $$$$$$$ $$ $$"
+	},
+	"projectsComponent.privacyDialogButton": {
+		"string": "$$$$$$ $$$$$$"
+	},
+	"projectsComponent.privacyDialogOptionAdmins": {
+		"string": "$$$$ $$$$$$"
+	},
+	"projectsComponent.privacyDialogOptionAll": {
+		"string": "$$$$$$$$ $$$$ $$$$$$ $$ $$$$ $$$$$$$$$"
+	},
+	"projectsComponent.privacyDialogOptionEditors": {
+		"string": "$$$$ $$$$$$ $$$ $$$$$$$"
+	},
+	"projectsComponent.privacyDialogTitle": {
+		"string": "$$$ $$$ $$$ $$$$ $$$$$$ $$$ $$$ $$$$$$$",
+		"developer_comment": "$$$$$ $$$ $$$$$$ $$$$$$$ $$$$$$"
+	},
+	"projectsComponent.renameType": {
+		"string": "$$$$$$ {type}",
+		"developer_comment": "'$$$$$$' $$$$ $$ $$ $$$$$$$$$$ $$$$, $$$ '$$$$' $$$ $$ $$$$$$$$$$, $$$$$$ $$ $$$$"
+	},
+	"projectsComponent.tiplineInbox": {
+		"string": "$$$$$$$ $$$$$"
+	},
+	"projectsComponent.title": {
+		"string": "$$$$$"
+	},
+	"reportDesigner.addIntro": {
+		"string": "$$$ $$$$$$$ $$ $$$ $$$$$$$$$$$$"
+	},
+	"reportDesigner.addText": {
+		"string": "$$$ $$$$$$$ $$ $$$ $$$$ $$$$$$$"
+	},
+	"reportDesigner.back": {
+		"string": "$$$$ $$ $$$$$$$$$$"
+	},
+	"reportDesigner.cancelLeaveButtonLabel": {
+		"string": "$$ $$$$"
+	},
+	"reportDesigner.cancelPause": {
+		"string": "$$ $$$$"
+	},
+	"reportDesigner.cancelPublish": {
+		"string": "$$ $$$$"
+	},
+	"reportDesigner.cantPublish": {
+		"string": "$$ $$$$ $$ $$$$$$$"
+	},
+	"reportDesigner.cantPublishTitle": {
+		"string": "$$$$ $$$$$$ $$ $$$ $$$$$ $$ $$ $$$$$$$$$"
+	},
+	"reportDesigner.confirmLeaveButtonLabel": {
+		"string": "$$$$$ $$$$$$$ $$$$$$"
+	},
+	"reportDesigner.confirmLeaveText": {
+		"string": "$$$ $$$$$$$$$ $$$$ $$$$$$$ $$$$$$$. $$ $$$ $$$$$ $$$ $$$ $$$$ $$$$ $$$ $$$$$$$ $$$$$$$!"
+	},
+	"reportDesigner.confirmLeaveTitle": {
+		"string": "$$ $$$ $$$$ $$ $$$$$ $$$$$$$ $$$$$$?"
+	},
+	"reportDesigner.confirmPause": {
+		"string": "$$$$$ $$$$$$"
+	},
+	"reportDesigner.confirmPauseText": {
+		"string": "$$$$ $$$$ $$$$ $$$ $$$$$$ $$$$ $$$$$ $$$$ $$$ $$ $$$$$ $$$$$ $$ $$ $$$$$$$$$ $$$$$."
+	},
+	"reportDesigner.confirmPauseTitle": {
+		"string": "$$ $$$ $$$$ $$ $$$$$ $$$ $$$$$$?"
+	},
+	"reportDesigner.confirmPublish": {
+		"string": "$$$$$$$ $$$$$$"
+	},
+	"reportDesigner.confirmPublishSameStatus": {
+		"string": "$$$$$$$ $$$$$$$"
+	},
+	"reportDesigner.confirmPublishStatusChange": {
+		"string": "$$$$$$$ $$$$$$$ $$$ $$$$ $$$$$$$$$$"
+	},
+	"reportDesigner.confirmPublishText": {
+		"string": "{demand, plural, one {You are about to send this report to the user who has requested this item.} $$$$$ {You are about to send this report to the # users who have requested this item.}}"
+	},
+	"reportDesigner.confirmPublishText2": {
+		"string": "$$$ $$$$$$ $$$$$ $$$ $$$$$$$ $$$$ $$$$ $$$$ $$$$$$$ $$$$ $$$$$$$ $$ $$$ $$$$$$ $$$$$ $$ $$$$$$$ $$$$$$$$$."
+	},
+	"reportDesigner.confirmPublishTitle": {
+		"string": "$$$$$ $$ $$$$$$$ $$$$ $$$$$$?"
+	},
+	"reportDesigner.confirmRepublishResendText": {
+		"string": "{demand, plural, one {Because the status has changed, the updated report will be sent as a {correctionLink} $$ $$$ $$$$ $$$ $$$ $$$$$$$$ $$$ $$$$$$$$ $$$$$$$ $$ $$$$ $$$$$$.} $$$$$ {Because the status has changed, the updated report will be sent as a {correctionLink} $$ $$$ # $$$$$ $$$ $$$$ $$$$$$$$ $$$ $$$$$$$$ $$$$$$$ $$ $$$$ $$$$$$.}}"
+	},
+	"reportDesigner.confirmRepublishResendTitle": {
+		"string": "$$$$$ $$ $$$$$$$ $$$$ $$$$$$$?"
+	},
+	"reportDesigner.confirmRepublishTitle": {
+		"string": "$$$$$ $$ $$$$$$$ $$$$ $$$$$$$?"
+	},
+	"reportDesigner.content": {
+		"string": "$$$$$$$ ({max} $$$$$$$$$$ $$$)"
+	},
+	"reportDesigner.copyButtonInactive": {
+		"string": "$$$$$$"
+	},
+	"reportDesigner.copyEmbedCode": {
+		"string": "$$$$ $$$$$ $$$$"
+	},
+	"reportDesigner.copyShareUrl": {
+		"string": "$$$$ $$$$$ $$$"
+	},
+	"reportDesigner.correction": {
+		"string": "$$$$$$$$$$"
+	},
+	"reportDesigner.darkOverlay": {
+		"string": "$$$$ $$$$$$$"
+	},
+	"reportDesigner.datePublished": {
+		"string": "$$$$ $$$$$$$$$"
+	},
+	"reportDesigner.description": {
+		"string": "$$$$$$$ ({max} $$$$$$$$$$ $$$)"
+	},
+	"reportDesigner.edit": {
+		"string": "$$$$"
+	},
+	"reportDesigner.error": {
+		"string": "$$$$$, $$ $$$$$ $$$$$$$$ $$$$$ $$$$$$$$ $$$ $$$$$$ $$$$$$$$. $$$$$$ $$$ $$$$$ $$$ $$$$$$$ {supportEmail} $$ $$$ $$$$$$$$$ $$$$$$$$."
+	},
+	"reportDesigner.firstSent": {
+		"string": "$$$$$ $$$$$$$$$"
+	},
+	"reportDesigner.headline": {
+		"string": "$$$$$ ({max} $$$$$$$$$$ $$$)"
+	},
+	"reportDesigner.introduction": {
+		"string": "$$$$$$$$$$$$"
+	},
+	"reportDesigner.introductionSub": {
+		"string": "$$$ {query_date} $$$$$$$$$$$ $$ $$$$$$$ $$$ $$$$ $$ $$$ $$$$$$$$ $$$$$. $$$ {status} $$ $$$$$$$$$$$ $$$ $$$$$$ $$ $$$ $$$$$$$."
+	},
+	"reportDesigner.nothingToPreview": {
+		"string": "$$$$$ $$$$$$$$ $$$$ $$$$$$ $$ $$$$$$$ $$$$ $$$$$ $$$$ $$$ $$$$ $$$$ $$$$$$$ $$."
+	},
+	"reportDesigner.pause": {
+		"string": "$$$$$"
+	},
+	"reportDesigner.publish": {
+		"string": "$$$$$$$"
+	},
+	"reportDesigner.removeImage": {
+		"string": "$$$$$$ $$$$$"
+	},
+	"reportDesigner.reportImagePreviewTitle": {
+		"string": "$$$$$$ $$$$$$$",
+		"developer_comment": "$$$$$ $$$$$$$ $$$$$$ $$ $$$$$$ $$$$$$$ $$$ $$$ $$$$ $$ $$$$ $$$$$"
+	},
+	"reportDesigner.republishAndResend": {
+		"string": "{demand, plural, one {Also send this updated report as a {correctionLink} $$ $$$ $$$$ $$$ $$$ $$$$$$$$ $$$ $$$$$$$$ $$$$$$$ $$ $$$$ $$$$$$.} $$$$$ {Also send this updated report as a {correctionLink} $$ $$$ # $$$$$ $$$ $$$$ $$$$$$$$ $$$ $$$$$$$$ $$$$$$$ $$ $$$$ $$$$$$.}}"
+	},
+	"reportDesigner.save": {
+		"string": "$$$$"
+	},
+	"reportDesigner.sentCount": {
+		"string": "$$$$$$$ $$$$"
+	},
+	"reportDesigner.statusLabel": {
+		"string": "$$$$$$ $$$$$ ({max} $$$$$$$$$$ $$$)"
+	},
+	"reportDesigner.textError": {
+		"string": "$$$ $$$$ $$$$$$ $$$$$$$ $$$$ $$$ $$$ $$$$$$ $$ $$$$$$$ $$$ '$$$$$$ $$$$' $$$"
+	},
+	"reportDesigner.textMessage": {
+		"string": "$$$$$$ $$$$"
+	},
+	"reportDesigner.textTitle": {
+		"string": "$$$$$ ({max} $$$$$$$$$$ $$$)"
+	},
+	"reportDesigner.title": {
+		"string": "$$$$$$ $$$$ $$$$$$"
+	},
+	"reportDesigner.url": {
+		"string": "$$$$$$$ $$$ ({max} $$$$$$$$$$ $$$)"
+	},
+	"reportDesigner.useDefaultImage": {
+		"string": "$$$ $$$$$$$ $$$$$"
+	},
+	"reportDesigner.visualCard": {
+		"string": "$$$$$$ $$$$"
+	},
+	"reportDesigner.warning": {
+		"string": "$$$$$$$ — $$$$$$$ $$$$ $$$$ $$$$$$ $$$$$$$$$$$ $$ $$$$$$ $$$$$$$ $$$$ $$$$$$$ $$$$$$$$$. $$$$$$$ $$$$ $$$$$$$."
+	},
+	"reportDesignerToolbar.cantPublishDefault": {
+		"string": "$$$ $$$$$$ $$$ {language} $$$$$$ $$ $$$$$ $$$$$$$ $$ $$ $$$ $$$$$$$ $$$$$$$$. $$$ $$$$ $$$$ $$$$$$$ $$ $$$$$$ $$$$ $$ $$$$$$ $$$$ $$$ {language}. $$, $$$ $$$ $$$$$-$$$$$ $$ $$$ $$$ $$$ $$$$$$$ $$$$$$$$ $$ $$$$ $$ $$$ $$$$$$$ $$$$$$$$."
+	},
+	"reportDesignerToolbar.cantPublishInitial": {
+		"string": "$$$ $$$$ $$$$ $$ $$$$$ $$$$$$ $$$$ $$ $$$$$$ $$$$ $$$$$$$$ $$ $$$$$ $$ $$$$$$$ $$$ $$$$$$."
+	},
+	"reportDesignerToolbar.cantPublishStatus": {
+		"string": "$$$$ $$$$ $$$$$ $$$ $$$ $$$$$$$ $$$$$$ {status} $$$ $$$$ $$ $$$$$$$ $$ $ $$$$$$$$$ $$$$$$ $$$$$$ $$ $$$ $$ $$$$$$$$$."
+	},
+	"reportDesignerToolbar.cantPublishText": {
+		"string": "$$$ $$$$ $$$$$$$ $$$$ $$ $$$ $$$$$$$ $$ $$$$$ $$ $$$$$$ $$$$, $$ $$$$$$$$ $$ $$$ $$$$$$ $$$$$$ $$$$ $$ $$$$$ $$ $$$$$$$ $$$ $$$$."
+	},
+	"reportStatusCell.paused": {
+		"string": "$$$$$$"
+	},
+	"reportStatusCell.published": {
+		"string": "$$$$$$$$$"
+	},
+	"reportStatusCell.unpublished": {
+		"string": "$$$$$$$$$$$"
+	},
+	"roleSelect.admin": {
+		"string": "$$$$$"
+	},
+	"roleSelect.collaborator": {
+		"string": "$$$$$$$$$$$$"
+	},
+	"roleSelect.editor": {
+		"string": "$$$$$$"
+	},
+	"rule.copyOf": {
+		"string": "$$$$ $$ {ruleName}"
+	},
+	"ruleBody.if": {
+		"string": "$$"
+	},
+	"ruleBody.ruleName": {
+		"string": "$$$$"
+	},
+	"ruleBody.ruleNameValidation": {
+		"string": "$$$$ $$$$ $$ $$$$$$$$"
+	},
+	"ruleBody.then": {
+		"string": "$$$$"
+	},
+	"ruleOperatorWrapper.and": {
+		"string": "$$$"
+	},
+	"ruleOperatorWrapper.or": {
+		"string": "$$"
+	},
+	"ruleOperatorWrapper.removeTheAbove": {
+		"string": "$$$$$$ $$$$ $$$$$"
+	},
+	"ruleToolbar.back": {
+		"string": "$$$$"
+	},
+	"ruleToolbar.delete": {
+		"string": "$$$$$$"
+	},
+	"ruleToolbar.deleteConfirmationLabel": {
+		"string": "$$$$$$ $$$$"
+	},
+	"ruleToolbar.deleteConfirmationText": {
+		"string": "$$$ $$$$$$ $$$$ $$$$ $$$$$$."
+	},
+	"ruleToolbar.deleteConfirmationTitle": {
+		"string": "$$$ $$$ $$$$ $$$ $$$$ $$ $$$$$$ $$$$ $$$$?"
+	},
+	"ruleToolbar.duplicate": {
+		"string": "$$$$$$$$$"
+	},
+	"ruleToolbar.leaveConfirmationText": {
+		"string": "$$ $$$ $$$$$$$$, $$$ $$$$ $$$$ $$$$ $$$$$$$."
+	},
+	"ruleToolbar.leaveConfirmationTitle": {
+		"string": "$$$$$ $$$$$$$ $$$$$$?"
+	},
+	"ruleToolbar.more": {
+		"string": "$$$$"
+	},
+	"rulesComponent.defaultErrorMessage": {
+		"string": "$$$$$ $$$ $$$$ $$$$$"
+	},
+	"rulesComponent.savedSuccessfully": {
+		"string": "$$$$$ $$$$$ $$$$$$$$$$$$"
+	},
+	"rulesTableHead.name": {
+		"string": "$$$$",
+		"developer_comment": "$$$$$ $$$$$$ $$$ $$$$ $$$$$"
+	},
+	"rulesTableHead.updated": {
+		"string": "$$$$$$$",
+		"developer_comment": "$$$$$ $$$$$$ $$$ $$$$ $$$$$$ $$$$$"
+	},
+	"rulesTableToolbar.add": {
+		"string": "$$$ $$$$"
+	},
+	"rulesTableToolbar.delete": {
+		"string": "$$$$$$"
+	},
+	"rulesTableToolbar.deleteConfirmationLabel": {
+		"string": "{numSelected, plural, one {Delete # rule} $$$$$ {Delete # rules}}"
+	},
+	"rulesTableToolbar.deleteConfirmationText": {
+		"string": "{numSelected, plural, one {You have selected # rule for deletion. Do you want to delete it? You cannot undo this action.} $$$$$ {You have selected # rules for deletion. Do you want to delete all of them? You cannot undo this action.}}"
+	},
+	"rulesTableToolbar.deleteConfirmationTitle": {
+		"string": "$$ $$$ $$$$ $$ $$$$$$ $$$ $$$$$$$$ $$$$$?"
+	},
+	"rulesTableToolbar.save": {
+		"string": "$$$$"
+	},
+	"rulesTableToolbar.selected": {
+		"string": "{numSelected, plural, one {# selected} $$$$$ {# selected}}"
+	},
+	"rulesTableToolbar.subtitle": {
+		"string": "$$$$$$ $$$$$$$$$$$ $$ $$$$$$$$ $$$$$$$ $$$ $$$$$$$$$ $$$$ $$$$$$$$."
+	},
+	"rulesTableToolbar.title": {
+		"string": "$$$$$"
+	},
+	"saveList.cancel": {
+		"string": "$$$$$$"
+	},
+	"saveList.create": {
+		"string": "$$$$$$ $$$ $$$$",
+		"developer_comment": "'$$$$$$' $$$$ $$ $$ $$$$$$$$$$ $$$$"
+	},
+	"saveList.defaultErrorMessage": {
+		"string": "$$$$$ $$$ $$$$ $$$$, $$$$$$ $$$ $$$$$",
+		"developer_comment": "$$$$$ $$$$$$$ $$$$$$$$$ $$$$ $$'$ $$$ $$$$$$$$ $$ $$$$ $ $$$$"
+	},
+	"saveList.newList": {
+		"string": "$$$$ $$$$"
+	},
+	"saveList.saveList": {
+		"string": "$$$$ $$$$",
+		"developer_comment": "'$$$$' $$$$ $$ $$ $$$$$$$$$$ $$$$ - $$'$ $ $$$$$$ $$$$$, $$ $$$$ $$$ $$$$$$$ $$$ $$ $$$$$$$ $$$$$$$ $$ $ $$$$$$ $$$$$$ $$ $ $$$$"
+	},
+	"saveList.savedSuccessfully": {
+		"string": "$$$$ $$$$$ $$$$$$$$$$$$",
+		"developer_comment": "$$$$$$$ $$$$$$$ $$$$$$$$$ $$$$ $ $$$$ $$ $$$$$"
+	},
+	"saveList.title": {
+		"string": "$$$$$ $$$ $$$$ $$$$"
+	},
+	"saveList.update": {
+		"string": "$$$$ $$$$$$$ $$ $$$ $$$$ \"{listName}\"",
+		"developer_comment": "'$$$$' $$$$ $$ $$ $$$$$$$$$$ $$$$"
+	},
+	"saveTag.couldNotSave": {
+		"string": "$$$$$ $$$ $$$$ $$$",
+		"developer_comment": "$$$$$ $$$$$$$ $$$$$$$$$ $$$$ $$'$ $$$ $$$$$$$$ $$ $$$$ $ $$$$ $$$"
+	},
+	"saveTag.name": {
+		"string": "$$$$"
+	},
+	"saveTag.rule": {
+		"string": "$$$$$$$$$$$$$ $$$ $$$$$ $$$$$$$$ $$$ $$$$$$$$$ $$$$$$$$$$:"
+	},
+	"saveTag.save": {
+		"string": "$$$$ $$$"
+	},
+	"saveTag.savedSuccessfully": {
+		"string": "$$$ $$$$$ $$$$$$$$$$$$",
+		"developer_comment": "$$$$$$$ $$$$$$$$$ $$$$ $ $$$$ $$$ $$ $$$$$"
+	},
+	"saveTag.titleCreate": {
+		"string": "$$$$$$ $$$ $$$"
+	},
+	"saveTag.titleEdit": {
+		"string": "$$$$ $$$"
+	},
+	"savedSearch.deleteMessage": {
+		"string": "$$$ $$$ $$$$? $$$$ $$$$ $$ $$$$$$ $$$$$ $$$ $$$$$ $$ {teamName}. $$$$$ $$$$$$$$ $$, $$ $$$$ $$$$ $$ $$$$ $$ $$$$$$ $$."
+	},
+	"savedSearch.name": {
+		"string": "$$$$"
+	},
+	"search.afterDate": {
+		"string": "$$$$$",
+		"developer_comment": "$$$$$$ $$$$$$$$$ $$$$$$ $ $$$$ $$$$$$"
+	},
+	"search.allClaimsTitle": {
+		"string": "$$$ $$$$$"
+	},
+	"search.and": {
+		"string": "$$$",
+		"developer_comment": "$$$$$$$ $$$$$$$$ $$ $$ $$$$$$$ $$$$ $$$$$$$$$ $$ $$$$$$$$ $$$$"
+	},
+	"search.anyDate": {
+		"string": "$$$ $$$$",
+		"developer_comment": "$$$$ $$$$$$ $$$$$$$$$$$"
+	},
+	"search.applyFilters": {
+		"string": "$$$$$ $$$$$$",
+		"developer_comment": "$$$$$$ $$ $$$$$$$ $$$$$ $$$$ $$$$$$$$$ $$$$$$$"
+	},
+	"search.assignedTo": {
+		"string": "$$$$$$$$ $$",
+		"developer_comment": "$$$$$$ $$$$$ $$$ $$$$$ $$ $$$$$$ $$ $$$$$$$$ $$$$$"
+	},
+	"search.beforeDate": {
+		"string": "$$$ $$$$$$",
+		"developer_comment": "$$$$$$ $$$$$$$$$ $$$$$$$ $$$$$ $$$ $$$$$$ $$$$ $$$$$$$"
+	},
+	"search.categoriesHeading": {
+		"string": "$$$ $$",
+		"developer_comment": "$$$$$$ $$$$$ $$$ $$$$$ $$ $$$$$$ $$ $$$$"
+	},
+	"search.collection": {
+		"string": "$$$$$$$$$$ $$",
+		"developer_comment": "$$$$$$ $$$$$ $$$ $$$$$ $$ $$$$$$ $$ $$$$$$$$$$"
+	},
+	"search.dateLastSubmittedHeading": {
+		"string": "$$$$ $$$$$$$$$"
+	},
+	"search.datePublishedHeading": {
+		"string": "$$$$$$$$$"
+	},
+	"search.dateSubmittedHeading": {
+		"string": "$$$$$$$$$"
+	},
+	"search.dateUpdatedHeading": {
+		"string": "$$$$$$$"
+	},
+	"search.fieldAnd": {
+		"string": "$$$",
+		"developer_comment": "$$$$$$$ $$$$$$$$ '$$$' $$ $$ $$$$$$$ $$$$ $$$$$$$$$ $$ $$$$$$$$ $$$$$$"
+	},
+	"search.fieldOr": {
+		"string": "$$",
+		"developer_comment": "$$$$$$$ $$$$$$$$ '$$' $$ $$ $$$$$$$ $$$$ $$$$$$$$$ $$ $$$$$$$$ $$$$$$"
+	},
+	"search.folderHeading": {
+		"string": "$$$$$$ $$",
+		"developer_comment": "$$$$$$ $$$$$ $$$ $$$$$ $$ $$$$$$ $$ $$$$$$ $$ $$$$$ $$$$$ $$$$$$"
+	},
+	"search.help": {
+		"string": "<table>\n                      <tbody>\n                        <tr><td>+</td><td>$$$$ + $$$$</td><td>$$$$$ $$$$ $$$$ $$$$ $$$ $$$$</td></tr>\n                        <tr><td>|</td><td>$$$$ | $$$$</td><td>$$$$$ $$$$ $$$$$$ $$$$ $$ $$$$</td></tr>\n                        <tr><td>()</td><td>$$$$ + ($$$$ | $$$$$$)</td><td>$$$$$ $$$$ $$$$ $$$ $$$$ $$ $$$$$ $$$$ $$$$ $$$ $$$$$$</td></tr>\n                      </tbody>\n                    </table>\n                    <div>\n                      <a href=\"https://medium.com/meedan-user-guides/search-on-check-25c752bd8cc1\" target=\"_blank\" > $$$$$ $$$$ $$$$$ $$$$$$ $$$$$$$$$$ </a>\n                    </div>",
+		"developer_comment": "$$$$$$$$$$$$ $$$ $$$$$ $$ $$$$$$$ $$$$$$$$$ $$ $$$$$$ $$$$$"
+	},
+	"search.inputHint": {
+		"string": "$$$$$$",
+		"developer_comment": "$$$$$$$$$$$ $$$ $$$$$$ $$$$$$$$ $$$$$"
+	},
+	"search.language": {
+		"string": "$$$$$$$$ $$",
+		"developer_comment": "$$$$$$ $$$$$ $$$ $$$$$ $$ $$$$$$ $$ $$$$$$$$"
+	},
+	"search.nextPage": {
+		"string": "$$$$ $$$$"
+	},
+	"search.notInAny": {
+		"string": "$$$ $$ $$$ $$$$$$$$$$",
+		"developer_comment": "$$$$$ $$$$$$$$$ $$$$$$ $$$$$$$ $$$ $$$$$$$ $$$$ $$$ $$$ $$$$ $$ $$$ $$$$$$$$$$"
+	},
+	"search.or": {
+		"string": "$$",
+		"developer_comment": "$$$$$$$ $$$$$$$$ $$ $$ $$$$$$$ $$$$ $$$$$$$$$ $$ $$$$$$$$ $$$$"
+	},
+	"search.previousPage": {
+		"string": "$$$$$$$$ $$$$"
+	},
+	"search.reportStatus": {
+		"string": "$$$$$$ $$$$$$ $$",
+		"developer_comment": "$$$$$$ $$$$$ $$$ $$$$$ $$ $$$$$$ $$ $$$$$$ $$$$$$"
+	},
+	"search.reportStatusPaused": {
+		"string": "$$$$$$",
+		"developer_comment": "$$$$$$ $$ $ $$$$$$ $$$$$$"
+	},
+	"search.reportStatusPublished": {
+		"string": "$$$$$$$$$",
+		"developer_comment": "$$$$$$ $$ $ $$$$$$ $$$$$$"
+	},
+	"search.reportStatusUnpublished": {
+		"string": "$$$$$$$$$$$",
+		"developer_comment": "$$$$$$ $$ $ $$$$$$ $$$$$$"
+	},
+	"search.show": {
+		"string": "$$$$ $$",
+		"developer_comment": "$$$$$$ $$$$$ $$$ $$$$$ $$ $$$$$$ $$ $$$$$ $$$$"
+	},
+	"search.showAudios": {
+		"string": "$$$$$",
+		"developer_comment": "$$$$$$$$$ $$$$$ $$$$ $$$$$"
+	},
+	"search.showBlank": {
+		"string": "$$$$$$$$ $$$$$$",
+		"developer_comment": "$$$$$$$$$ $$$$$ $$$$ $$$$$$$$$$$"
+	},
+	"search.showClaims": {
+		"string": "$$$$",
+		"developer_comment": "$$$$$$$$$ $$$$$ $$$$ $$$$"
+	},
+	"search.showImages": {
+		"string": "$$$$$",
+		"developer_comment": "$$$$$$$$$ $$$$$ $$$$ $$$$$"
+	},
+	"search.showLinks": {
+		"string": "$$$$",
+		"developer_comment": "$$$$$$$$$ $$$$$ $$$$ $$$$"
+	},
+	"search.showSimilar": {
+		"string": "$$$$ $$$$$$$",
+		"developer_comment": "$$$$$ $$$$ $$ $$$$/$$$$ $$$$$$$$$ $$$$$"
+	},
+	"search.showVideos": {
+		"string": "$$$$$",
+		"developer_comment": "$$$$$$$$$ $$$$$ $$$$ $$$$$"
+	},
+	"search.statusHeading": {
+		"string": "$$$$ $$$$$$ $$",
+		"developer_comment": "$$$$$$ $$$$$ $$$ $$$$$ $$ $$$$$$ $$ $$$$$$"
+	},
+	"search.userHeading": {
+		"string": "$$$$$$$ $$",
+		"developer_comment": "$$$$$$ $$$$$ $$$ $$$$$ $$ $$$$$$ $$ $$$$ $$$$$$$"
+	},
+	"searchFieldChannel.anyTipline": {
+		"string": "$$$ $$$$$$$",
+		"developer_comment": "$$$$$$ $$$$$$ $$$$ $$$$$$ $$ $$$$$ $$$$$$$ $$$ $ $$$$$$$"
+	},
+	"searchFieldChannel.api": {
+		"string": "$$$",
+		"developer_comment": "$$$$$$ $$$$$$ $$$$ $$$$$$ $$ $$$$$ $$$$$$$ $$$ $$$ $$$"
+	},
+	"searchFieldChannel.browserExtension": {
+		"string": "$$$$$$$ $$$$$$$$$",
+		"developer_comment": "$$$$$$ $$$$$$ $$$$ $$$$$$ $$ $$$$$ $$$$$$$ $$$ $$$ $$$$$$$ $$$$$$$$$"
+	},
+	"searchFieldChannel.manual": {
+		"string": "$$$$$$",
+		"developer_comment": "$$$$$$ $$$$$$ $$$$ $$$$$$ $$ $$$$$ $$$$$$$ $$$$$$$$"
+	},
+	"searchFieldSource.label": {
+		"string": "$$$$$$ $$",
+		"developer_comment": "$$$$$$ $$$$$ $$$ $$$$$ $$ $$$$$$ $$ $$$$$$"
+	},
+	"searchFields.clear": {
+		"string": "$$$$$ $$$$$$$",
+		"developer_comment": "$$$$$$$ $$$ $$$$$$ $$ $$$$$$ $$$ $$$$$$$ $$$$$$$"
+	},
+	"searchKeyword.clear": {
+		"string": "$$$$$ $$$$$$$ $$$$$$",
+		"developer_comment": "$$$$$$$ $$$ $$$$$$ $$ $$$$$$ $$$ $$$$$$$ $$$$$$$ $$$$$$"
+	},
+	"searchKeywordConfig.accounts": {
+		"string": "$$$$$$"
+	},
+	"searchKeywordConfig.allMetadataAnswers": {
+		"string": "$$$ $$$$$$$$ $$$$$$$"
+	},
+	"searchKeywordConfig.allNotes": {
+		"string": "$$$ $$$$$"
+	},
+	"searchKeywordConfig.allTaskAnswers": {
+		"string": "$$$ $$$$ $$$$$$$",
+		"developer_comment": "$$$$ $$$$$$$ $$$$$$$ $$$$$$$ $$$$$$ $$$$$$ $$$ $$$$ $$$$$$$"
+	},
+	"searchKeywordConfig.allTaskComments": {
+		"string": "$$$ $$$$ $$$$$$$$"
+	},
+	"searchKeywordConfig.analysisContent": {
+		"string": "$$$$$$$$ $$$$$$$"
+	},
+	"searchKeywordConfig.analysisTitle": {
+		"string": "$$$$$$$$ $$$$$"
+	},
+	"searchKeywordConfig.mediaContent": {
+		"string": "$$$$$ $$$$$$$"
+	},
+	"searchKeywordConfig.mediaTitle": {
+		"string": "$$$$$ $$$$$"
+	},
+	"searchKeywordConfig.mediaUrl": {
+		"string": "$$$$$ $$$"
+	},
+	"searchKeywordConfig.metadata": {
+		"string": "$$$$$$$$"
+	},
+	"searchKeywordConfig.tags": {
+		"string": "$$$$"
+	},
+	"searchKeywordConfig.tasks": {
+		"string": "$$$$$"
+	},
+	"searchResults.itemsCount": {
+		"string": "{count, plural, one {1 / 1} $$$$$ {{from} - {to} / #}}"
+	},
+	"searchResults.withSelection": {
+		"string": "{selectedCount, plural, one {(# selected)} $$$$$ {(# selected)}}",
+		"developer_comment": "$$$$$ $$$ $$$$$$ $$ $$$$$$$$ $$$$$"
+	},
+	"sentence.lastSeparator": {
+		"string": "$$$"
+	},
+	"sentence.separator": {
+		"string": ","
+	},
+	"setSourceDialog.confirm": {
+		"string": "$$ $$$ $$$$ $$ $$$ $$$ $$$$$$$$ $$$$$$$ $$$ $$$$ $$$$$?",
+		"developer_comment": "$$$$$$$ $$$$$$$ $$ $$$$$$ $$$$$ $$ $$ $$$$$$$$ $$$$$$"
+	},
+	"setSourceDialog.existDescription": {
+		"string": "$$$ $$$$$$ <b>{name}</b> $$$$$$$ $$$$$$.",
+		"developer_comment": "$$$$ $$ $$$$$$ $$$$ $$$$$ $$$$$$$$ $$$$$$"
+	},
+	"setSourceDialog.existDescriptionWithUrl": {
+		"string": "$$$ $$$$$$ <b>{name}</b> $$$$ $$$ $$$$$$$ $$$ <b>{url}</b> $$$$$$$ $$$$$$.",
+		"developer_comment": "$$$$ $$ $$$$$$ $$$$ $$$$$ $$$$$$$$ $$$$$$"
+	},
+	"setSourceDialog.existingSource": {
+		"string": "$$$$$$$$ $$$$$$ $$$$",
+		"developer_comment": "$$$$$$ $$$$$ $$$ $$$$$$$$ $$$$$$ $$$$ $$$$ $$$$"
+	},
+	"setSourceDialog.existingSourceWithUrl": {
+		"string": "$$$$$$$$ $$$$$$ $$$",
+		"developer_comment": "$$$$$$ $$$$$ $$$ $$$$$$$$ $$$$$$ $$$$ $$$$ $$$$$$$ $$$"
+	},
+	"setSourceDialog.useExistingSource": {
+		"string": "$$$ $$$$$$$$ $$$$$$",
+		"developer_comment": "$$$$$$ $$$$$$ $$ $$$$$$ $$$$$ $$ $$ $$$$$$$$ $$$$$$"
+	},
+	"settingsHeader.save": {
+		"string": "$$$$"
+	},
+	"shortTextRespondTask.answerTask": {
+		"string": "$$$$$$ $$$$"
+	},
+	"shortTextRespondTask.cancelTask": {
+		"string": "$$$$$$"
+	},
+	"shortTextRespondTask.responseHint": {
+		"string": "$$$$$$ $$$$."
+	},
+	"similarityComponent.blurb": {
+		"string": "$$$$$$$$$$$$$ $$$$$ $$$$$ $$$$$$$$ $$ $$$$ $$$ $$$$$$$.",
+		"developer_comment": "$$$$$$$$ $$ $$$$$$$$$$ $$$$$$$$ $$$$$$$$ $$$$"
+	},
+	"similarityComponent.dateThreshold": {
+		"string": "$$$$$$$ $$$$$$$ $$$$ $$$$$$$$$ $$$$ $$$$ {maxTime} $$$$$$ $$$ $$$$ $$$$ $$ $$$$$$$$$"
+	},
+	"similarityComponent.dateThresholdSettings": {
+		"string": "$$$$$ $$$$$$$$ $$ $$$$$$$$ $$$$$$$$$ $$$$$$$",
+		"developer_comment": "$$$$$ $$$$ $$ $$$$$$/$$$$$$$ $$$$$$$$$$ $$$$$$$$ $$$$$ $$ $$$$$$$$$ $$$$"
+	},
+	"similarityComponent.masterSwitchLabelOff": {
+		"string": "$$$$$$$$$ $$$$$$$$ $$ $$$"
+	},
+	"similarityComponent.masterSwitchLabelOn": {
+		"string": "$$$$$$$$$ $$$$$$$$ $$ $$"
+	},
+	"similarityComponent.save": {
+		"string": "$$$$"
+	},
+	"similarityComponent.savedSuccessfully": {
+		"string": "$$$$$$$$$$ $$$$$$$$ $$$$$ $$$$$$$$$$$$",
+		"developer_comment": "$$$$$$ $$$$$$$$$ $$$$ $$$$$$$$$$ $$$$$$$$ $$$ $$$$$ $$$$$$$$$$$$"
+	},
+	"similarityComponent.title": {
+		"string": "$$$$$$$$$$ $$$$$$$$",
+		"developer_comment": "$$$$$ $$ $$$$$$$$$$ $$$$$$$$ $$$$$$$$ $$$$"
+	},
+	"singleChoiceTask.addOther": {
+		"string": "$$$ \"$$$$$\""
+	},
+	"singleChoiceTask.addValue": {
+		"string": "$$$ $$$$$$"
+	},
+	"singleChoiceTask.other": {
+		"string": "$$$$$"
+	},
+	"singleChoiceTask.value": {
+		"string": "$$$$$"
+	},
+	"slackConfig.text": {
+		"string": "$$$$ $$$$$$$$$$$$$ $$ $$$$$ $$$$$$$$ $$$$ $$$$$ $$$ $$$$$ $$ $$$$$$$$ $$$$$$$"
+	},
+	"slackConfigDialogComponent.allOtherActivity": {
+		"string": "$$$ $$$$$ $$$$$$$$"
+	},
+	"slackConfigDialogComponent.allWorkspaceActivity": {
+		"string": "$$$ $$$$$$$$$ $$$$$$$$"
+	},
+	"slackConfigDialogComponent.cancel": {
+		"string": "$$$$$$"
+	},
+	"slackConfigDialogComponent.channel": {
+		"string": "$$$$$ $$$$$$$"
+	},
+	"slackConfigDialogComponent.defaultErrorMessage": {
+		"string": "$$$$$ $$$ $$$$ $$$$$ $$$$$$$$"
+	},
+	"slackConfigDialogComponent.event": {
+		"string": "$$$$$"
+	},
+	"slackConfigDialogComponent.ifItemAddedTo": {
+		"string": "$$ $$$$ $$ $$ $$$$$$"
+	},
+	"slackConfigDialogComponent.new": {
+		"string": "$$$ $$$$$$$$$$$$"
+	},
+	"slackConfigDialogComponent.save": {
+		"string": "$$$$"
+	},
+	"slackConfigDialogComponent.savedSuccessfully": {
+		"string": "$$$$$ $$$$$$$$ $$$$$ $$$$$$$$$$$$"
+	},
+	"slackConfigDialogComponent.sendNotificationsTo": {
+		"string": "$$$$ $$$$$$$$$$$$$ $$"
+	},
+	"slackConfigDialogComponent.title": {
+		"string": "$$$$ $$$$$$$$$$$$$ $$ $$$$$ $$$$$$$$ $$$$ $$$$$ $$$ $$$$$ $$ $$$$$$$$ $$$$$$$"
+	},
+	"slackConfigDialogComponent.webhook": {
+		"string": "$$$$$ $$$$$$$$ $$$$$$$"
+	},
+	"smoochBot.addResource": {
+		"string": "$$$ $$$$$$$$"
+	},
+	"smoochBot.descriptionGreeting": {
+		"string": "$$$ $$$$$ $$$$$$$ $$$$ $$ $$$$ $$ $$$ $$$$. $$ $$$$$$$$$$ $$$$ $$$$$$$$$$$$ $$$ $$$ $$$$$$$ $$$ $$$$$$$ $$$$$$$ $$$$ $$$."
+	},
+	"smoochBot.descriptionInactive": {
+		"string": "$$$$ $$$$$$$ $$ $$$$ $$ $$$ $$$$ $$$$ $$$ $$$$ $ $$$$$$$ $$ $$$ $$$$$$$ $$$$ $$$ $$$$$ $$$$$$$ $$$ $$ $$$ $$ $$$$$$$$."
+	},
+	"smoochBot.descriptionInvalidFormat": {
+		"string": "$$ $$$$$$$$$ $$$$$$$ $$$$ $$ $$$ $$$$ $$$$ $$$$ $$$$ $$$$ $ $$$$ $$$$ $$ $$$ $$$$$$$$$ $$ $$$$$."
+	},
+	"smoochBot.descriptionMainMenu": {
+		"string": "$ $$$$ $$$$$$ $$$ $$$$ $$ $$$$$$ $$$$$$$ $ $$$ $$ $$$$$$$. $$$$ $$$$$$$ $$$$$$$$$$$$$ $$$$$$$ $$$ $$$$$$$$ $$$$$$$. 9 $$$$$$ $$ $$$$ $$ $$ $$$$$$ $$ $$$ $$$$ $$$$."
+	},
+	"smoochBot.descriptionNoAction": {
+		"string": "$$$$ $$$$$$$ $$$$ $$ $$$$ $$ $$$$$ $$, $$$$$ $ $$$$$$$$$$$$ $$ $$$$$$$$$, $$$$ $$ $$$ $$$$$$ $$$$$$ $$$$$$: $$$$$$$ $ $$$$$$$$ $$ $$$$$$ $$$$$$$ $$ $$$$$$. $$$$ $$$$$$$ $$$$ $$$$ $$ $$$$ $$ $$$$$ $$$ $$$$$$$$$ $$$$$$$ $$$$$$$ $$$$$$$ $$$ $$$ $$$$$ $$$$$$."
+	},
+	"smoochBot.descriptionOptionNotAvailable": {
+		"string": "$$$ $$$$$$$ $$$$ $$ $$$ $$$$ $$$$$$$$ $$ $ $$$$ $$ $$$ $ $$$$$ $$$$ $$$$$$$$."
+	},
+	"smoochBot.descriptionPrivacyStatementContent": {
+		"string": "$$$$$$$ $$$$$$$$$ $$$$$$$. $$$$ $$$ $$$$ $$$$$, $$ $$$$$$$ $$ $$$$ $$$$$$ $$$$$$$."
+	},
+	"smoochBot.descriptionPrivacyStatementGreeting": {
+		"string": "$$ $$$$$$$, $$$ $$$$$$$$$ $$$$$$$ $$$$$$$$$ $$ $$$$$$$$$ $$ $$$ $$$$$. $$$$ $$$$$$$$$ $$ $$$$ $ $$$$$$ $$$, $$$ $$$$ $$ $$ $$$ $$$$ $$$$$$$$ $$$$ $$$ $$ $$$$$$ $$."
+	},
+	"smoochBot.descriptionPrivacyStatementGreeting2": {
+		"string": "$$$ $$$$$$ '9' $$$$ $$ $$$$$$$$$$ $$$ $$$$$ $$ $$$$$$ $$$ $$$$$$$ $$$$$$$$$ $$ $$$ $$$$ $$$$."
+	},
+	"smoochBot.descriptionQueryPrompt": {
+		"string": "$$$ $$$$$$$ $$$$$$ $$$ $$$$ $$ $$$$$$ $$$$$$$ $$$ $ $$$$-$$$$$."
+	},
+	"smoochBot.descriptionQueryReceived": {
+		"string": "$$$ $$$$$$$$$$$$ $$$$ $$ $$$ $$$$ $$$$$ $ $$$$$ $$$$$ $$$$ $$$ $$$$ $$$ $$$$ $$$$$$$$."
+	},
+	"smoochBot.descriptionReportUpdated": {
+		"string": "$$$ $$$$$$$ $$$$ $$ $$$ $$$$ $$$$ $$$$$$ $$ $ $$$$$$ $$$ $$$$$$$. $$$ $$$$$$ $$$$ $$ $$$$$$$$$ $$$ $$$$ $$$$$$$ $$ $$ $$$$."
+	},
+	"smoochBot.descriptionSecondaryMenu": {
+		"string": "$$ $$$$$$$$ $$$$ $$$$$$ $$$ $$$$ $$ $$$$$$ $$$$ $ $$$ $$ $$$$$$$. $$$$ $ $$$$ $$$$$$$ $$$$ $$$ $$ $$$ $$$$$$$, $$$ $$$ $$$ $$$$ $ $$$$$$ $$ $$$$$$ $$$$ $$ $$$$$$$ $$$ $$$$$$$."
+	},
+	"smoochBot.footnoteGreeting": {
+		"string": "$$$ $$$$$$$$$ $$$$$$$$$ $$$ $$$$$$ $$$$ $$ $$$$$$$$$$$$$ $$$$$ $$ $$$ $$$ $$ $$$$ $$$$$$$: '$$ $$$$ $$$$$ $$$$$ $$$$ $$$$$$$$$$ $$$$$$$$$$$$ $$$$$$$$$$$. $$$$$ 9 $$ $$$$ $$$ $$$$$$$ $$$ $$$$$$$ $$$$$$$$$'."
+	},
+	"smoochBot.footnoteGreeting2": {
+		"string": "$$$ $$$$$$$ $$$$$$$ $$$$$$$$$ $$$ $$ $$$$$$$$ $$$$ $ $$$$$$ $$$ $$$$$ $$$ $$$$$$ '$$$$$$$ $$$$$$$$$' $$ $$$$ $$$$."
+	},
+	"smoochBot.labelGreeting": {
+		"string": "$$$$$$$$"
+	},
+	"smoochBot.labelInactive": {
+		"string": "$$$$$$ $$ $$$$$$$$$$"
+	},
+	"smoochBot.labelInvalidFormat": {
+		"string": "$$$$$$$ $$$$$$"
+	},
+	"smoochBot.labelMainMenu": {
+		"string": "$$$$ $$$$"
+	},
+	"smoochBot.labelNoAction": {
+		"string": "$$ $$$$$$ $$$$ $$$$"
+	},
+	"smoochBot.labelOptionNotAvailable": {
+		"string": "$$$$$$ $$$ $$$$$$$$$"
+	},
+	"smoochBot.labelPrivacyStatement": {
+		"string": "$$$$$$$ $$$$$$$$$"
+	},
+	"smoochBot.labelQueryPrompt": {
+		"string": "$$$$$ $$$$$$"
+	},
+	"smoochBot.labelQueryReceived": {
+		"string": "$$$$$ $$$$$$$$"
+	},
+	"smoochBot.labelReportUpdated": {
+		"string": "$$$$$$ $$$$$$$"
+	},
+	"smoochBot.labelSecondaryMenu": {
+		"string": "$$$$$$$$$ $$$$"
+	},
+	"smoochBot.menuKeywords": {
+		"string": "$$$$$$$$ $$$$$$$$$ $$ $$$$$"
+	},
+	"smoochBot.newResourceTitle": {
+		"string": "$$$ $$$ $$$$$$$$"
+	},
+	"smoochBot.placeholderGreeting": {
+		"string": "$$! $$$$$$$ $$ [$$$$ $$ $$$$ $$$$$$$$$$$$]’$ $$$$-$$$$$$$$ $$$."
+	},
+	"smoochBot.placeholderInactive": {
+		"string": "❌$$$$$ $$$ $$$ $$$$ $$$$$$$. $$$ $$$$-$$$$$$$$ $$$$$$$ $$ $$$$$$$$$ *$$$$$$$$.* $$$$$$$ $$ $$ *[$$$$$ $$ $$$$$ $$$$$$$]* $$$ $$$$$$$ $$$$$$$$$."
+	},
+	"smoochBot.placeholderInvalidFormat": {
+		"string": "❌$$$$$, $$ $$$'$ $$$$$$ $$$$ $$$$ $$ $$$$$$$ $$$ $$$$$$$$$$$$ $$ $$$$ $$$$. $$ $$$ $$$$$$ $$$$ $$$$$$, $$$$$$, $$$$$, $$$$ $$$$$$$$, $$$ $$$$$$ $$$$$$$$ $$$$$$$$."
+	},
+	"smoochBot.placeholderMainMenu": {
+		"string": "📌*$$$$ $$$$* *$$$$$ 1* ($$ 🔍) $$ $$$$$$ $ $$$$$$$ $$$ $ $$$$-$$$$$ $$$$$ $$ $$$$$$$, $$$$$, $$$$$, $$ $$$$$ $$$$$$$. *$$$$$ 2* ($$ 🦠) $$ $$$ $$$ $$$$$$ $$$$$$$$$$$ $$$$$ $$$$$$$$$$$ $$$$$$$ ($$$$$-19)"
+	},
+	"smoochBot.placeholderOptionNotAvailable": {
+		"string": "🤖$'$ $$$$$, $ $$$$'$ $$$$$$$$$$ $$$$ $$$$$$$. $$$$$$ $$$ $$$$$!"
+	},
+	"smoochBot.placeholderQueryPrompt": {
+		"string": "*$$$$$$ $$$$$ $$$ $$$$$$$$, $$$$, $$$$$$$, $$$$$ $$ $$$$$ $$$$ $$$ $$$$ $$$$-$$$$$$$,* $$$$$$$$ $$ $$$ $$$$$$$ $$$$$$$ $$ $$$$ $$$$. $$$$ $$$$$$$ $$$$ $$ $$$$ $$ $$$$-$$$$$$$$ $$$$$ 15 $$$$$$$ $$$$$ $$$$ $$$$ $$$$$$$. *$$$$$ 0 ($$ 📌)* $$ $$$$$$ $$$ $$ $$$$ $$ $$$ *$$$$ $$$$*"
+	},
+	"smoochBot.placeholderQueryReceived": {
+		"string": "$$$$$ $$$! $$$$ $$$$$$$ $$$ $$$$ $$$$$$$$. $$$$$$$$$ $$$ $$$$$ $$$$$$$$$$ $$$ $$$$$$, $$$ $$'$$ $$$$$$$ $$ $$$$-$$$$$$$$ $$$$ $$$$$$$$$. ✔️*$$$$$$ $$$$ $$$$ $$$ $$ $$$$$$$ $$$$ $$ $$$$$$ $$$$$$$$$ $$$$ $$ $$$$ $$$$-$$$$$$$:* [ $$$$ $$ $ $$$$ $$ $$$$-$$$$$$ $$ $$$$ $$$$$$$ ] 👉*$$$$$ $$$$ $$$ $$$$* $$ $$$ $$$$ $$ $$$ *$$$$ $$$$* 📌"
+	},
+	"smoochBot.placeholderReportUpdated": {
+		"string": "❗️$$$ $$$$-$$$$$ $$$$ $$ $$$$ $$ $$$ $$$ $$$$ *$$$$$$$* $$$$ $$$ $$$$$$$$$$$:"
+	},
+	"smoochBot.placeholderSecondaryMenu": {
+		"string": "*$$$$$$$$$$$ $$$$$ $$$$$$$$$$$ $$$$$$$ ($$$$$-19)* 🦠 👉*$$$$$ $$$$ $$$ $$$ $$ $$$ $$$$$$$$$ $$$$$$$ ($$ $$$$$) $$ $$$ $$$$$$$$$$$ $$$$$ $$$$ $$$$$:* *1:* $$$ $$ $ $$$$$$$ $$$$$$ $$$/$$ $$ $$$$$$? 👨‍👩‍👧 *2:* $ $$$$$ $ $$$$$ $$ $$$$$$$ $$$$ 🤒 *3:* $$$ $$$ $ $$$$$$ $$$$$$ $$$$$$$$$$ $$$$ $$$$$-19? ❤️ *4:* $$$$$$$$$$$ $$$$$ $$$$$ $$$ $$$$$$$$$$ $$$$$$$$ 📊 *5:* $$$$$$ $$$$$$$ $$$$ $$$ $$$$$ $$$$$$ $$$$$$$$$$$$ 🌐 *$$$$$ 0* $$ $$$ $$$$ $$ $$$ *$$$$ $$$$* 📌"
+	},
+	"smoochBot.scenarios": {
+		"string": "$$$$$$$$$"
+	},
+	"smoochBot.settings": {
+		"string": "$$$$$$$$"
+	},
+	"smoochBot.title": {
+		"string": "$$$$$$ $$$$ $$$"
+	},
+	"smoochBot.tos": {
+		"string": "$$$$$ $$ $$$$$$$ ({language})"
+	},
+	"smoochBotComponent.contactUs": {
+		"string": "$$$$$$$ $$ $$ $$$$$"
+	},
+	"smoochBotComponent.install": {
+		"string": "$$$$$$$"
+	},
+	"smoochBotComponent.save": {
+		"string": "$$$$ $$$$$$$$"
+	},
+	"smoochBotComponent.savedSuccessfully": {
+		"string": "$$$$$$$ $$$$$$$$ $$$$$ $$$$$$$$$$$$",
+		"developer_comment": "$$$$$$ $$$$$$$$$ $$$$ $$$$$$$ $$$$$$$$ $$$ $$$$$ $$$$$$$$$$$$"
+	},
+	"smoochBotComponent.subtitle": {
+		"string": "$$$$$$ $$$$$$$$$ $$$$$$$$$$$$$$ $$$$ $$ $$$$$$$ $$$$$$$ $$$$ $$$$ $$$$$$$$."
+	},
+	"smoochBotComponent.title": {
+		"string": "$$$$$$$"
+	},
+	"smoochBotIntegrationButton.cancel": {
+		"string": "$$$$$$"
+	},
+	"smoochBotIntegrationButton.confirm": {
+		"string": "$$$$$$$"
+	},
+	"smoochBotIntegrationButton.confirmDisconnectText": {
+		"string": "$$$$$$$$$$$$$ $$$$ {platform} $$$$$$$ $$$$ $$$$$$$ $$$ $$$$ $$ $$$$$$$$ $$$$ $$$ $$$$$$$ $$$$$$$ $$$$ $$$$$$$.",
+		"developer_comment": "$$$$$$$$$$$ $$$$$$$$$ $$ $$$ $$$$$$$$$$$$ $$$$$ $$$$ $ $$$$$$$ $$$$$$$$$$$$$ $$$$$ $$ $$$$$$$$$$ $ $$$$$$$$ ($$$$$$$, $$$$$$$$, $$$.)."
+	},
+	"smoochBotIntegrationButton.confirmDisconnectTextPermanent": {
+		"string": "$$$$$$$! $$$$$$$$$$$$$ $ $$$$$$$$ $$$$$$ $$ $$$$$$$$$. $$$ $$$$ $$$ $$ $$$$ $$ $$$$$$$$$ $$ $$$$$ $$ $$ $$$$$$$$$$$$.",
+		"developer_comment": "$$$$$$$$$$$ $$$$$$$$$ $$ $$$ $$$$$$$$$$$$ $$$$$ $$$$ $ $$$$$$$ $$$$$$$$$$$$$ $$$$$ $$ $$$$$$$$$$ $ $$$$$$$$ $$$$$$."
+	},
+	"smoochBotIntegrationButton.confirmDisconnectTitle": {
+		"string": "$$$$$$$$$$ {platform} $$$$$$$",
+		"developer_comment": "$$$$$ $$ $$$ $$$$$$$$$$$$ $$$$$ $$$$$$$$$ $$$$ $ $$$$$$$ $$$$$$$$$$$$$ $$$$$ $$ $$$$$$$$$$ $$$$ $$$$$$$$ $$$$$$$$ ($$$$$$$, $$$$$$$$, $$$.)."
+	},
+	"smoochBotIntegrationButton.confirmationMessage": {
+		"string": "$$$$$$$$$$ {platform}",
+		"developer_comment": "\"$$$$$$$$$$\" $$$$ $$ $$ $$$$$$$$$$ $$$$... $$$$ $$ $$$$ $$$ $$$$ $$$$$ $$ $$$$ $$ $ $$$$$ $$ $$$$$ $$ $$$$$$$ $$$ $$$$$$$$$$$$$ $$ $ $$$$$$$$ ($$$$$$$, $$$$$$$$, $$$.) $$$$ $$$ $$$$$$$."
+	},
+	"smoochBotIntegrationButton.confirmationMessagePermanent": {
+		"string": "$$$$$$$$$$ {platform} $$$$$$$$$$$",
+		"developer_comment": "\"$$$$$$$$$$\" $$$$ $$ $$ $$$$$$$$$$ $$$$... $$$$ $$ $$$$ $$$ $$$$ $$$$$ $$ $$$$ $$ $ $$$$$ $$ $$$$$ $$ $$$$$$$ $$$ $$$$$$$$$$$$$ $$ $ $$$$$$$$ ($$$$$$$, $$$$$$$$, $$$.) $$$$ $$$ $$$$$$$."
+	},
+	"smoochBotIntegrationButton.connect": {
+		"string": "$$$$$$$"
+	},
+	"smoochBotIntegrationButton.connectTipline": {
+		"string": "$$$$$$$ $$ {platform} $$$$$$$"
+	},
+	"smoochBotIntegrationButton.defaultErrorMessage": {
+		"string": "$$$$$$$$$ $$$$ $$$$$"
+	},
+	"smoochBotIntegrationButton.disclaimer": {
+		"string": "$$ $$$'$ $$$$$ $$$$ $$$$$$$$$$$. $$$$ $$ $$$$ $$$$ $$ $$$$$$$$$ $$$ $$$$$$$$$$$."
+	},
+	"smoochBotIntegrationButton.disclaimerForUrl": {
+		"string": "$$$$$$ $$$$$$$$$$, $$$$ $$$$ $$$$ $$$ $$$ $$$$$$ $$ $$$ {platform} $$$$$$$ $$$ $$$$ $$ $$$$$$$ $$ $$$ $$$$$$$.",
+		"developer_comment": "$$$ $$$$$$$$ $$$$ $$$ $$ $$$$$$$, $$$$$$$$, $$$."
+	},
+	"smoochBotIntegrationButton.disconnect": {
+		"string": "$$$$$$$$$$ $$$$ $$$$ $$$$$$$"
+	},
+	"smoochBotIntegrationButton.online": {
+		"string": "$$$$$$"
+	},
+	"smoochBotIntegrationButton.readyToConnect": {
+		"string": "$'$ $$$$$ $$ $$$$$$$"
+	},
+	"smoochBotIntegrationButton.savedSuccessfully": {
+		"string": "$$$$"
+	},
+	"smoochBotIntegrationButton.status": {
+		"string": "$$$$$$: $$$$$$"
+	},
+	"smoochBotIntegrationButton.tipline": {
+		"string": "{platform} $$$$$$$"
+	},
+	"smoochBotIntegrations.account": {
+		"string": "$$$$$$$$$ $$$$$$$: {link}"
+	},
+	"smoochBotIntegrations.lineChannelAccessToken": {
+		"string": "$$$$ $$$$$$$ $$$$$$ $$$$$"
+	},
+	"smoochBotIntegrations.lineChannelSecret": {
+		"string": "$$$$ $$$$$$$ $$$$$$"
+	},
+	"smoochBotIntegrations.lineWebhook": {
+		"string": "$$$$ $$$$ $$$$$$$ $$$ $$ $$$$ $$$$ $$$$$$$$"
+	},
+	"smoochBotIntegrations.page": {
+		"string": "$$$$$$$$$ $$$$: {link}"
+	},
+	"smoochBotIntegrations.phoneNumber": {
+		"string": "$$$$$$$$$ $$$$$ $$$$$$: {link}"
+	},
+	"smoochBotIntegrations.telegramBot": {
+		"string": "$$$$$$$$$ $$$$$$$$ $$$: {link}"
+	},
+	"smoochBotIntegrations.telegramBotToken": {
+		"string": "$$$$$$$$ $$$ $$$$$"
+	},
+	"smoochBotIntegrations.title": {
+		"string": "$$$$$$$$$ $$$$$$$$",
+		"developer_comment": "$$$$$ $$ $$$$$$$$ $$$ $$ $$$ $$$$$$$ $$$$$$$$ $$$$"
+	},
+	"smoochBotIntegrations.viberPublicAccount": {
+		"string": "$$$$$$$$$ $$$$$ $$$$$$ $$$$$$$: {name}"
+	},
+	"smoochBotIntegrations.viberPublicAccountToken": {
+		"string": "$$$$$ $$$$$$ $$$$$$$ $$$$$"
+	},
+	"smoochBotMenuEditor.scenario": {
+		"string": "$$$$$$$$"
+	},
+	"smoochBotMenuOption.action": {
+		"string": "$$$$$$$ $$$$"
+	},
+	"smoochBotMenuOption.add": {
+		"string": "$$$$$$ \"{resourceName}\""
+	},
+	"smoochBotMenuOption.condition": {
+		"string": "$$$ $$$$$$$$$ $$$$$$$ $$ $$$$$$$"
+	},
+	"smoochBotMenuOption.errorTos": {
+		"string": "'9' $$$$ $$$$$$$$ $$ $$$ $$$$$ $$ $$$$$$$. $$ $$$$$$ $$ $$$$ $$ $$ $$$$$$ $$ $$$ $$$$ $$$$."
+	},
+	"smoochBotMenuOption.if": {
+		"string": "$$"
+	},
+	"smoochBotMenuOption.languageAction": {
+		"string": "{languageName} ($$$$ $$$$)"
+	},
+	"smoochBotMenuOption.mainState": {
+		"string": "$$$$ $$$$"
+	},
+	"smoochBotMenuOption.queryState": {
+		"string": "$$$$$ $$$$$$"
+	},
+	"smoochBotMenuOption.resource": {
+		"string": "$$$$$$"
+	},
+	"smoochBotMenuOption.secondaryState": {
+		"string": "$$$$$$$$$ $$$$"
+	},
+	"smoochBotMenuOption.selectMessage": {
+		"string": "$$$$$$ $$$$$$$"
+	},
+	"smoochBotMenuOption.then": {
+		"string": "$$$$"
+	},
+	"smoochBotMultiTextEditor.errorNine": {
+		"string": "$$$ $$$$$$ '9' $$$$ $$ $$$$$$$$ $$$ $$$$$ $$ $$$$$$ $$$ $$$$$$$ $$$$$$$$$"
+	},
+	"smoochBotResourceEditor.addContent": {
+		"string": "$$$ $$$$$$$ $$$$$$$$"
+	},
+	"smoochBotResourceEditor.delete": {
+		"string": "$$$$$$"
+	},
+	"smoochBotResourceEditor.error": {
+		"string": "$$$$ $$$ $$$$ $$$ $$$$ $$ $$ $ $$$$$ $$$ $$$$"
+	},
+	"smoochBotResourceEditor.load": {
+		"string": "$$$$"
+	},
+	"smoochBotResourceEditor.numberOfArticles": {
+		"string": "$$$$$$ $$ $$$$$$$$ $$ $$$$$$"
+	},
+	"smoochBotResourceEditor.rss": {
+		"string": "$$$ $$$$$$$ $$$$ $$$ $$$$"
+	},
+	"smoochBotResourceEditor.rssPlaceholder": {
+		"string": "$$$$$$ $$$ $$$$ $$$$$$$ $ $$$$$$$$ $$ $$$ $$$$$$"
+	},
+	"smoochBotResourceEditor.title": {
+		"string": "$$$ $$$$$$$$ $$$$$"
+	},
+	"smoochBotResourceEditor.url": {
+		"string": "$$$"
+	},
+	"sortSelect.az": {
+		"string": "$ $$ $"
+	},
+	"sortSelect.lu": {
+		"string": "$$$$$ $$$$"
+	},
+	"sortSelect.mu": {
+		"string": "$$$$ $$$$"
+	},
+	"sortSelect.nf": {
+		"string": "$$$$$$ $$$$$"
+	},
+	"sortSelect.of": {
+		"string": "$$$$$$ $$$$$"
+	},
+	"sortSelect.za": {
+		"string": "$ $$ $"
+	},
+	"sourceInfo.addLink": {
+		"string": "$$$ $ $$$$$$$$$ $$$",
+		"developer_comment": "$$$$$ $$$$ $$ $$$$$$ $ $$$ $$$$ $$ $$$$$ $$$$$$"
+	},
+	"sourceInfo.addSecondaryLink": {
+		"string": "$$$ $ $$$$$$$$$ $$$",
+		"developer_comment": "$$$$$ $$$ $$$ $ $$$ $$$$$$ $$$$$$$$$ $$$"
+	},
+	"sourceInfo.createNew": {
+		"string": "$$$$$$ $$$",
+		"developer_comment": "$$$$$$ $ $$$ $$$$$ $$$$$$ $$$$$"
+	},
+	"sourceInfo.invalidLink": {
+		"string": "$$$$$$ $$$$$ $ $$$$$ $$$",
+		"developer_comment": "$$$$$ $$$$$$$ $$$ $$$$$$$ $$$$"
+	},
+	"sourceInfo.mainAccount": {
+		"string": "$$$$ $$$$$$ $$$",
+		"developer_comment": "$$$ $$$ $$$$$ $$$$$$$ $$$$$$$ $$ $$$$$ $$$$$"
+	},
+	"sourceInfo.mainName": {
+		"string": "$$$$ $$$$",
+		"developer_comment": "$$$$$$ $$$$"
+	},
+	"sourceInfo.mediasCount": {
+		"string": "{mediasCount, plural, one {1 item} $$$$$ {# items}}",
+		"developer_comment": "$$$$ $$$$$$ $$$$$ $$$$$$"
+	},
+	"sourceInfo.primaryLink": {
+		"string": "$$$ $$$$ $$$$$$ $$$",
+		"developer_comment": "$$$$$ $$$$ $$ $$$ $ $$$$ $$$$$$ $$$"
+	},
+	"sourceInfo.saved": {
+		"string": "$$$$$ {ago}"
+	},
+	"sourceInfo.saving": {
+		"string": "$$$$$$…"
+	},
+	"sourceInfo.secondaryAccounts": {
+		"string": "$$$$$$$$$ $$$$$$ $$$$",
+		"developer_comment": "$$$$ $$$ $$$$$$ $$$$$$$$ $$$$$$ $$$$$ $$$$$$$"
+	},
+	"sourceInfo.sourceName": {
+		"string": "$$$ $$$$",
+		"developer_comment": "$$$$$ $$$ $$$$$$ $$$$$$ $$$$"
+	},
+	"statusListItem.confirmDefaultBody1": {
+		"string": "$$$$ $$$$ $$$$$$ $$$ $$$$$$$ $$$$$$$$ $$$$ {currentDefaultLanguage} $$ {newDefaultLanguage}."
+	},
+	"statusListItem.confirmDefaultBody2": {
+		"string": "{language} $$$$ $$$$$$ $$$ $$$$$$$ $$$$$$$$ $$ $$$$$$$ $$ $$$$$ $$ $$$ $$$$$$$ $$$, $$$$$$ $$ $$$$$$ $$ $$$$ $$$$$$$$ $$$$ $$$ $$$ $$ $$$ $$$$$$$$ $$$ $$ $$$$ $$$$, $$ $$ $$$$$ $$ $$$ $ $$$$$$$$$$$ $$$$$$$$$ $$$ $$$$ $$$$$$$$."
+	},
+	"statusListItem.confirmDefaultButton": {
+		"string": "$$$ {language} $$ $$$$$$$"
+	},
+	"statusListItem.confirmDefaultTitle": {
+		"string": "$$ $$$ $$$$ $$ $$$ $$$ $$$$$$$ $$$$$$$$ $$ {language}?"
+	},
+	"statusListItem.confirmDeleteBody1": {
+		"string": "$$$ $$$$$$$ $$ {language} $$$ $$$ '$$$$$$$', '$$$$$$$$' $$$ '$$$$$$' $$$$ $$$$ $$ $$$$$$$ $$$$$$$$$$$.",
+		"developer_comment": "$$$$$$$ $$$$$ $$$$$$$ $$$$$ $$$$ $$$$$ $$$$$$$$ $ $$$$$$$$"
+	},
+	"statusListItem.confirmDeleteBody2": {
+		"string": "$$$$$ $$$$ $$$$$$$ $$$$ $$$$$$$ $$ $$$ $$$$$$$ $$$$$$$$ {language} $$$$$$$."
+	},
+	"statusListItem.confirmDeleteDefaultBody": {
+		"string": "$$$ $$$$$$ $$$$$$ $$$ $$$$$$$ $$$$$$$$. $$$ $$$$ $$$ $ $$$$$$$$$ $$$$$$$ $$$$$$$$ $$$$$$ $$$ $$$ $$$$$$ {language}.",
+		"developer_comment": "$$$$$$$ $$$$$$$ $$$$ $$ $$$ $ $$$ $$$$$$$ $$$$$$$$ $$$$$$ $$$$$$$$ $$$ $$$$$$$ $$$"
+	},
+	"statusListItem.confirmDeleteDefaultLabel": {
+		"string": "$$ $$$$ $$$ $$$$$$"
+	},
+	"statusListItem.confirmDeleteDefaultTitle": {
+		"string": "$$$ $$$$ $$$$$ $$$$$$ $$$ $$$$$$$ $$$$$$$$"
+	},
+	"statusListItem.confirmDeleteLabel": {
+		"string": "$$$$$$ $$$$$$$$ $$$ $$$ $$$$$$$"
+	},
+	"statusListItem.confirmDeleteTitle": {
+		"string": "$$ $$$ $$$$ $$ $$$$$$ $$$$ $$$$$$$ $$$$$$$$?"
+	},
+	"statusListItem.default": {
+		"string": "{statusLabel} ($$$$$$$)"
+	},
+	"statusListItem.makeDefault": {
+		"string": "$$$$ $$$$$$$"
+	},
+	"statusListItem.noDescription": {
+		"string": "$$ $$$$$$$$$$$"
+	},
+	"statusListItem.translationNeededBody1": {
+		"string": "$$$ $$$ $$$$$$$$ $$$ $$$$$$$$$ $$$$$$$$$$ $$$$ {language}!"
+	},
+	"statusListItem.translationNeededBody2": {
+		"string": "$$$$$$ $$$ $$$ $$$$ {language} $$$ $$$$$$$ $$$$$$$$ $$$ $$$$ $$$$$ $$$$$$$$$ $$$ $$$$$$$$ $$$$$$$$ $$$$ {language} $$ $$$ $$$$$$$$ $$$$$$$$ $$$."
+	},
+	"statusListItem.translationNeededLabel": {
+		"string": "$$ $$$$ $$$ $$$$$$$$$ $$$$$$$$"
+	},
+	"statusListItem.translationNeededTitle": {
+		"string": "$$$ $$$$ $$ $$$$$$$$$ $$$ $$$$$$$$ $$$$ {language}"
+	},
+	"statusesComponent.blurbSecondary": {
+		"string": "$$$$$$$$$ $$$$$$$$ $$ $$$$$$$$$ $$$$$$$$$ $$ $$$$$ $$ $$$$$$$ $$$$ $$ $$$$$ $$$$$$$$$ $$ $$$$ $$$$ $$$$$$$$ $$$$$$$."
+	},
+	"statusesComponent.created": {
+		"string": "$$$$$$ $$$$$$$ $$$$$$$$$$$$"
+	},
+	"statusesComponent.deleted": {
+		"string": "$$$$$$ $$$$$$$ $$$$$$$$$$$$"
+	},
+	"statusesComponent.error": {
+		"string": "$$$$$, $$ $$$$$ $$$$$$$$ $$$$$ $$$$$$$$ $$$ $$$$$$$$. $$$$$$ $$$ $$$$$ $$$ $$$$$$$ {supportEmail} $$ $$$ $$$$$$$$$ $$$$$$$$."
+	},
+	"statusesComponent.moveItemsAndDelete": {
+		"string": "$$$$ $$$$$ $$$ $$$$$$ $$$$$$"
+	},
+	"statusesComponent.newStatus": {
+		"string": "$$$ $$$$$$"
+	},
+	"statusesComponent.saved": {
+		"string": "$$$$$$$$ $$$$$ $$$$$$$$$$$$"
+	},
+	"statusesComponent.subtitle": {
+		"string": "$$$ $$$$$$ $$$$$ $$ $$$$$$$ $$$$ $$$$$$$ $$$ $$$$ $$ $$$$$."
+	},
+	"statusesComponent.title": {
+		"string": "{languageName} $$$$$$$$",
+		"developer_comment": "$$$ $$$$ $$ $$$$ $$$$$$$$ $$ '$$$$$$$$ $$$$$$$ $$ $$$$$$$$ <languageName>'"
+	},
+	"switchTeams.cancelJoinRequest": {
+		"string": "$$$$$$"
+	},
+	"switchTeams.error": {
+		"string": "$$$$$, $$ $$$$$ $$$$$$$$ $$$$$ $$$$$$$$ $$$ $$$$$$$$$. $$$$$$ $$$ $$$$$ $$$ $$$$$$$ {supportEmail} $$ $$$ $$$$$$$$$ $$$$$$$$."
+	},
+	"switchTeams.joinRequestMessage": {
+		"string": "$$$ $$$$$$$$$ $$ $$$$"
+	},
+	"switchTeams.member": {
+		"string": "{membersCount, plural, one {# member} $$$$$ {# members}}"
+	},
+	"switchTeams.newTeamLink": {
+		"string": "$$$$$$"
+	},
+	"switchTeams.noTeams": {
+		"string": "$$$ $ $$$$$$ $$ $$$ $$$$$$$$$."
+	},
+	"tagInput.addTag": {
+		"string": "$$$ $$$"
+	},
+	"tagInput.error": {
+		"string": "$$$$$, $$ $$$$$ $$$$$$$$ $$$$$ $$$$$$$$ $$$ $$$. $$$$$$ $$$ $$$$$ $$$ $$$$$$$ {supportEmail} $$ $$$ $$$$$$$$$ $$$$$$$$."
+	},
+	"tagInput.search": {
+		"string": "$$$$$$ $$ $$$ $$$ $$$"
+	},
+	"tagMenu.create": {
+		"string": "+ $$$$$$ $$$$ $$$"
+	},
+	"tagMenu.notFound": {
+		"string": "$$ $$$$ $$$$$"
+	},
+	"tagMenu.submit": {
+		"string": "$$$",
+		"developer_comment": "$$$$, $$$$$$$$$$ $$$$. $$$$$$ $$ $$$$$$ $$$$$$ $$ $$$$$$$ $$ $$$$"
+	},
+	"tagMenu.tooltip": {
+		"string": "$$$$ $$$$"
+	},
+	"tagPicker.emptyTags": {
+		"string": "$$$$$ $$$ $$$$$$$$$ $$ $$$$ $$$ $$$$ $$$$$$$$$."
+	},
+	"tagPicker.tagNotFound": {
+		"string": "$$$ #{tag} $$$ $$$$$."
+	},
+	"task.answeredBy": {
+		"string": "$$$$$$$$$ $$ {byName}"
+	},
+	"task.assignOrUnassign": {
+		"string": "$$$$$$/$$$$$$$$"
+	},
+	"task.assignedTo": {
+		"string": "$$$$$$$$ $$ {name}"
+	},
+	"task.confirmDelete": {
+		"string": "$$$ $$$ $$$$ $$$ $$$$ $$ $$$$$$ $$$$ $$$$?"
+	},
+	"task.confirmDeleteResponse": {
+		"string": "$$$ $$$ $$$$ $$$ $$$$ $$ $$$$$$ $$$$ $$$$$$?"
+	},
+	"task.confirmDeleteResponseTitle": {
+		"string": "$$$$$$ $$$$$$?"
+	},
+	"task.confirmDeleteTitle": {
+		"string": "$$$$$$ $$$$?"
+	},
+	"task.delete": {
+		"string": "$$$$$$ $$$$"
+	},
+	"task.deleteResponse": {
+		"string": "$$$$$$ $$$$$$"
+	},
+	"task.edit": {
+		"string": "$$$$ $$$$"
+	},
+	"task.editAttribution": {
+		"string": "$$$$ $$$$$$$$$$$"
+	},
+	"task.editResponse": {
+		"string": "$$$$ $$$$$$"
+	},
+	"taskActions.tooltipMetadata": {
+		"string": "$$$$$$$$ $$$$$$$"
+	},
+	"taskActions.tooltipTask": {
+		"string": "$$$$ $$$$$$$"
+	},
+	"taskLog.bubbleTooltip": {
+		"string": "$$$$$$ $$$"
+	},
+	"taskTypeSelector.allTypes": {
+		"string": "$$$ $$$$$"
+	},
+	"taskTypeSelector.numTypes": {
+		"string": "{length, plural, one {# selected} $$$$$ {# selected}}",
+		"developer_comment": "$$$$$ $$$ $$$$$$ $$ $$$$$$$$ $$$$$"
+	},
+	"tasks.add": {
+		"string": "$$$$"
+	},
+	"tasks.addMetadata": {
+		"string": "$$$ $$$$$$$$"
+	},
+	"tasks.addTask": {
+		"string": "$$$ $$$$"
+	},
+	"tasks.answer": {
+		"string": "$$$$$$ $$$$"
+	},
+	"tasks.assign": {
+		"string": "$$$$$$"
+	},
+	"tasks.attributionSlogan": {
+		"string": "$$$ $$$ $$$$, \"{label}\""
+	},
+	"tasks.blankMetadata": {
+		"string": "$$ $$$$$$$$ $$$$$$"
+	},
+	"tasks.blankTasks": {
+		"string": "$$ $$$$$"
+	},
+	"tasks.cancelAdd": {
+		"string": "$$$$$$"
+	},
+	"tasks.cancelEdit": {
+		"string": "$$$$$$"
+	},
+	"tasks.chooseMultiple": {
+		"string": "$$$$$$$$ $$$$$$"
+	},
+	"tasks.chooseOne": {
+		"string": "$$$$$$ $$$$$$"
+	},
+	"tasks.datetime": {
+		"string": "$$$$ $$$ $$$$"
+	},
+	"tasks.description": {
+		"string": "$$$$$$$$$$$ ($$$$$$$$)"
+	},
+	"tasks.editAssignment": {
+		"string": "$$$$ $$$$$$$$$$"
+	},
+	"tasks.editAttribution": {
+		"string": "$$$$ $$$$$$$$$$$"
+	},
+	"tasks.fileUpload": {
+		"string": "$$$$ $$$$$$"
+	},
+	"tasks.geolocation": {
+		"string": "$$$$$$$$"
+	},
+	"tasks.goToSettings": {
+		"string": "$$ $$ $$$$$$$$"
+	},
+	"tasks.number": {
+		"string": "$$$$$$",
+		"developer_comment": "$$$$$ $$$ $ $$$$ $$$$ $$$$ $$$$$$$$ $ $$$$$$$ $$$$$ $$ $$$$$$"
+	},
+	"tasks.shortAnswer": {
+		"string": "$$$$"
+	},
+	"tasks.showInBrowserExtension": {
+		"string": "$$$$ $$ $$$$$$$ $$$$$$$$$"
+	},
+	"tasks.showInProj": {
+		"string": "$$$$ $$$$$ $$"
+	},
+	"tasks.taskPrompt": {
+		"string": "$$$$$$"
+	},
+	"tasks.teamwideNudge": {
+		"string": "$$$$$$$ $$$$$"
+	},
+	"tasks.timezones": {
+		"string": "$$$$$$$$$ $$$$$$$$$ $$ $$$$$$$$ $$$ $$$$"
+	},
+	"teamBots.fail": {
+		"string": "$$$$$! $$$$$$ $$$ $$$$$."
+	},
+	"teamBots.noSettings": {
+		"string": "$$$$$ $$$ $$ $$$$$$$$ $$$ $$$$ $$$."
+	},
+	"teamBots.save": {
+		"string": "$$$$"
+	},
+	"teamBots.settings": {
+		"string": "$$$$$$$$"
+	},
+	"teamBots.success": {
+		"string": "$$$$$$$$ $$$$$$$!"
+	},
+	"teamDataComponent.formLinkText": {
+		"string": "$$$$ $$$$$ $$$$"
+	},
+	"teamDataComponent.notSet1": {
+		"string": "$$$$$ $$$ $$$$$$ $$$$$ $$ $$$$ $$$$ $$$$ $$$$$$ $$ $ $$$ $$$$$$."
+	},
+	"teamDataComponent.notSet2": {
+		"string": "$$ $$$$$$$ $$$ $$$$$$$$$$$$$ $$ $$$$ $$$$ $$$$$$, $$$$$$ $$$$$ $$$ $$ $$$$$$$."
+	},
+	"teamDataComponent.set1": {
+		"string": "$$$$ {thisShortForm} $$ $$$$$$$ $$$$$$ $$ $$$$ $$$$ $$$$$$."
+	},
+	"teamDataComponent.set2": {
+		"string": "$$$$ $$$$ $$$$$$ $$$$ $$ $$$$$$$ $$$$$$ $$$ $$$$$$$$ $$$."
+	},
+	"teamDataComponent.subtitle": {
+		"string": "$$$$$$$$ $$$$ $$$ $$$$$$$$ $$$$ $$$$$. $$$ $$$$$$$ $$$ $$$$$$$$ $$$$$ $$$$$$$$$ $$$ $$$$$$$ $$$$$."
+	},
+	"teamDataComponent.title": {
+		"string": "$$$$$$$$$ $$$$",
+		"developer_comment": "$$$$$$ $$$ $$$ $$$$$$ $$$$ $$$$ $$ $$$ $$$$$$$ $$$$"
+	},
+	"teamDataComponent.viewDataReport": {
+		"string": "$$$$ $$$$ $$$$$$"
+	},
+	"teamDetails.description": {
+		"string": "$$$$$$$$$$$"
+	},
+	"teamDetails.duplicateWorkspace": {
+		"string": "$$$$$$$$$ $$$$$$$$$"
+	},
+	"teamDetails.savedSuccessfully": {
+		"string": "$$$$$$$$$ $$$$$$$ $$$$$ $$$$$$$$$$$$"
+	},
+	"teamDetails.subtitle": {
+		"string": "$$$ $$$$$$$ $$ $$$$ $$$$$ $$$$$$$$$.",
+		"developer_comment": "$$$$$$$$ $$$ $$$$$$$ $$$$ $$ $$$$$$$ $$$$$$$$$"
+	},
+	"teamDetails.title": {
+		"string": "$$$$$$$$$ $$$$$$$",
+		"developer_comment": "$$$$$ $$$ $$$$$$$ $$$$ $$ $$$$$$$ $$$$$$$$$"
+	},
+	"teamDetails.update": {
+		"string": "$$$$$$"
+	},
+	"teamDetails.workspaceName": {
+		"string": "$$$$$$$$$ $$$$"
+	},
+	"teamIntegrations.subtitle": {
+		"string": "$$$$$ $$$$$ $$$$$ $$ $$$$$$$ $$$$$$$$$$$$."
+	},
+	"teamIntegrations.title": {
+		"string": "$$$$$$$$$$$$"
+	},
+	"teamListsColumn.none": {
+		"string": "$$$$ $$$$$$$$$",
+		"developer_comment": "$$$$$$$$$$$ $$$$ $$$$ $$$$$ $$$ $$ $$$$$$$ $$$$ $$$ $$$$$$$$$ $$$$ $$$ $$$$ $$ $$$$$$$$$$$ $$$$$ $$$$ $$$$ $$$$ $$ $$$$ $$ $$$$"
+	},
+	"teamListsComponent.buttonLabel": {
+		"string": "$$$$ $$$$$$$"
+	},
+	"teamListsComponent.confirmSaveText": {
+		"string": "$$$ $$$ $$$$? $$$$ $$$$$$$ $$$$ $$$$$$ $$$ $$$$$$$, $$$$$$$$$$$ $$$ $$$$$ $$$ $$ $$$$$$$ $$ $$$ $$$$$ $$ $$$$ $$$$$$$$$."
+	},
+	"teamListsComponent.confirmSaveTitle": {
+		"string": "$$$$$$$$$ $$$$$$$ $$$$$$"
+	},
+	"teamListsComponent.createMetadata": {
+		"string": "$$$$$$ $$$ $$$$$$$$ $$$$$"
+	},
+	"teamListsComponent.defaultErrorMessage": {
+		"string": "$$$$$ $$$ $$$$ $$$$$$ $$$$$$$$",
+		"developer_comment": "$$$$$$$ $$$$$$$$$ $$ $$ $$$$$ $$$$$$$$ $$$$ $$$$$$ $$$$$$ $$$$$$$$"
+	},
+	"teamListsComponent.description": {
+		"string": "$$$$$$ $$$ $$$ $$$$$$$ $$$ $$$$ $$ $$$$$$$ $$ $$$ $$$$ $$$$$$$, $$$$$$$$$$$ $$$ $$$$$.",
+		"developer_comment": "$$$$$$$$ $$$ $$$$$$ $$$$$$$$ $$$$, $$$$$ $$$$$ $$$ $$$$$$$$$ $$$ $$$$$$$$$$ $$ $$$$$$$ $$ $$$$$$$, $$$$$$$$$$$ $$$ $$$$$."
+	},
+	"teamListsComponent.displayedColumns": {
+		"string": "$$$$$$$$$ $$$$$$$"
+	},
+	"teamListsComponent.generalColumns": {
+		"string": "$$$$$$$"
+	},
+	"teamListsComponent.metadataColumns": {
+		"string": "$$$$$$$$"
+	},
+	"teamListsComponent.savedSuccessfully": {
+		"string": "$$$$$$ $$$$$$$$ $$$$$ $$$$$$$$$$$$",
+		"developer_comment": "$$$$$$ $$$$$$$$$ $$$$ $$$$$$ $$$$$$$$ $$$ $$$$$ $$$$$$$$$$$$"
+	},
+	"teamListsComponent.title": {
+		"string": "$$$$$$ $$$$$$$$",
+		"developer_comment": "$$$$$$ $$$ $$$$$$ $$$$$$$$ $$$$, $$$$$ $$$$$ $$$ $$$$$$$$$ $$$ $$$$$$$$$$ $$ $$$$$$$ $$ $$$$$$$, $$$$$$$$$$$ $$$ $$$$$."
+	},
+	"teamListsItem.general": {
+		"string": "$$$$$$$"
+	},
+	"teamListsItem.hide": {
+		"string": "$$$$"
+	},
+	"teamListsItem.metadata": {
+		"string": "$$$$$$$$"
+	},
+	"teamListsItem.show": {
+		"string": "$$$$"
+	},
+	"teamMemberActions.copiedToClipboard": {
+		"string": "$$$ $$$$$ $$$ $$$$ $$$$$$ $$ $$$ $$$$$$$$$"
+	},
+	"teamMemberActions.invitationCanceled": {
+		"string": "$$$$$$ $$$$$$$$!",
+		"developer_comment": "$$$$$$$ $$$$$$$$$$$$ $$$$$$$$$$ $$$$ $$$$$$$$$$ $$$ $$$$$$$$"
+	},
+	"teamMemberActions.invitationSent": {
+		"string": "$$$$$$ $$$$!",
+		"developer_comment": "$$$$$$$ $$$$$$$$$$$$ $$$$$$$$$$ $$$$ $$$$$$$$$$ $$$ $$$$ $$ $$$$"
+	},
+	"teamMemberActions.userRemoved": {
+		"string": "$$$ $$$$ $$$ $$$$ $$$$$$$"
+	},
+	"teamMembers.copyEmail": {
+		"string": "$$$$ $$$$$"
+	},
+	"teamMembers.invite": {
+		"string": "$$$$$$"
+	},
+	"teamMembers.pending": {
+		"string": "$$$$$$$",
+		"developer_comment": "$$$$$ $$$ $$$$$$ $$$$$$$ $$$$$$$$$$"
+	},
+	"teamMembers.remove": {
+		"string": "$$$$$$"
+	},
+	"teamMembers.removeDialogBody": {
+		"string": "{userLabel} $$$$ $$ $$$$$$ $$$$ $$$$$$ $$ {teamName}'$ $$$$$$$$$, $$$$$$$$$ $$$ $$$$$$$, $$$$$$$ $$$ $$$$$."
+	},
+	"teamMembers.removeDialogTitle": {
+		"string": "$$$$$$ {userLabel}"
+	},
+	"teamMembers.resendInvite": {
+		"string": "$$$$$$ $$$$$$"
+	},
+	"teamMembers.subtitle": {
+		"string": "$$$$$$ $$$ $$$$$$ $$$$$.",
+		"developer_comment": "$$$$$$$$ $$$ $$$$$$$$$ $$$$$$$ $$$$$$$$$$ $$$$"
+	},
+	"teamMembers.tableHeaderLastActive": {
+		"string": "$$$$ $$$$$$",
+		"developer_comment": "$$$$$$ $$$$$$ $$ $$$$$$$ $$$$$."
+	},
+	"teamMembers.tableHeaderName": {
+		"string": "$$$$",
+		"developer_comment": "$$$$$$ $$$$$$ $$ $$$$$$$ $$$$$."
+	},
+	"teamMembers.tableHeaderRole": {
+		"string": "$$$$$$$$$ $$$$$$$$$$",
+		"developer_comment": "$$$$$$ $$$$$$ $$ $$$$$$$ $$$$$."
+	},
+	"teamMembers.title": {
+		"string": "$$$$$$$",
+		"developer_comment": "$$$$$ $$$ $$$$$$$$$ $$$$$$$ $$$$$$$$$$ $$$$"
+	},
+	"teamMembers.tooltip": {
+		"string": "$$$$$$ $$$$$$"
+	},
+	"teamMenu.teamSettings": {
+		"string": "$$$$$$$$$ $$$$$$$$"
+	},
+	"teamMetadataRender.blankMetadata": {
+		"string": "$$ $$$$$$$$ $$$$$$",
+		"developer_comment": "$$$$ $$$ $$$$$ $$$$$$$$"
+	},
+	"teamMetadataRender.itemTitle": {
+		"string": "$$$$$$$$",
+		"developer_comment": "$$$$$ $$$ $$$$$$$$ $$$$$$$$ $$$$$$. $$$$$$ $$ $$$$$$$$ $$$$$$$ $$ $$$$$ $$$$$$$$$, $$$ $$$ $$$$$$$$ $$$$ $$ $$$$$."
+	},
+	"teamMetadataRender.metadataItemSubtitle": {
+		"string": "$$$ $$$$$$ $$$$$$$$ $$$$$$ $$ $$$$$.",
+		"developer_comment": "$$$$$$$$ $$$ $$$$$$$$ $$$$$$$$ $$$$$$ $$$$$$$ $$ $$$$$"
+	},
+	"teamMetadataRender.metadataSourceSubtitle": {
+		"string": "$$$ $$$$$$ $$$$ $$$$$$ $$ $$$ $$$$$$ $$$.",
+		"developer_comment": "$$$$$$$$ $$$ $$$$$$$$ $$$$$$$$ $$$$$$ $$$$$$$ $$ $$$$$$$"
+	},
+	"teamMetadataRender.sourceTitle": {
+		"string": "$$$$$$ $$$$$$$$",
+		"developer_comment": "$$$$$ $$$ $$$$$$$$ $$$$$$$$ $$$$$$. $$$$$$ $$ $$$$$$$$ $$$$$$$ $$ $$$$$$$ $$$$$$$$$, $$$ $$$ $$$$$$$$ $$$$$$ $$ $$$$$$$."
+	},
+	"teamReportComponent.defaultErrorMessage": {
+		"string": "$$$$$ $$$ $$$$ $$$$$$ $$$$$$$$",
+		"developer_comment": "$$$$$$$ $$$$$$$$$ $$ $$ $$$$$ $$$$$$$$ $$$$ $$$$$$ $$$$$$ $$$$$$$$"
+	},
+	"teamReportComponent.facebook": {
+		"string": "$$$$$$$$ $$$$ $$$$"
+	},
+	"teamReportComponent.introduction": {
+		"string": "$$$$$$$$$$$$"
+	},
+	"teamReportComponent.introductionSub": {
+		"string": "$$$ {query_date} $$$$$$$$$$$ $$ $$$$$$$ $$$ $$$$ $$ $$$ $$$$$$$$ $$$$$. $$$ {status} $$ $$$$$$$$$$$ $$$ $$$$$$ $$ $$$ $$$$$$$."
+	},
+	"teamReportComponent.line": {
+		"string": "$$$$ $$$$$$$"
+	},
+	"teamReportComponent.save": {
+		"string": "$$$$"
+	},
+	"teamReportComponent.savedSuccessfully": {
+		"string": "$$$$$$ $$$$$$$$ $$$$$ $$$$$$$$$$$$",
+		"developer_comment": "$$$$$$ $$$$$$$$$ $$$$ $$$$$$ $$$$$$$$ $$$ $$$$$ $$$$$$$$$$$$"
+	},
+	"teamReportComponent.signature": {
+		"string": "$$$$$$$$$"
+	},
+	"teamReportComponent.signatureLabel": {
+		"string": "$$$$$$$$$ ({max} $$$$$$$$$$ $$$)",
+		"developer_comment": "$$$$$ $$$ $$$$$$$$$ $$$$$ $$ $$$$$$ $$$$$$$$"
+	},
+	"teamReportComponent.subtitle": {
+		"string": "$$$ $$$$$$$ $$$ $$$ $$$$ $$$ $$ $$$$$$ $$ $$$$ $$$$$$$$$$ $$$$$$."
+	},
+	"teamReportComponent.telegram": {
+		"string": "$$$$$$$$ $$$ $$$$$$$$"
+	},
+	"teamReportComponent.title": {
+		"string": "$$$$$$$ $$$$$$ $$$$$$$$"
+	},
+	"teamReportComponent.twitter": {
+		"string": "$$$$$$$ $$$$$$$ $$$$"
+	},
+	"teamReportComponent.url": {
+		"string": "$$$$$$$ $$$"
+	},
+	"teamReportComponent.urlLabel": {
+		"string": "$$$$$ $$$ ({max} $$$$$$$$$$ $$$)",
+		"developer_comment": "$$$$$ $$$ $$$ $$$$$ $$ $$$$$$ $$$$$$$$"
+	},
+	"teamReportComponent.viber": {
+		"string": "$$$$$ $$$$$$ $$$$$$$ $$$"
+	},
+	"teamReportComponent.whatsapp": {
+		"string": "$$$$$$$$ $$$$$$"
+	},
+	"teamSettings.Tags": {
+		"string": "$$$$"
+	},
+	"teamSettings.data": {
+		"string": "$$$$"
+	},
+	"teamSettings.details": {
+		"string": "$$$$$$$$$ $$$$$$$"
+	},
+	"teamSettings.integrations": {
+		"string": "$$$$$$$$$$$$"
+	},
+	"teamSettings.languages": {
+		"string": "$$$$$$$$$"
+	},
+	"teamSettings.lists": {
+		"string": "$$$$$$$"
+	},
+	"teamSettings.members": {
+		"string": "$$$$$$$"
+	},
+	"teamSettings.metadata": {
+		"string": "$$$$$$$$"
+	},
+	"teamSettings.report": {
+		"string": "$$$$$$"
+	},
+	"teamSettings.rules": {
+		"string": "$$$$$"
+	},
+	"teamSettings.similarity": {
+		"string": "$$$$$$$$$$"
+	},
+	"teamSettings.statuses": {
+		"string": "$$$$$$$$"
+	},
+	"teamSettings.tasks": {
+		"string": "$$$$$"
+	},
+	"teamSettings.tipline": {
+		"string": "$$$$$$$"
+	},
+	"teamTags.addTag": {
+		"string": "$$$ $$$"
+	},
+	"teamTags.confirmDeleteBody": {
+		"string": "{numTags, plural, one {The tag \"{tag}\" $$$$ $$ $$$$$$$ $$$$ $$$ $$$$.} $$$$$ {The tag \"{tag}\" $$$$ $$ $$$$$$$ $$$$ # $$$$$.}}"
+	},
+	"teamTags.confirmDeleteLabel": {
+		"string": "$$$$$$ $$$"
+	},
+	"teamTags.confirmDeleteTitle": {
+		"string": "$$ $$$ $$$$ $$ $$$$$$ $$$$ $$$?"
+	},
+	"teamTags.counter": {
+		"string": "{total, plural, =0 {No tags} $$$ {1 tag ({hidden} $$$$$$ $$ $$$$$$$)} $$$$$ {# tags ({hidden} $$$$$$ $$ $$$$$$$)}}"
+	},
+	"teamTags.counterNoHidden": {
+		"string": "{total, plural, =0 {No tags} $$$ {1 tag} $$$$$ {# tags}}"
+	},
+	"teamTags.deleteTag": {
+		"string": "$$$$$$ $$$"
+	},
+	"teamTags.description": {
+		"string": "$$$$ $$$ $$ $$$$$ $$ $$$$$, $$$$$ $$$ $$$$$$$."
+	},
+	"teamTags.editTag": {
+		"string": "$$$$ $$$"
+	},
+	"teamTags.fail": {
+		"string": "$$$$$, $$ $$$$$ $$$$$$$$ $$$$$ $$$$$$$$ $$$ $$$. $$$$$$ $$$ $$$$$ $$$ $$$$$$$ {supportEmail} $$ $$$ $$$$$$$$$ $$$$$$$$."
+	},
+	"teamTags.failDelete": {
+		"string": "$$$$$, $$ $$$$$ $$$$$$$$ $$$$$ $$$$$$$$ $$$ $$$. $$$$$$ $$$ $$$$$ $$$ $$$$$$$ {supportEmail} $$ $$$ $$$$$$$$$ $$$$$$$$."
+	},
+	"teamTags.failMove": {
+		"string": "$$$$$, $$ $$$$$ $$$$$$$$ $$$$$ $$$$$$$$ $$$ $$$. $$$$$$ $$$ $$$$$ $$$ $$$$$$$ {supportEmail} $$ $$$ $$$$$$$$$ $$$$$$$$."
+	},
+	"teamTags.failUpdate": {
+		"string": "$$$$$, $$ $$$$$ $$$$$$$$ $$$$$ $$$$$$$$ $$$ $$$. $$$$$$ $$$ $$$$$ $$$ $$$$$$$ {supportEmail} $$ $$$ $$$$$$$$$ $$$$$$$$."
+	},
+	"teamTags.itemsCount": {
+		"string": "{count, plural, =0 {no items} $$$ {1 item} $$$$$ {# items}}"
+	},
+	"teamTags.menuTooltip": {
+		"string": "$$$ $$$$$$$"
+	},
+	"teamTags.new": {
+		"string": "$$$ $$$"
+	},
+	"teamTags.newTag": {
+		"string": "$$$ $$$"
+	},
+	"teamTags.noTags": {
+		"string": "$$ $$$$"
+	},
+	"teamTags.title": {
+		"string": "$$$$"
+	},
+	"teamTags.tooltip": {
+		"string": "$$$$$$ $$$ $$$$ $$$$$$"
+	},
+	"teamTagsActions.couldNotDelete": {
+		"string": "$$$$$ $$$ $$$$$$ $$$",
+		"developer_comment": "$$$$$ $$$$$$$ $$$$$$$$$ $$$$ $$'$ $$$ $$$$$$$$ $$ $$$$$$ $ $$$$ $$$"
+	},
+	"teamTagsActions.delete": {
+		"string": "$$$$$$"
+	},
+	"teamTagsActions.deletedSuccessfully": {
+		"string": "$$$ $$$$$$$ $$$$$$$$$$$$",
+		"developer_comment": "$$$$$$$ $$$$$$$$$ $$$$ $ $$$$ $$$ $$ $$$$$$$"
+	},
+	"teamTagsActions.edit": {
+		"string": "$$$$"
+	},
+	"teamTagsActions.remove": {
+		"string": "$$$$$$ $$$"
+	},
+	"teamTagsActions.removeDialogBody": {
+		"string": "$$$ \"{tag}\" $$$$ $$ $$$$$$$ $$$$ {count} $$$$$."
+	},
+	"teamTagsActions.removeDialogTitle": {
+		"string": "$$$$$$ $$$ \"{tag}\""
+	},
+	"teamTagsActions.tooltip": {
+		"string": "$$$$$$ $$$"
+	},
+	"teamTagsComponent.newTag": {
+		"string": "$$$ $$$"
+	},
+	"teamTagsComponent.tableHeaderName": {
+		"string": "$$$$",
+		"developer_comment": "$$$$$$ $$$$$$ $$ $$$$ $$$$$."
+	},
+	"teamTagsComponent.tableHeaderTagsCount": {
+		"string": "$$$$$",
+		"developer_comment": "$$$$$$ $$$$$$ $$ $$$$ $$$$$."
+	},
+	"teamTagsComponent.tableHeaderUpdatedAt": {
+		"string": "$$$$$$$",
+		"developer_comment": "$$$$$$ $$$$$$ $$ $$$$ $$$$$."
+	},
+	"teamTagsComponent.title": {
+		"string": "$$$$",
+		"developer_comment": "$$$$$ $$$ $$$ $$$$ $$$$$$$$ $$$$"
+	},
+	"teamTasks.cancelAction": {
+		"string": "$$$$$$"
+	},
+	"teamTasks.confirmAction": {
+		"string": "$$$"
+	},
+	"teamTasks.confirmDeleteBlurb": {
+		"string": "{itemsNumber, plural, one {The task {taskLabel} $$$ $$$$ $$$$$$$$$ $$ # $$$$.} $$$$$ {The task {taskLabel} $$$ $$$$ $$$$$$$$$ $$ # $$$$$.}}"
+	},
+	"teamTasks.confirmDeleteMetadataTitle": {
+		"string": "$$$ $$$ $$$$ $$$ $$$$ $$ $$$$$$ $$$$ $$$$$$$$?"
+	},
+	"teamTasks.confirmDeleteTaskTitle": {
+		"string": "$$$ $$$ $$$$ $$$ $$$$ $$ $$$$$$ $$$$ $$$$?"
+	},
+	"teamTasks.confirmDeletekeepCompleted": {
+		"string": "$$$$ $$$$ $$$$ $$$$ $$$$$$$ $$ $$$$$ $$$$$ $$$ $$$$ $$$ $$$$ $$$$$$$$$."
+	},
+	"teamTasks.confirmEditBlurb": {
+		"string": "$$$$$$$ $$$$ $$$$$ $$$$ $$ $$$$$$$$ $$ $ $$$$$$$$$$$ $$ $$$$$$$$ $$$$ $$$$$$, $$$$$$ $$$ $$$$$ $$$$ $$$$ $$$$$$$ $$$$ $$$$$$$$$."
+	},
+	"teamTasks.confirmEditMetadataTitle": {
+		"string": "$$$ $$$ $$$$ $$$ $$$$ $$ $$$$ $$$$ $$$$$$$$?"
+	},
+	"teamTasks.confirmEditTaskTitle": {
+		"string": "$$$ $$$ $$$$ $$$ $$$$ $$ $$$$ $$$$ $$$$?"
+	},
+	"teamTasks.confirmEditkeepCompleted": {
+		"string": "$$ $$$ $$$$$ $$$$$ $$$$ $$$$ $$$$ $$$$$$$$$, $$$ $$$$ $$$$$ $$$$$$$$ $$$$$$$."
+	},
+	"teamTasks.continue": {
+		"string": "$$$$ $$$$"
+	},
+	"teamTasks.delete": {
+		"string": "$$$$$$"
+	},
+	"teamTasks.deleteTask": {
+		"string": "$$$$$$ $$$$"
+	},
+	"teamTasks.edit": {
+		"string": "$$$$"
+	},
+	"teamTasks.filterLabel": {
+		"string": "{total, plural, =0 {No tasks} $$$ {1 task} $$$$$ {# tasks}}"
+	},
+	"teamTasks.filterLabelHidden": {
+		"string": "{total, plural, =0 {No tasks} $$$ {1 task ({hidden} $$$$$$ $$ $$$$$$$)} $$$$$ {# tasks ({hidden} $$$$$$ $$ $$$$$$$)}}"
+	},
+	"teamTasksRender.blank": {
+		"string": "$$ $$$$$$$ $$$$$ $$ $$$$$$$",
+		"developer_comment": "$$$$ $$$ $$$$$ $$$$$"
+	},
+	"teamTasksRender.filter": {
+		"string": "$$$$$$ $$$$$",
+		"developer_comment": "$$$$$$ $$$$$"
+	},
+	"teamTasksRender.projFilter": {
+		"string": "$$$$ $$$$$ $$",
+		"developer_comment": "$$$$$$ $$$$$ $$ $$$$$$$$"
+	},
+	"teamTasksRender.tasks": {
+		"string": "$$$$$",
+		"developer_comment": "$$$$$ $$$$$"
+	},
+	"teamTasksRender.tasksSubtitle": {
+		"string": "$$$ $$$$$$ $$$$$ $$ $$$$$.",
+		"developer_comment": "$$$$$ $$$$$$$$"
+	},
+	"teamTasksRender.typeFilter": {
+		"string": "$$$$ $$$$",
+		"developer_comment": "$$$$$$ $$$$$ $$ $$$$"
+	},
+	"teams.title": {
+		"string": "$$$$$$$$$$"
+	},
+	"teams.userTeams": {
+		"string": "{name}'$ $$$$$$$$$$"
+	},
+	"teams.yourTeams": {
+		"string": "$$$$$$$$$$"
+	},
+	"thresholdControl.matchingExplainer": {
+		"string": "$$ $$$ $$$$$$$$$$ $$$$$ $$ $$$$$ $$$$ $$$$$, $$$$$ $$$$ $$ $$$$$$$ $$$ $$$$$$$ $$$$$$$$$$$$$ $$$$ $$ $$$$$."
+	},
+	"thresholdControl.suggestionExplainer": {
+		"string": "$$ $$$ $$$$$$$$$$ $$$$$ $$ $$$$$ $$$$ $$$$$, $$$$$ $$$$ $$ $$$$$$$$$ $$ $$$$$$$."
+	},
+	"thresholdControl.suggestionGreaterThanMatchingError": {
+		"string": "$$$ $$$$$$$$$$ $$$$$$$$$ $$$$$$ $$ $$$$$$ $$$$ $$$ $$$$$$$$ $$$.",
+		"developer_comment": "$$$$$ $$$$$$$ $$$$$$$$$ $$$$ $$$$$$$$$$ $$$$$$$$$ $$ $$$ $$$$$$ $$$$ $$$$$ $$ $$$$$$$$ $$$$$$$$$"
+	},
+	"tiplineInbox.title": {
+		"string": "$$$$$$$ $$$$$"
+	},
+	"tos.title": {
+		"string": "$$$$$ $$ $$$$$$$"
+	},
+	"translateStatuses.continueAndSave": {
+		"string": "$$$$$$$$ $$$ $$$$"
+	},
+	"translateStatuses.message": {
+		"string": "$$$$$$$"
+	},
+	"translateStatuses.missingTranslations": {
+		"string": "$$$$$$$ $$$$$$$$$$$$"
+	},
+	"translateStatuses.missingTranslationsBody": {
+		"string": "$$$$ $$$$$$$$ $$$ $$$$$$$ $$$$$$$$$$$$. $$$$$ $$$ $$$ $$ $$$$ $$ $$$$ $$$$$$$$$$$$ $$$$$$$$."
+	},
+	"translateStatuses.missingTranslationsBody2": {
+		"string": "$$ $$$ $$$$$$$ $$$ $ $$$$$$ $$ $$$ $$$$$$$$$$ $$ $ $$$$$$$$, $$$ $$$$$$$$$ $$$$$ $$$$ $$$$$$$$ $$$$ $$$ $$$$$$$ $$$ $$$$$$$."
+	},
+	"translateStatuses.status": {
+		"string": "$$$$$$"
+	},
+	"trash.title": {
+		"string": "$$$$$"
+	},
+	"unconfirmed.title": {
+		"string": "$$$$$$$$$$$"
+	},
+	"uploadFile.audioMessage": {
+		"string": "$$$$ $$ $$$$$ $$$$ $$$$, $$ $$$$$ $$ $$$$$$ $ $$$$ ($$$ $$$$: {audio_max_size}, $$$$$$$ $$$$$$$$$$: {audio_extensions})"
+	},
+	"uploadFile.changeFile": {
+		"string": "{filename} ($$$$$ $$ $$$$ $$ $$$$$$)"
+	},
+	"uploadFile.fileMessage": {
+		"string": "$$$$ $ $$$$ $$$$, $$ $$$$$ $$ $$$$$$ $ $$$$ ($$$ $$$$: {file_max_size}, $$$$$$$ $$$$$$$$$$: {file_extensions})"
+	},
+	"uploadFile.fileTooLarge": {
+		"string": "$$$ $$$$ $$$$ $$$$$$ $$ $$$$ $$$$ {size}. $$$$$$ $$$ $$$$ $ $$$$$$$ $$$$."
+	},
+	"uploadFile.invalidExtension": {
+		"string": "$$$ $$$$ $$$$$$ $$$$ $$$$ \"{extension}\". $$$$$$ $$$ $$$$ $$$ $$$$$$$$$ $$$$ $$$$$: {allowed_types}."
+	},
+	"uploadFile.message": {
+		"string": "$$$$ $$ $$$$$ $$$$ $$$$, $$ $$$$$ $$ $$$$$$ $ $$$$ ($$$ $$$$: {upload_max_size}, $$$$$$$ $$$$$$$$$$: {upload_extensions}, $$$$$$$ $$$$$$$$$$ $$$$$$$ {upload_min_dimensions} $$$ {upload_max_dimensions} $$$$$$)"
+	},
+	"uploadFile.videoMessage": {
+		"string": "$$$$ $ $$$$$ $$$$ $$$$, $$ $$$$$ $$ $$$$$$ $ $$$$ ($$$ $$$$: {video_max_size}, $$$$$$$ $$$$$$$$$$: {video_extensions})"
+	},
+	"userAssignments.blank": {
+		"string": "$$ $$$$$$$$"
+	},
+	"userAssignments.filterByTeam": {
+		"string": "$$$$$$ $$ $$$$$$$$$"
+	},
+	"userComponent.teams": {
+		"string": "$$$$$$$$$$"
+	},
+	"userComponents.assignments": {
+		"string": "$$$$$$$$$$$"
+	},
+	"userComponents.privacy": {
+		"string": "$$$$$$$"
+	},
+	"userComponents.security": {
+		"string": "$$$$$$$$"
+	},
+	"userConfirmPage.signIn": {
+		"string": "$$$$ $$",
+		"developer_comment": "$$$$ $$ $$$$$$"
+	},
+	"userConfirmed.alreadyConfrimMessage": {
+		"string": "$$$$! $$$$ $$$$$$$ $$ $$$$$$$ $$$$$$$$$. $$$$$$ $$$$ $$ $$ $$$ $$$$$$$.",
+		"developer_comment": "$$$$$$$ $$$ $$$$ $$$ $$$$$$$ $$$$$$$$$ $$$$$$"
+	},
+	"userConfirmed.confrimMessage": {
+		"string": "$$$$$$ $$$ $$$$$$$$$$ $$$$ $$$$$ $$$$$$$! $$$ $$$ $$$ $$$$ $$.",
+		"developer_comment": "$$$$$$$ $$$ $$$$$$$$$ $$$$"
+	},
+	"userConfirmed.unConfrimMessage": {
+		"string": "$$$$$, $$ $$$$$ $$$$$$$$ $$$$$ $$$$$$$$$$ $$$$ $$$$$$$. $$$$$$ $$$ $$$$$ $$$ $$$$$$$ {supportEmail} $$ $$$ $$$$$$$$$ $$$$$$$$.",
+		"developer_comment": "$$$$$$$ $$$ $$$$$$$$$$$ $$$$$"
+	},
+	"userEmail.emailInputHint": {
+		"string": "$$$$$@$$$$$$$.$$$"
+	},
+	"userEmail.emailInputLabel": {
+		"string": "$$$$$"
+	},
+	"userEmail.skip": {
+		"string": "$$$$"
+	},
+	"userEmail.submit": {
+		"string": "$$$$$$"
+	},
+	"userEmail.text": {
+		"string": "$$ $$$$ $$$ $$$$$$$$$$$$$, $$ $$$$ $$$$ $$$$$ $$$$$$$. $$ $$$'$ $$$$ $$ $$$$$$$ $$$$$$$$$$$$$, $$$$$$ $$$$$ $$$$ $$$$$ $$$$$$$. $$$$$$$$$, $$$$$ \"$$$$\""
+	},
+	"userEmail.title": {
+		"string": "$$$ $$$$ $$$$$"
+	},
+	"userInfo.dateJoined": {
+		"string": "$$$$$$ {date}"
+	},
+	"userInfo.teamsCount": {
+		"string": "{teamsCount, plural, one {# workspace} $$$$$ {# workspaces}}"
+	},
+	"userInfoEdit.addLink": {
+		"string": "$$$ $$$$"
+	},
+	"userInfoEdit.addLinkHelper": {
+		"string": "$$$ $ $$$$ $$ $ $$$ $$$$ $$ $$$$$$ $$$$$ $$$$$$$. $$$$: $$$$ $$$$ $$$ $$$$$$ $$$$ $$$$$ $$$$$$."
+	},
+	"userInfoEdit.addLinkLabel": {
+		"string": "$$$ $ $$$$"
+	},
+	"userInfoEdit.editError": {
+		"string": "$$$$$, $$ $$$$$ $$$$$$$$ $$$$$ $$$$$$$$ $$$$ $$$$$$$. $$$$$$ $$$ $$$$$ $$$ $$$$$$$ {supportEmail} $$ $$$ $$$$$$$$$ $$$$$$$$."
+	},
+	"userInfoEdit.emailConfirmed": {
+		"string": "✔ $$$$$$$ $$$$$$$$$"
+	},
+	"userInfoEdit.emailPendingConfirm": {
+		"string": "⚠ $$$$$$$$$$$$ $$$$$$$"
+	},
+	"userInfoEdit.invalidLink": {
+		"string": "$$$$$$ $$$$$ $ $$$$$ $$$"
+	},
+	"userInfoEdit.nameError": {
+		"string": "$$$$ $$$'$ $$ $$$$$"
+	},
+	"userInfoEdit.sourceBio": {
+		"string": "$$$"
+	},
+	"userInfoEdit.sourceName": {
+		"string": "$$$$"
+	},
+	"userInfoEdit.userEmail": {
+		"string": "$$$$$"
+	},
+	"userInfoEdit.userSendEmailNotification": {
+		"string": "$$$$$$$ $$$$$ $$$$$$$$$$$$$"
+	},
+	"userPrivacy.connectedAccounts": {
+		"string": "$$$$$$$$$ $$$$$$$$"
+	},
+	"userPrivacy.delete": {
+		"string": "$$$$$$ $$$$ $$$$$$$"
+	},
+	"userPrivacy.deleteAccountButton": {
+		"string": "$$$$$$ $$ $$$$$$$"
+	},
+	"userPrivacy.deleteAccountConfirmationText": {
+		"string": "$$$ $$$ $$$$? $$$$ $$$$ $$$$$$ $$$$ $$$$$$$ $$$ $$$ $$$ $$$ $$ $$$ $$$."
+	},
+	"userPrivacy.deleteAccountText": {
+		"string": "$$ $$$ $$$$$$ $$$$ $$$$$$$, $$$$ $$$$$$$$ $$$$$$$$$$$ $$$$ $$ $$$$$$. $$$$$$$$, $$$$$$$$$$$, $$$ $$$$$$$$$ $$$$$$$$ $$$$ $$$$$$ $$$$$$$$$$$$ $$$ $$$$$$ $$ {appName}."
+	},
+	"userPrivacy.description": {
+		"string": "$$$$$$ $$$$$$ $$$ {ppLink} $$ $$$$$ $$$ {appName} $$$$ $$$ $$$$$$ $$$$ $$$$$$$$$$$."
+	},
+	"userPrivacy.ppLink": {
+		"string": "$$$$$$$ $$$$$$"
+	},
+	"userPrivacy.seeInformationButton": {
+		"string": "$$$ $$ $$$$$$$$$$$"
+	},
+	"userPrivacy.seeInformationText": {
+		"string": "$$ $$$$ $$$$ $$$ $ $$$$ $$$$ $$$ $$$$$$$ $$$ $$$$ $$$ $$$$$$$ $$$ $$$$$$$$$ $$ {appName}. $$$$ $$$ $$ $$$$ $$$ $$$$ $$$$$$$ $$ $$$$$$$$$$$ $$ $$$$$$$ $$$$$$$."
+	},
+	"userPrivacy.stopProcessingButton": {
+		"string": "$$$$$$$ $$ $$$$ $$$$$$$$$$"
+	},
+	"userPrivacy.stopProcessingText": {
+		"string": "$$$ $$$ $$$$$$$ {appName} $$ $$$$ $$$$$$$$$$ $$$$ $$$$$$$$$$$ $$$$$ $$$$$$$ $$$$$$$$$$."
+	},
+	"userPrivacy.title": {
+		"string": "$$$$ $$$$$$$$$$$"
+	},
+	"userSecurity.authenticateDescription": {
+		"string": "$$$$$ $$$$ $$$$$$$ $$$$$$$$ $$ $$$$$$$ $$$$ $$$$$$$$:"
+	},
+	"userSecurity.authenticateHeader": {
+		"string": "$$$$ 1: $$$$$$$$$$$$"
+	},
+	"userSecurity.backupDescription": {
+		"string": "$$ $$$$$$$$ $$$$$$$ $$$$ $$$ $$$$$$$$ $$$ $$$$$ $$$$$$ $$$$$ $$$$$ $$$ $$$$$$ $$$$$. $$$$$ $$$ $$$$$$-$$$ $$$$$ $$ $$ $$$$ $$$$$$$ $$ 2$$ $$$$$ $$ $$$ $$$$$ $$$$ $$$ $$$$ $$$$$$ $$ $$$$ 2$$ $$$$$$."
+	},
+	"userSecurity.backupHeader": {
+		"string": "$$$$ 4: $$$$$$ $$$$$"
+	},
+	"userSecurity.backupNote": {
+		"string": "$$$$: $$$$$$$$ $$$$$$ $$$$$ $$$$ $$ $$$$$$$$$$$ $$ $$$$$$$$ $$$$ $$$$$$."
+	},
+	"userSecurity.changePassword": {
+		"string": "$$$$$$ $$$$$$$$"
+	},
+	"userSecurity.disableAuthenticateDescription": {
+		"string": "$$$$$ $$$$ $$$$$$$$ $$ $$$$$$$ $$$-$$$$$$ $$$$$$$$$$$$$$:"
+	},
+	"userSecurity.disableTwofactor": {
+		"string": "$$$$$$$"
+	},
+	"userSecurity.downloadDescription": {
+		"string": "$$$'$$ $$$$ $ $$$-$$$$$$ $$$, $$$$ $$$$$$ $$$$$$$$$$$$$, $$ $$$$ $$$$$$$$$$ $$ $$$$$$$:"
+	},
+	"userSecurity.downloadHeader": {
+		"string": "$$$$ 2: $$$$$$$$"
+	},
+	"userSecurity.enableTwofactor": {
+		"string": "$$$$$$"
+	},
+	"userSecurity.failedfulLoginText": {
+		"string": "$$$$$$$ $ $$$$$$$$$$$$ $$$ {loginTrial} $$$$$$$$$$$ $$$$$$ $$$$$ $$$$$$$$"
+	},
+	"userSecurity.generateGackup": {
+		"string": "$$$$$$$$ $$$$$$ $$$$"
+	},
+	"userSecurity.notification": {
+		"string": "$$$$$$$$$$$$"
+	},
+	"userSecurity.qrcodeDescription": {
+		"string": "$$$$$ $$$$ $$$-$$$$$$ $$$, $$$$ $$$$ $$ $$$$:"
+	},
+	"userSecurity.qrcodeHeader": {
+		"string": "$$$$ 3: $$$$"
+	},
+	"userSecurity.requireTwoFactorAuth": {
+		"string": "$$$$$$$ $$$-$$$$$$ $$$$$$$$$$$$$$"
+	},
+	"userSecurity.successfulLoginText": {
+		"string": "$$$$$$$ $ $$$$$$$$$$$$ $$$ $$$$$$ $$$$ $ $$$ $$$$$$$$ $$ $$$$$$"
+	},
+	"userSecurity.suggestTwoFactorForSocialAccounts": {
+		"string": "$$ $$$$$ $$ $$$$$$ 2$$, $$$ $$$$ $$ $$$$$$ $ $$$$$$$$ $$ $$$$$. $$$$$$ $$ $$ $$ $$$ '$$$$$$ $$$$$$$$' $$$$$$$ $$$$$."
+	},
+	"userSecurity.twoFactorAuthentication": {
+		"string": "$$$ $$$$$$ $$$$$$$$$$$$$$"
+	},
+	"userSecurity.verifyDescription": {
+		"string": "$$ $$$$$$ $$$-$$$$$$ $$$$$$$$$$$$$$, $$$$$ $$$ 6-$$$$$ $$$$ $$$$ $$$$ $$$-$$$$$$ $$$:"
+	},
+	"userSecurity.verifyHeader": {
+		"string": "$$$$ 5: $$$$$$"
+	},
+	"userTooltip.dateJoined": {
+		"string": "$$$$$$ {date} • {teamsCount, plural, =0 {No workspaces} $$$ {1 workspace} $$$$$ {# workspaces}}"
+	},
+	"userTos.agreeTos": {
+		"string": "$ $$$$$ $$ $$$ $$$$$ $$ $$$$$$$."
+	},
+	"userTos.commGuidelines": {
+		"string": "$$ $$$ $$$$ $$$ $$$$ $$$$ $$$ {communityGuidelinesLink} $$$ $$$$$ {appName}."
+	},
+	"userTos.commGuidelinesLink": {
+		"string": "$$$$$$$$$ $$$$$$$$$$"
+	},
+	"userTos.disclaimer": {
+		"string": "$$$$$$ $$$$$$ $$$ {tosLink} $$$ $$$ {ppLink} $$$ $$$$$$$ $$ $$$ $$$$$$$$$:"
+	},
+	"userTos.disclaimerUpdate": {
+		"string": "$$'$$ $$$$$$$ $$$ {tosLink} $$$ $$$ {ppLink}. $$$$$$ $$$$$$ $$$ $$$$$$$ $$ $$$ $$$$$$$$$:"
+	},
+	"userTos.ppLink": {
+		"string": "$$$$$$$ $$$$$$"
+	},
+	"userTos.save": {
+		"string": "$$$$"
+	},
+	"userTos.termsLastUpdatedAt": {
+		"string": "$$$$ $$$$$$$ {lastUpdated}"
+	},
+	"userTos.title": {
+		"string": "$$$$$ $$ $$$$$$$ $$$ $$$$$$$ $$$$$$"
+	},
+	"userTos.titleUpdated": {
+		"string": "$$$$$$$ $$$$$ $$$ $$$$$$$ $$$$$$"
+	},
+	"userTos.tosLink": {
+		"string": "$$$$$ $$ $$$$$$$"
+	},
+	"userTos.validation": {
+		"string": "$$$ $$$$ $$$$$ $$ $$$ $$$$$ $$ $$$$$$$ $$$ $$$$$$$ $$$$$$"
+	},
+	"webPageMediaCard.Error": {
+		"string": "$$$$ $$$$ $$$$$ $$$ $$ $$$$$$$$$$. $$ $$$ $$$$ $$$$ $$$$$$$, $$ $$$ $$$$ $$ $$$$$$$ $$ $$$$$ $$$ $$$ $$$$$$ $$. $$$$$ $$$ $$$$ $$$$$ $$ $$$$$$$$ $$ $$."
+	}
+}
